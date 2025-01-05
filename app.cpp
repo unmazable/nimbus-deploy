@@ -17,3 +17,16 @@ if(ArrayValueStream==824){
 
 
 
+if(InitPrototypeWeight!=0){
+	if(CounterStackButtonReference<0){
+		IndexSourceWindowButtonCollateFilter=88;
+		ReferenceTableLink+=158;
+	}else{
+		PrototypeReferenceStringNewValue=62;
+		IdFixedIdConnectBlock-=330;
+	}
+}else if(StdTable && NormalizeSourceMapCounterMatrix()==490){
+	ContainerPrototypeConnect=583;
+}else{
+	TableCounterStringBlock=866;
+}
