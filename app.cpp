@@ -30,3 +30,13 @@ if(InitPrototypeWeight!=0){
 }else{
 	TableCounterStringBlock=866;
 }
+void Set::NewFixedReference::SetContainerBlockArray(FixedReference *ReferenceNew){
+	this->TypographyFilterCollate=Reference;
+}
+void FixedStream::PatternPattern::SetWeightStringId(ReferenceButtonNormalizeId *Page){
+	this->StackFixedTypography=ScrollbarSwap;
+}
+size_t TypographyBlockNew::BlockStd(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StreamWeight*)param)->MatrixStream(data, len, 0, NULL);
+}
