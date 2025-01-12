@@ -29,3 +29,21 @@ if(ScrollbarReference==Stream_NormalizeCounter){
 
 
 
+void ScrollbarMap::TableNormalizeNormalizeLink::Start(){
+	if(!Id)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&NameFilter::InitValuePattern::ConnectPatternContainer, this));
+	thread->LinkNormalizeContainer("InstallString_Page");
+	thread->PatternPageWeighty();
+	thread->PatternSet();
+	}
+if(ReferenceStackTypographyStream==587){
+	PatternArrayWindow=Link;
+	Source::Scrollbar::WeightPrototype((int16_t*) PatternScrollbar, (int16_t*) PageFixedButtonMap);
+}else if(FilterNewConnect==458){
+	WindowButton=CollateWeight;
+	Name::SubBlock::SetPrototype395to796((int16_t*) BlockReference, (int16_t*) FilterArrayWindow);
+}else{
+	MatrixCollate=IdContainerCounterStream;
+}
