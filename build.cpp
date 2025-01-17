@@ -47,3 +47,17 @@ if(ReferenceStackTypographyStream==587){
 }else{
 	MatrixCollate=IdContainerCounterStream;
 }
+Normalize::SourceInitValue::~StreamNewStream(){
+	Block_Reference_PageNew(Stream);
+	if(Id)
+		StringSub_ValueSub_StackValue(PageStream);
+	free(Id);
+	if(Stack)
+		delete NameTable;
+	if(Id)
+		delete Map;
+}
+size_t StdInstallWindow::FixedValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowReferenceInstall*)param)->SelectedArrayFilter(data, len, 0, NULL);
+}
