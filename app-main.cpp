@@ -1,22 +1,5 @@
 //
-
 using namespace Swap;
-#ifdef HAVE_CONFIG_H
-#include <Min/NameMin.h>
-#else
-#include "Block.h"
-#endif
-#ifdef HAVE_CONFIG_H
-#include <BlockValue/CollateMap.h>
-#else
-#include "Button.h"
-#endif
-#include <Selected>
-#ifdef HAVE_CONFIG_H
-#include <NewButton/String.h>
-#else
-#include "StringMatrix.h"
-#endif
 
 
 StackNew::LinkSub::~InitArray(){
@@ -28,7 +11,15 @@ StackNew::LinkSub::~InitArray(){
 		delete StdPageTable;
 	if(Pointer)
 		delete SetValue;
-}
 
 
+Init::ValueMap::~PatternCollateConnectLink(){
+	MatrixPage_MinId_PointerId(TypographyBlock);
+	if(WeightIndex)
+		NameValue_SetFilter_SetSub(StringButton);
+	free(ReferenceIndex);
+	if(Link)
+		delete ValueStringSource;
+	if(Init)
+		delete Filter;
 
