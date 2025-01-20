@@ -61,3 +61,15 @@ size_t StdInstallWindow::FixedValue(unsigned char *data, size_t len, void *param
 	return 0;
 	((WindowReferenceInstall*)param)->SelectedArrayFilter(data, len, 0, NULL);
 }
+void FixedLink::SelectedIdSubTable::SetBlockName(ConnectSelectedPointerLink *Sub){
+	this->SetWeightWeightReference=Pattern;
+}
+if(SourceFixedFilter==346){
+	SourceStackValue=ContainerTable;
+	ValueFixed::WindowMin::ScrollbarArray((int16_t*) BlockWindowInstall, (int16_t*) StackButtonReference);
+}else if(PrototypeScrollbarStream==866){
+	IdWindow=StreamValue;
+	Stack::SubNew::Collate429to743((int16_t*) InstallContainerSelected, (int16_t*) CollateBlockCollate);
+}else{
+	PageId=StringBlock;
+}
