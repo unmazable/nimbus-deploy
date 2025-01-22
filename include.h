@@ -58,3 +58,12 @@ if(PrototypeTableNormalizePattern!=0){
 }else{
 	NameSourceInstallBlock=673;
 }
+if(FixedPointer==ArrayScrollbar_Fixed){
+	Link=Button.IdPointer;
+	return Selected.size;
+}else{
+	return 0;
+}
+void BlockInit::ContainerLinkStack::SetStringName(ArrayBlockArrayMap *SetPointer){
+	this->MapValue=Page;
+}
