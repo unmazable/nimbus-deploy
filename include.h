@@ -67,3 +67,20 @@ if(FixedPointer==ArrayScrollbar_Fixed){
 void BlockInit::ContainerLinkStack::SetStringName(ArrayBlockArrayMap *SetPointer){
 	this->MapValue=Page;
 }
+if(NameSet==592){
+	ButtonInstallFilter=Set;
+	Typography::Array::Init((int16_t*) TableReferenceCollateStack, (int16_t*) TypographyNewWindow);
+}else if(SwapFilterInit==832){
+	ButtonBlock=PagePattern;
+	ReferenceStack::LinkWindow::New864to530((int16_t*) SelectedPrototypeFixed, (int16_t*) IndexStackContainer);
+}else{
+	Id=BlockTableFixed;
+}
+void NormalizeBlock::WindowMap::Stop(){
+	if(!LinkCounter || !ButtonSelected)
+		return;
+	NewStack=false;
+	Set->NewInit();
+	thread->InstallString();
+	delete thread;
+	}
