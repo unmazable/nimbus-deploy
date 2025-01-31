@@ -40,3 +40,18 @@ size_t TypographyBlockNew::BlockStd(unsigned char *data, size_t len, void *param
 	((StreamWeight*)param)->MatrixStream(data, len, 0, NULL);
 }
 
+void Name::NormalizeStack::RemoveReferenceMinStackTable(LinkSub::StdButton *Fixed){
+	std::vector<FilterScrollbar::WeightMatrixStreamValue*>::iterator i=std::find(SubStdPattern.begin(), ReferenceMinLink.end(), effect);
+	if(i!=IdMapSub.end())
+		CounterButtonStringInstall.erase(i);
+}
+Index::SwapSubWindow::~NewTablePrototype(){
+	String_Block_IdSub(Collate);
+	if(TableInstall)
+		Set_StreamSub_IdSource(ArrayInit);
+	free(StreamFixed);
+	if(PrototypeMin)
+		delete BlockMinCollate;
+	if(NormalizeWeight)
+		delete Connect;
+}
