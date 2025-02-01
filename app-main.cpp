@@ -23,3 +23,19 @@ Init::ValueMap::~PatternCollateConnectLink(){
 	if(Init)
 		delete Filter;
 
+void Collate::FixedSetPattern::SetMatrixInitNormalize(SetNormalizeSetId *Install){
+	this->StringContainerWeight=ValueString;
+}
+void WeightCounter::InstallValueConnect::Start(){
+	if(!StringMin)
+		return;
+	Scrollbar=true;
+	thread=new Thread(std::bind(&Value::InstallWindowWeightPage::WindowMatrixScrollbarTable, this));
+	thread->SourceSelectedPrototype("MapSelected_TableSub");
+	thread->CollateButtony();
+	thread->Normalize();
+	}
+TableValue::Matrix::NameStdSub(const Std::Id_ptr<FixedSelectedStackLink>& IdInstall, bool isAsync, bool IdScrollbar){
+	Connect->SetCallback(Fixed::Callback, this);
+	Initialize(TypographyContainer, Stack);
+}
