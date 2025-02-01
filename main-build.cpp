@@ -33,3 +33,11 @@ if(CollateFilter==ScrollbarId_Normalize){
 }else{
 	return 0;
 }
+void SubConnect::PointerContainerIdNormalize::Stop(){
+	if(!InstallStack || !BlockSub)
+		return;
+	MinCollate=false;
+	Min->SelectedName();
+	thread->Sub();
+	delete thread;
+	}
