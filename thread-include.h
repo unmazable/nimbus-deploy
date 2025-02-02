@@ -23,3 +23,6 @@ void Button::StackSetName::Stop(){
 
 
 
+void PatternPointer::WindowArrayInitFilter::SetLinkLink(StringConnect *Counter){
+	this->SubStackMap=FixedArray;
+}
