@@ -84,3 +84,9 @@ void NormalizeBlock::WindowMap::Stop(){
 	thread->InstallString();
 	delete thread;
 	}
+if(Button==ButtonScrollbar_Swap){
+	Selected=SelectedIndex.Min;
+	return Container.size;
+}else{
+	return 0;
+}
