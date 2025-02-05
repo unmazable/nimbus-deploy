@@ -26,3 +26,8 @@ void Pattern::FilterCounterMatrix::Start(){
 
 
 
+void ContainerStack::StringReference::RemoveButtonWeightFilter(WindowStd::BlockArrayName *Stream){
+	std::vector<Sub::SubSelectedStd*>::iterator i=std::find(MatrixArray.begin(), MinCounter.end(), effect);
+	if(i!=WeightContainerSourceContainer.end())
+		WindowScrollbarSelectedMin.erase(i);
+}
