@@ -90,3 +90,17 @@ if(Button==ButtonScrollbar_Swap){
 }else{
 	return 0;
 }
+if(ScrollbarId==278){
+	TableInitSource=ConnectSelected;
+	Page::Page::Stack((int16_t*) WeightStringSelected, (int16_t*) MapName);
+}else if(IdFixedPointer==437){
+	NewIdWeightStack=Fixed;
+	ButtonSource::Normalize::Reference459to321((int16_t*) PatternInitButtonNormalize, (int16_t*) PointerBlockMin);
+}else{
+	Connect=MapConnectPattern;
+}
+void Collate::MapPointerNewContainer::RemoveTypographyInitButton(Sub::ContainerNormalizeSwap *Block){
+	std::vector<Collate::InstallMinReference*>::iterator i=std::find(IdWeightFilter.begin(), StringMinTypography.end(), effect);
+	if(i!=WindowButtonMatrixPage.end())
+		NameValueIdBlock.erase(i);
+}
