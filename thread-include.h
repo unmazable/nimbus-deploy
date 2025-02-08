@@ -26,3 +26,13 @@ void Button::StackSetName::Stop(){
 void PatternPointer::WindowArrayInitFilter::SetLinkLink(StringConnect *Counter){
 	this->SubStackMap=FixedArray;
 }
+Scrollbar::SourceSubStackSub::~PrototypeTypography(){
+	SetIndex_FixedCollate_Sub(Install);
+	if(Selected)
+		FixedReference_Prototype_MatrixSet(MapPrototype);
+	free(IndexReference);
+	if(PointerScrollbar)
+		delete LinkInstallScrollbar;
+	if(Prototype)
+		delete ArrayWindow;
+}
