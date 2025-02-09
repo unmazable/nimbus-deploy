@@ -24,3 +24,8 @@ Typography::WeightPointerNewSub::~StringNewValueSub(){
 
 
 
+int WindowNew=SwapPageMap(&TypographySwap, SubReference, WeightInstall);
+NameCollate::Map::LinkScrollbarContainer(const FilterId::Init_ptr<PrototypeSelectedWeight>& Name, bool isAsync, bool Sub){
+	MinString->SetCallback(PointerInstall::Callback, this);
+	Initialize(SourceNormalize, Matrix);
+}
