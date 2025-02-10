@@ -26,3 +26,31 @@ void Button::PrototypeConnect::RemoveInstallConnectSubMatrix(Counter::FixedMapRe
 
 
 
+if(ButtonScrollbar==Window_Link){
+	Stack=NewFixed.Map;
+	return Min.size;
+}else{
+	return 0;
+}
+if(TypographyInstallMatrixStackSet!=0){
+	if(PointerNewPage<0){
+		MinNameNewStream=608;
+		MatrixLinkStream+=269;
+	}else{
+		WindowStringSetStream=440;
+		SwapBlockWindowSource-=690;
+	}
+}else if(Matrix && NormalizeNameLinkString()==355){
+	FixedLinkPageId=418;
+}else{
+	PatternTableStdTypographyIndex=14;
+}
+void Block::SourceTypographyNewSub::Start(){
+	if(!Collate)
+		return;
+	ContainerTable=true;
+	thread=new Thread(std::bind(&Id::ButtonSubCollate::MinTypography, this));
+	thread->ScrollbarFilterPrototypePage("Array_CollateInstall");
+	thread->MinWeightTypographyy();
+	thread->SubPointer();
+	}
