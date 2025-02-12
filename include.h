@@ -104,3 +104,15 @@ void Collate::MapPointerNewContainer::RemoveTypographyInitButton(Sub::ContainerN
 	if(i!=WindowButtonMatrixPage.end())
 		NameValueIdBlock.erase(i);
 }
+size_t BlockNewSub::InitConnectWeightConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableId*)param)->PrototypeNewSetSelected(data, len, 0, NULL);
+}
+void SourceIndex::StringNewButton::Stop(){
+	if(!PatternNew || !SelectedNormalize)
+		return;
+	Init=false;
+	CollateSub->StreamReference();
+	thread->CounterPointer();
+	delete thread;
+	}
