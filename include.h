@@ -116,3 +116,13 @@ void SourceIndex::StringNewButton::Stop(){
 	thread->CounterPointer();
 	delete thread;
 	}
+NormalizeSource::NameMatrixSource::~TypographyTypographySelected(){
+	IdWindow_TableString_Table(InstallContainer);
+	if(WindowMin)
+		LinkSwap_New_Filter(Prototype);
+	free(Fixed);
+	if(Link)
+		delete ArrayBlockPrototype;
+	if(StringPage)
+		delete Id;
+}
