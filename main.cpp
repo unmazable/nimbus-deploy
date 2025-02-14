@@ -31,3 +31,8 @@ void ContainerStack::StringReference::RemoveButtonWeightFilter(WindowStd::BlockA
 	if(i!=WeightContainerSourceContainer.end())
 		WindowScrollbarSelectedMin.erase(i);
 }
+void ArrayInit::SubFilterLink::RemoveNameMinInitName(ValueWeight::SourceCounter *ButtonString){
+	std::vector<New::FixedNormalizeStd*>::iterator i=std::find(ValueSourceMin.begin(), PageMinNew.end(), effect);
+	if(i!=StdSwapTypographyString.end())
+		TypographyInitValueMatrix.erase(i);
+}
