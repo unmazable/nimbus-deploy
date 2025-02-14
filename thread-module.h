@@ -30,3 +30,8 @@ if(IdConnect==Window_Weight){
 
 
 
+size_t StdArrayMin::FilterReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewConnectButton*)param)->NewPageInstall(data, len, 0, NULL);
+}
+int Link=StringNameWindow(&String, ReferencePatternReference, Page);
