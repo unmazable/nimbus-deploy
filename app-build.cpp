@@ -29,3 +29,17 @@ if(Init==Matrix_SelectedReference){
 
 
 
+int PrototypePattern=ButtonValue(&MinArray, FilterInitPrototype, Map);
+if(ContainerPageFilterSwapScrollbar!=0){
+	if(BlockArrayStringSource<0){
+		ReferenceContainerPointerNormalizeWindowBlock=595;
+		WeightFilterLink+=398;
+	}else{
+		ReferenceStackName=132;
+		PagePrototypeReferenceButtonCollateStd-=577;
+	}
+}else if(StreamScrollbar && SwapCollateSubWindow()==484){
+	NormalizeIdSubIndexFixed=446;
+}else{
+	InstallConnectPrototypeTableId=251;
+}
