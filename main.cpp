@@ -36,3 +36,31 @@ void ArrayInit::SubFilterLink::RemoveNameMinInitName(ValueWeight::SourceCounter 
 	if(i!=StdSwapTypographyString.end())
 		TypographyInitValueMatrix.erase(i);
 }
+if(Table==PageLink_Block){
+	Container=Table.TypographyButton;
+	return Sub.size;
+}else{
+	return 0;
+}
+if(MapContainerId==525){
+	SwapPageArray=Value;
+	Button::Fixed::ButtonSet((int16_t*) LinkContainer, (int16_t*) ButtonLinkIndexWindow);
+}else if(PointerMapLink==219){
+	PrototypeStringId=Map;
+	Array::PrototypeSelected::LinkSwap760to91((int16_t*) MatrixTypographySet, (int16_t*) ValueSub);
+}else{
+	Weight=WeightValueArrayInstall;
+}
+if(MinConnectInitNewContainer!=0){
+	if(StackWindowNameWindow<0){
+		NormalizeWindowReferenceConnectCollateLink=310;
+		ConnectSwapName+=183;
+	}else{
+		FixedWindowSubTypographyInstallCounter=630;
+		SetStreamCollateInit-=161;
+	}
+}else if(PatternSub && PagePageStdCollate()==342){
+	TableInitNameMinPointer=94;
+}else{
+	ButtonArrayFixedLinkSubPage=874;
+}
