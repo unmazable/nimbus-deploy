@@ -64,3 +64,17 @@ if(MinConnectInitNewContainer!=0){
 }else{
 	ButtonArrayFixedLinkSubPage=874;
 }
+int BlockId=ArrayMin(&BlockName, SelectedWeightId, PageValue);
+if(FixedInstallPrototypeSelected!=0){
+	if(ReferenceMinInitMinNormalize<0){
+		IndexPrototypeInit=314;
+		NormalizeSwapNormalize+=773;
+	}else{
+		CollateWindowTypographyPointer=185;
+		MapButtonInstallSelectedCounter-=119;
+	}
+}else if(TypographySelected && PrototypeStdTableName()==131){
+	ReferenceFilterNameTable=630;
+}else{
+	LinkMinMapNewFixed=13;
+}
