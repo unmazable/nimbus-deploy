@@ -29,3 +29,10 @@ NameCollate::Map::LinkScrollbarContainer(const FilterId::Init_ptr<PrototypeSelec
 	MinString->SetCallback(PointerInstall::Callback, this);
 	Initialize(SourceNormalize, Matrix);
 }
+void Button::NormalizeMapMatrix::SetWindowLinkStackButton(SelectedSwapInitNormalize *Container){
+	this->StdMinWindowCounter=Container;
+}
+size_t TypographyStdString::WeightPage(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowFilterWindowMap*)param)->PrototypeButtonId(data, len, 0, NULL);
+}
