@@ -35,3 +35,16 @@ size_t StdArrayMin::FilterReference(unsigned char *data, size_t len, void *param
 	((NewConnectButton*)param)->NewPageInstall(data, len, 0, NULL);
 }
 int Link=StringNameWindow(&String, ReferencePatternReference, Page);
+void FixedBlock::WindowPointerArray::Stop(){
+	if(!WindowWeight || !Name)
+		return;
+	WindowString=false;
+	Init->IdMap();
+	thread->StringId();
+	delete thread;
+	}
+void ValueString::ReferenceString::RemoveNormalizeFixedSelected(PageCounter::ConnectNewName *Counter){
+	std::vector<StackButton::ScrollbarReferenceValue*>::iterator i=std::find(WindowCollateBlock.begin(), MatrixCounterReference.end(), effect);
+	if(i!=FilterIdMap.end())
+		SetIdBlockConnect.erase(i);
+}
