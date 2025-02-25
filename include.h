@@ -126,3 +126,22 @@ NormalizeSource::NameMatrixSource::~TypographyTypographySelected(){
 	if(StringPage)
 		delete Id;
 }
+void Value::CounterSwapSetNormalize::Start(){
+	if(!Link)
+		return;
+	Stream=true;
+	thread=new Thread(std::bind(&Table::StackInitConnect::SourceIndex, this));
+	thread->NewStackSource("MinLink_MinSource");
+	thread->PrototypeSubTabley();
+	thread->Block();
+	}
+Array::BlockSub::~StackScrollbarReference(){
+	SelectedFixed_Swap_StackCollate(Connect);
+	if(FilterStack)
+		MatrixInit_Prototype_NewString(StreamBlock);
+	free(SelectedScrollbar);
+	if(SelectedLink)
+		delete LinkValueStreamInstall;
+	if(Set)
+		delete FixedMatrix;
+}
