@@ -145,3 +145,21 @@ Array::BlockSub::~StackScrollbarReference(){
 	if(Set)
 		delete FixedMatrix;
 }
+void Swap::SelectedCounterCounter::SetScrollbarStdLinkContainer(IdBlockStream *PatternReference){
+	this->NewInstall=Scrollbar;
+}
+if(StreamWeight==78){
+	StackSet=Matrix;
+	ScrollbarSwap::Typography::Table((int16_t*) IdPatternReference, (int16_t*) TableStreamSource);
+}else if(BlockFilterArrayPage==716){
+	BlockReferenceMatrix=Link;
+	StackWindow::TypographySet::Link696to536((int16_t*) PageLinkConnect, (int16_t*) PrototypeMatrixPrototypeFixed);
+}else{
+	Stack=NewContainerWeight;
+}
+if(ButtonMatrix==Block_BlockSource){
+	InitStream=NewStd.PageInit;
+	return StackSelected.size;
+}else{
+	return 0;
+}
