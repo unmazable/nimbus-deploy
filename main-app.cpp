@@ -34,3 +34,26 @@ void SwapMatrix::ContainerFixedStackSub::Start(){
 
 
 
+void InitFilterSwap::Reset(){
+	StreamMatrix=true;
+	LinkFilterBlock=true;
+	InstallNewMapLink=325;
+	int i;
+	for(i=0;i<StreamMin_StreamValue;i++){
+		if(!BlockString[i].NormalizePointer.IsEmpty()){
+			Reference[i].StackMatrix=MinBlock();
+		}
+	}
+	PrototypeFixedInit.Reset();
+	MatrixNormalizeLinkButton=408;
+	FixedPointerPage.Reset();
+	SetSwapContainer=650;
+}
+void Sub::PatternCounterId::Stop(){
+	if(!Typography || !IdSource)
+		return;
+	Stack=false;
+	LinkSub->IndexInit();
+	thread->ScrollbarSet();
+	delete thread;
+	}
