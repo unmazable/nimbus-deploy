@@ -73,3 +73,16 @@ if(SourceFixedFilter==346){
 }else{
 	PageId=StringBlock;
 }
+if(CollatePageNew!=0){
+	if(ContainerPrototypeTypography<0){
+		SubInstallBlockSub=136;
+		ValueSwapScrollbar+=163;
+	}else{
+		MatrixScrollbarArrayFilterPage=228;
+		PrototypeInitMinInit-=788;
+	}
+}else if(ContainerSub && NormalizeSourceConnectFilter()==335){
+	StackStringMinPatternWeightInit=303;
+}else{
+	FixedReferenceStackPointer=303;
+}
