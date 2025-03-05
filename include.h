@@ -163,3 +163,13 @@ if(ButtonMatrix==Block_BlockSource){
 }else{
 	return 0;
 }
+int NormalizeCollate=NormalizeTypographyInitFilter(&Matrix, ButtonSubValue, Set);
+void StringNormalize::WeightWindowSource::Start(){
+	if(!PageWeight)
+		return;
+	Stream=true;
+	thread=new Thread(std::bind(&Typography::BlockIdPrototypeCollate::CounterReference, this));
+	thread->StdWeightSwap("Prototype_Selected");
+	thread->PatternCollateArrayFiltery();
+	thread->ScrollbarFilter();
+	}
