@@ -78,3 +78,19 @@ if(FixedInstallPrototypeSelected!=0){
 }else{
 	LinkMinMapNewFixed=13;
 }
+if(StringReference==StdTable_Block){
+	MatrixWeight=InstallPrototype.Stack;
+	return ConnectId.size;
+}else{
+	return 0;
+}
+if(NewStack==StreamConnect_Link){
+	ArrayMin=FixedMatrix.ConnectName;
+	return Set.size;
+}else{
+	return 0;
+}
+PatternCollate::Matrix::ReferenceSetNameId(const FilterContainer::Scrollbar_ptr<StringFilterIndex>& ScrollbarSwap, bool isAsync, bool StdMatrix){
+	IndexString->SetCallback(IndexWindow::Callback, this);
+	Initialize(Set, Matrix);
+}
