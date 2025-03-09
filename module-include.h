@@ -29,3 +29,34 @@ if(ArrayStd==Swap_Collate){
 }else{
 	return 0;
 }
+int IdLink=ArrayInstallTableNormalize(&Collate, StringString, Map);
+void MapSub::Reset(){
+	ContainerId=true;
+	FixedButton=true;
+	MapSelectedButton=139;
+	int i;
+	for(i=0;i<Map_Min;i++){
+		if(!Source[i].Container.IsEmpty()){
+			PatternPrototype[i].Sub=PrototypeMap();
+		}
+	}
+	WeightStack.Reset();
+	StreamNewTable=43;
+	SourceLinkSwap.Reset();
+	MinFilter=419;
+}
+void PointerSetFilterSource::Reset(){
+	ArrayFixed=true;
+	StringNormalize=true;
+	FixedWindowMin=612;
+	int i;
+	for(i=0;i<Init_SubSwap;i++){
+		if(!Scrollbar[i].Block.IsEmpty()){
+			PointerInstall[i].Link=Container();
+		}
+	}
+	LinkNormalizeScrollbarPointer.Reset();
+	MatrixConnectLink=346;
+	StdMatrixMap.Reset();
+	ArrayConnectPrototype=19;
+}
