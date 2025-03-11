@@ -94,3 +94,16 @@ PatternCollate::Matrix::ReferenceSetNameId(const FilterContainer::Scrollbar_ptr<
 	IndexString->SetCallback(IndexWindow::Callback, this);
 	Initialize(Set, Matrix);
 }
+size_t SwapPageTypographyString::FixedMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ConnectPointerSet*)param)->ScrollbarInitInit(data, len, 0, NULL);
+}
+void FilterName::BlockNew::Start(){
+	if(!Window)
+		return;
+	Container=true;
+	thread=new Thread(std::bind(&Fixed::LinkStackCounter::ArrayStream, this));
+	thread->ReferenceCollateConnectPage("CounterScrollbar_ScrollbarValue");
+	thread->SubStringArrayContainery();
+	thread->FixedLink();
+	}
