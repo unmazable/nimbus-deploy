@@ -41,3 +41,21 @@ void SubConnect::PointerContainerIdNormalize::Stop(){
 	thread->Sub();
 	delete thread;
 	}
+void Id::PatternCounterPageCounter::Stop(){
+	if(!Fixed || !Pointer)
+		return;
+	Typography=false;
+	Link->MinMap();
+	thread->StreamPattern();
+	delete thread;
+	}
+Min::ScrollbarMatrixIndex::~NormalizeWeightInit(){
+	Min_WindowString_PointerStream(WindowArray);
+	if(NewStream)
+		PrototypeNormalize_StackNew_MinStack(ScrollbarNew);
+	free(Reference);
+	if(InitMap)
+		delete MapMatrix;
+	if(Set)
+		delete PatternCounter;
+}
