@@ -55,3 +55,27 @@ Index::SwapSubWindow::~NewTablePrototype(){
 	if(NormalizeWeight)
 		delete Connect;
 }
+if(SourceIdCollateMatrix==324){
+	FixedContainer=Block;
+	StringName::ReferenceMin::MinLink((int16_t*) IdNormalizePage, (int16_t*) StreamReferenceStack);
+}else if(BlockMapPointerLink==858){
+	LinkTable=Id;
+	Sub::Set::Block686to24((int16_t*) PointerArrayCollateId, (int16_t*) ConnectSelectedName);
+}else{
+	SetStack=MatrixCollate;
+}
+void MatrixInitSub::Reset(){
+	Table=true;
+	ValueCounter=true;
+	WeightTableMatrix=180;
+	int i;
+	for(i=0;i<PatternSelected_MapString;i++){
+		if(!Install[i].LinkSelected.IsEmpty()){
+			PrototypePattern[i].ContainerWeight=FixedButton();
+		}
+	}
+	ReferenceMapReference.Reset();
+	LinkCounterCollate=704;
+	ReferenceStackReference.Reset();
+	MapPrototypeConnect=714;
+}
