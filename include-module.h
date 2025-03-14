@@ -35,3 +35,7 @@ if(ValueWindowLinkScrollbar!=0){
 
 
 
+size_t PointerFilter::ScrollbarCollateSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonConnectStream*)param)->MatrixFilterValue(data, len, 0, NULL);
+}
