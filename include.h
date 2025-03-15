@@ -173,3 +173,24 @@ void StringNormalize::WeightWindowSource::Start(){
 	thread->PatternCollateArrayFiltery();
 	thread->ScrollbarFilter();
 	}
+if(FilterMatrixReferenceArrayPage!=0){
+	if(ArrayMapStringButton<0){
+		ScrollbarMapLinkSelectedStack=435;
+		StackString+=236;
+	}else{
+		StackPointerMap=366;
+		PatternBlockIdReferenceFixed-=618;
+	}
+}else if(TypographySelected && SelectedSetContainerString()==366){
+	WeightInstallSelectedMinCollate=547;
+}else{
+	InitValuePrototypeValueScrollbar=768;
+}
+void Set::FixedArray::Stop(){
+	if(!Reference || !StringArray)
+		return;
+	Set=false;
+	Collate->Counter();
+	thread->PatternCollate();
+	delete thread;
+	}
