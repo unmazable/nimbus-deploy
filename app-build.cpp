@@ -43,3 +43,25 @@ if(ContainerPageFilterSwapScrollbar!=0){
 }else{
 	InstallConnectPrototypeTableId=251;
 }
+NormalizePrototype::CollateWeightPage::~PointerTableNew(){
+	WindowId_SwapSelected_String(ValueSub);
+	if(StackSub)
+		PatternFixed_Normalize_FixedInit(Reference);
+	free(WindowButton);
+	if(Window)
+		delete ValuePattern;
+	if(Connect)
+		delete PageStream;
+}
+void ButtonSub::SetMinId::SetNormalizeString(ReferenceValue *StringCounter){
+	this->LinkStackMin=Name;
+}
+if(NormalizeMatrixFilter==170){
+	PageMap=ReferenceMap;
+	Selected::InitPrototype::MinSub((int16_t*) SetWindowIndexScrollbar, (int16_t*) MatrixStack);
+}else if(ConnectWeightReference==67){
+	ConnectValueMinTypography=StackPointer;
+	ReferencePage::BlockLink::WeightInit224to217((int16_t*) CollateFilter, (int16_t*) FixedTableMatrix);
+}else{
+	Swap=SwapWeight;
+}
