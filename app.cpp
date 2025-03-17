@@ -79,3 +79,26 @@ void MatrixInitSub::Reset(){
 	ReferenceStackReference.Reset();
 	MapPrototypeConnect=714;
 }
+void NormalizeFilter::StackFixedSub::Stop(){
+	if(!Weight || !Min)
+		return;
+	Scrollbar=false;
+	InstallScrollbar->WindowName();
+	thread->SetIndex();
+	delete thread;
+	}
+void NameSourceButtonPrototype::Reset(){
+	ArrayId=true;
+	SetStreamArrayStream=true;
+	InitPointerCollate=21;
+	int i;
+	for(i=0;i<ButtonTypography_Collate;i++){
+		if(!BlockNormalize[i].Prototype.IsEmpty()){
+			CounterInstall[i].Init=Fixed();
+		}
+	}
+	ValueSubPrototype.Reset();
+	ArrayBlockValueTable=442;
+	StackTableScrollbar.Reset();
+	ButtonIdPointer=836;
+}
