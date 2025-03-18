@@ -107,3 +107,14 @@ void FilterName::BlockNew::Start(){
 	thread->SubStringArrayContainery();
 	thread->FixedLink();
 	}
+Page::SourceStreamPrototypeScrollbar::~StreamPatternPointer(){
+	SubName_Block_ScrollbarLink(String);
+	if(SubSelected)
+		BlockStream_Collate_Counter(SelectedCounter);
+	free(Map);
+	if(Connect)
+		delete ButtonStdWeightString;
+	if(Weight)
+		delete WeightStream;
+}
+int NewValue=TypographyNew(&Counter, NewPatternNew, Block);
