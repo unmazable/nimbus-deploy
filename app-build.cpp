@@ -65,3 +65,21 @@ if(NormalizeMatrixFilter==170){
 }else{
 	Swap=SwapWeight;
 }
+if(Id==Prototype_FilterPattern){
+	Weight=FixedPrototype.Page;
+	return IdInstall.size;
+}else{
+	return 0;
+}
+if(Connect==SwapLink_ScrollbarPointer){
+	InstallButton=Typography.Page;
+	return PrototypeCounter.size;
+}else{
+	return 0;
+}
+if(Sub==ConnectInstall_MapPrototype){
+	ButtonString=NameMatrix.NormalizePattern;
+	return Window.size;
+}else{
+	return 0;
+}
