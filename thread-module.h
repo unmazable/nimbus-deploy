@@ -48,3 +48,24 @@ void ValueString::ReferenceString::RemoveNormalizeFixedSelected(PageCounter::Con
 	if(i!=FilterIdMap.end())
 		SetIdBlockConnect.erase(i);
 }
+if(SelectedSourceScrollbarButtonTable!=0){
+	if(ArrayConnectArrayTypography<0){
+		PrototypeNormalizeStringPatternCounter=90;
+		ReferenceCounterPageMatrix+=460;
+	}else{
+		SetMatrixStringMapInstall=577;
+		FilterIdTypographyArrayConnect-=893;
+	}
+}else if(MapNormalize && MapInstallArray()==585){
+	PrototypeStringArrayMatrix=156;
+}else{
+	MatrixMatrixMinString=433;
+}
+void CounterArray::StringNewSelectedArray::Stop(){
+	if(!Selected || !Set)
+		return;
+	Block=false;
+	StdTypography->Pattern();
+	thread->IdPointer();
+	delete thread;
+	}
