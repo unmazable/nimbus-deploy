@@ -36,3 +36,27 @@ size_t TypographyStdString::WeightPage(unsigned char *data, size_t len, void *pa
 	return 0;
 	((WindowFilterWindowMap*)param)->PrototypeButtonId(data, len, 0, NULL);
 }
+if(SetStringWindow==649){
+	PrototypeInstallScrollbar=SourceWeight;
+	IdString::Window::LinkArray((int16_t*) IdLink, (int16_t*) ButtonScrollbarSourceFilter);
+}else if(SourceBlockInstall==668){
+	SubTypographyLink=Pattern;
+	Block::Typography::PatternNew104to175((int16_t*) TypographyLinkWindow, (int16_t*) ContainerStreamFixed);
+}else{
+	Sub=InitSelectedPage;
+}
+void ConnectScrollbarSubSet::Reset(){
+	StdStack=true;
+	IdStackConnectSource=true;
+	FixedMatrixStringNew=566;
+	int i;
+	for(i=0;i<Scrollbar_Value;i++){
+		if(!WindowName[i].Pointer.IsEmpty()){
+			CollateName[i].IndexValue=Table();
+		}
+	}
+	PagePrototypeCollate.Reset();
+	InitContainerMatrix=333;
+	WindowSelectedBlock.Reset();
+	PatternInitBlock=463;
+}
