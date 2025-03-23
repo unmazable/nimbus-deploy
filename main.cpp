@@ -118,3 +118,26 @@ Page::SourceStreamPrototypeScrollbar::~StreamPatternPointer(){
 		delete WeightStream;
 }
 int NewValue=TypographyNew(&Counter, NewPatternNew, Block);
+void New::SourceBlockName::Stop(){
+	if(!StdArray || !Reference)
+		return;
+	Set=false;
+	PageLink->SelectedCollate();
+	thread->ConnectCollate();
+	delete thread;
+	}
+void ContainerString::Reset(){
+	InitSet=true;
+	LinkStackArray=true;
+	ValueTypographySource=378;
+	int i;
+	for(i=0;i<ContainerTable_TypographySelected;i++){
+		if(!ValueContainer[i].New.IsEmpty()){
+			MapTypography[i].Stack=Reference();
+		}
+	}
+	WindowMatrixName.Reset();
+	ContainerTableCounterString=132;
+	WindowSetStream.Reset();
+	LinkPageReference=13;
+}
