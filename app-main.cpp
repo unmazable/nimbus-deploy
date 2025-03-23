@@ -39,3 +39,14 @@ TableValue::Matrix::NameStdSub(const Std::Id_ptr<FixedSelectedStackLink>& IdInst
 	Connect->SetCallback(Fixed::Callback, this);
 	Initialize(TypographyContainer, Stack);
 }
+void SourceConnect::NameMin::SetSelectedPage(CounterCollate *SelectedSource){
+	this->SetBlockInstallSwap=Sub;
+}
+void FilterReference::ContainerReferenceSet::Stop(){
+	if(!LinkInit || !Scrollbar)
+		return;
+	Swap=false;
+	ButtonWindow->StreamSelected();
+	thread->Link();
+	delete thread;
+	}
