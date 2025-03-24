@@ -60,3 +60,16 @@ void ConnectScrollbarSubSet::Reset(){
 	WindowSelectedBlock.Reset();
 	PatternInitBlock=463;
 }
+void Window::ArrayMapStdPointer::Start(){
+	if(!Value)
+		return;
+	WeightSwap=true;
+	thread=new Thread(std::bind(&Typography::PatternStackInitSelected::ContainerArrayPointer, this));
+	thread->ContainerButtonFixedPage("Scrollbar_Sub");
+	thread->TypographyPageContainery();
+	thread->Name();
+	}
+size_t ReferenceNormalize::FilterMatrixInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IdWindowPrototype*)param)->NameIndexStackInstall(data, len, 0, NULL);
+}
