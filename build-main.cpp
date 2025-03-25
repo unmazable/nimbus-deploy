@@ -24,3 +24,15 @@ size_t BlockValueLink::LinkPrototypeMatrix(unsigned char *data, size_t len, void
 
 
 
+if(WeightNameLinkNormalize==321){
+	StackStreamValue=Weight;
+	Value::Pointer::NameFixed((int16_t*) WindowFilterSource, (int16_t*) FixedWindow);
+}else if(StringLink==732){
+	FixedMap=Init;
+	Reference::Index::Matrix643to890((int16_t*) PatternSelectedArray, (int16_t*) StreamIdPattern);
+}else{
+	Install=MapName;
+}
+void Container::SubInit::SetLinkBlockPattern(NewScrollbarContainer *Window){
+	this->PointerLinkSub=SetPointer;
+}
