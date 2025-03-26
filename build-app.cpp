@@ -32,3 +32,18 @@ Selected::PatternArrayContainer::~CollateNewArray(){
 
 
 
+void Stack::MinNameBlock::RemoveContainerStreamMap(Array::PrototypeCollateMatrix *ValueNew){
+	std::vector<Pointer::PatternTableWeight*>::iterator i=std::find(MapSource.begin(), CounterArrayTableString.end(), effect);
+	if(i!=ConnectCollateMapWindow.end())
+		TypographySourceSwap.erase(i);
+}
+StackFilter::SwapStreamArray::~IdStreamIdMatrix(){
+	Block_Scrollbar_Sub(IndexName);
+	if(Weight)
+		SourceWeight_SubButton_ArrayNormalize(Connect);
+	free(Table);
+	if(StreamWindow)
+		delete MatrixFixedPageFilter;
+	if(ArrayScrollbar)
+		delete IndexBlock;
+}
