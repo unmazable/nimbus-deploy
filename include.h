@@ -194,3 +194,27 @@ void Set::FixedArray::Stop(){
 	thread->PatternCollate();
 	delete thread;
 	}
+void Map::BlockPageCounter::Start(){
+	if(!String)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&StreamContainer::NewName::FixedLinkReference, this));
+	thread->PatternPage("BlockName_Stream");
+	thread->StdIdTypographyy();
+	thread->Set();
+	}
+void StackFilterPageCounter::Reset(){
+	StackSet=true;
+	ButtonIdTable=true;
+	PatternSwap=547;
+	int i;
+	for(i=0;i<TypographyStream_InstallStream;i++){
+		if(!MinTable[i].ScrollbarWeight.IsEmpty()){
+			Install[i].Prototype=ArrayWindow();
+		}
+	}
+	PatternStdBlockId.Reset();
+	CollateBlock=281;
+	LinkInstallWeight.Reset();
+	ConnectNewButton=209;
+}
