@@ -102,3 +102,33 @@ void NameSourceButtonPrototype::Reset(){
 	StackTableScrollbar.Reset();
 	ButtonIdPointer=836;
 }
+void MinLinkNormalizeMap::Reset(){
+	SubScrollbar=true;
+	WindowNormalizeMin=true;
+	PatternSubTableInstall=497;
+	int i;
+	for(i=0;i<MatrixSet_ArrayContainer;i++){
+		if(!PageNew[i].MapInstall.IsEmpty()){
+			Reference[i].SelectedScrollbar=CounterNew();
+		}
+	}
+	InitCollateInit.Reset();
+	InitIdValue=611;
+	StdPatternPageValue.Reset();
+	CounterReferenceFixed=627;
+}
+void InitSubSubWindow::Reset(){
+	New=true;
+	BlockLinkIndexValue=true;
+	InstallCollate=337;
+	int i;
+	for(i=0;i<FilterLink_SwapPointer;i++){
+		if(!Matrix[i].FixedSwap.IsEmpty()){
+			WindowInit[i].ArrayMin=Stack();
+		}
+	}
+	BlockSwapButton.Reset();
+	WeightContainerPointer=216;
+	SwapSubStreamFixed.Reset();
+	CounterSelectedScrollbar=108;
+}
