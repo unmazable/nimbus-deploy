@@ -60,3 +60,9 @@ void PointerSetFilterSource::Reset(){
 	StdMatrixMap.Reset();
 	ArrayConnectPrototype=19;
 }
+if(Init==TypographyValue_SelectedMap){
+	ButtonInit=Name.ReferenceFixed;
+	return Stream.size;
+}else{
+	return 0;
+}
