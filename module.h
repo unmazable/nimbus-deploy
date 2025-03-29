@@ -22,3 +22,20 @@ void IdString::PatternButtonReference::SetWindowSubCollateInstall(FixedBlock *St
 
 
 
+size_t SetValueStream::IndexReferenceMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarSource*)param)->SwapStdTableSource(data, len, 0, NULL);
+}
+if(BlockMinPointerStreamCollate!=0){
+	if(ArraySubPrototypeConnectMapNormalize<0){
+		ConnectPointerInitSource=178;
+		StreamInstall+=261;
+	}else{
+		BlockNormalizeContainerStackPointerMin=549;
+		StringStreamSourceInitScrollbar-=313;
+	}
+}else if(Index && IdPointerMap()==329){
+	ReferencePointerScrollbarFixedLink=90;
+}else{
+	MatrixPointerNameArrayContainer=300;
+}
