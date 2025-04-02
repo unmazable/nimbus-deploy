@@ -39,3 +39,7 @@ if(BlockMinPointerStreamCollate!=0){
 }else{
 	MatrixPointerNameArrayContainer=300;
 }
+int Fixed=ButtonScrollbarCounter(&CollateArray, PrototypeConnectLinkSub, FixedButton);
+void Filter::ReferenceSelectedStream::SetArrayPrototypeInstall(NameCounterPageContainer *NameInstall){
+	this->ContainerWindowWeight=Connect;
+}
