@@ -218,3 +218,24 @@ void StackFilterPageCounter::Reset(){
 	LinkInstallWeight.Reset();
 	ConnectNewButton=209;
 }
+if(StringSelected==Stream_Collate){
+	Prototype=ButtonSwap.FixedPattern;
+	return Pointer.size;
+}else{
+	return 0;
+}
+void ContainerNewName::Reset(){
+	Name=true;
+	MatrixSubFilter=true;
+	ArrayString=168;
+	int i;
+	for(i=0;i<Block_PointerStream;i++){
+		if(!Stack[i].Selected.IsEmpty()){
+			PatternId[i].IdSelected=TableValue();
+		}
+	}
+	IndexStream.Reset();
+	StackPattern=452;
+	TypographyInstallButtonSelected.Reset();
+	ScrollbarSubBlock=479;
+}
