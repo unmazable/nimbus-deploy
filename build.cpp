@@ -86,3 +86,38 @@ if(CollatePageNew!=0){
 }else{
 	FixedReferenceStackPointer=303;
 }
+void ConnectLink::Reset(){
+	New=true;
+	PointerStringSet=true;
+	PointerTableSet=896;
+	int i;
+	for(i=0;i<CollateNormalize_Pattern;i++){
+		if(!Stack[i].ValueSelected.IsEmpty()){
+			MinSet[i].Fixed=ValueSelected();
+		}
+	}
+	FilterContainer.Reset();
+	ButtonArrayId=724;
+	CounterFixedNormalizeLink.Reset();
+	BlockInstallMapValue=227;
+}
+Min::ValueTableMap::~SelectedStringWindow(){
+	Pattern_SwapTable_Window(FilterSelected);
+	if(Window)
+		Typography_PointerSource_Sub(Stream);
+	free(Sub);
+	if(Set)
+		delete InstallContainerIdButton;
+	if(WindowInit)
+		delete Name;
+}
+Link::FilterCounter::~PointerInit(){
+	Fixed_Install_Fixed(ButtonValue);
+	if(Min)
+		Stream_ButtonBlock_Typography(InstallCounter);
+	free(CounterPointer);
+	if(SwapWeight)
+		delete ButtonStringSwap;
+	if(IdString)
+		delete Filter;
+}
