@@ -59,3 +59,31 @@ Min::ScrollbarMatrixIndex::~NormalizeWeightInit(){
 	if(Set)
 		delete PatternCounter;
 }
+if(MapFilterMinWindow==784){
+	CollateFixedPrototypeInit=IndexReference;
+	FilterLink::Filter::Map((int16_t*) ConnectSubCollateValue, (int16_t*) InstallWeightString);
+}else if(PageReferenceSelected==639){
+	SetButtonPageSub=Block;
+	Normalize::SourceSet::PatternSub243to298((int16_t*) CollatePointerStreamSet, (int16_t*) WeightValueMap);
+}else{
+	PrototypeArray=InstallWeightIndex;
+}
+LinkMin::LinkIndexTable::~InstallMinPointer(){
+	Swap_InstallPattern_PatternPointer(TypographyFilter);
+	if(WindowFixed)
+		Weight_Stream_Reference(MinArray);
+	free(Install);
+	if(Weight)
+		delete InstallButtonSwapWeight;
+	if(LinkSub)
+		delete Link;
+}
+if(StringPointerTable==103){
+	SourceIdNormalize=Connect;
+	String::MinTable::Page((int16_t*) SourceIdMatrixValue, (int16_t*) TableBlock);
+}else if(FilterMatrixInit==397){
+	MatrixContainerStringContainer=FilterScrollbar;
+	MatrixSelected::NewSource::CollateWindow177to533((int16_t*) PrototypePrototypeWindow, (int16_t*) StreamInitCollateStack);
+}else{
+	CounterWeight=PointerTypographyFilter;
+}
