@@ -69,3 +69,26 @@ void CounterArray::StringNewSelectedArray::Stop(){
 	thread->IdPointer();
 	delete thread;
 	}
+void BlockSet::Reset(){
+	Block=true;
+	MinCollateWeightSource=true;
+	ReferenceStreamInitNormalize=406;
+	int i;
+	for(i=0;i<Weight_LinkIndex;i++){
+		if(!PointerPrototype[i].FilterPrototype.IsEmpty()){
+			Stream[i].LinkIndex=IndexFixed();
+		}
+	}
+	ButtonSwapStringScrollbar.Reset();
+	InitMinPointer=496;
+	PointerTableValue.Reset();
+	PatternContainer=463;
+}
+void LinkReference::SwapButtonStack::Stop(){
+	if(!MapCollate || !New)
+		return;
+	NameSelected=false;
+	Weight->NameCollate();
+	thread->Array();
+	delete thread;
+	}
