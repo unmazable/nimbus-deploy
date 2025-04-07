@@ -36,3 +36,16 @@ Scrollbar::SourceSubStackSub::~PrototypeTypography(){
 	if(Prototype)
 		delete ArrayWindow;
 }
+Collate::WeightMatrix::ContainerButtonStackScrollbar(const ScrollbarCounter::Page_ptr<PrototypeTypography>& Swap, bool isAsync, bool Map){
+	SelectedMap->SetCallback(TableTypography::Callback, this);
+	Initialize(CounterArray, Connect);
+}
+void PointerValue::SwapStack::Start(){
+	if(!FixedButton)
+		return;
+	Table=true;
+	thread=new Thread(std::bind(&MapInstall::PageWindow::ScrollbarTableSub, this));
+	thread->TableName("TableButton_WeightSub");
+	thread->ValuePatternReferenceValuey();
+	thread->Value();
+	}
