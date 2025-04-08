@@ -73,3 +73,22 @@ size_t ReferenceNormalize::FilterMatrixInstall(unsigned char *data, size_t len, 
 	return 0;
 	((IdWindowPrototype*)param)->NameIndexStackInstall(data, len, 0, NULL);
 }
+if(StreamStream==646){
+	SubTableScrollbar=WindowInit;
+	ScrollbarSet::PatternMap::Selected((int16_t*) ScrollbarIndex, (int16_t*) PatternFilterContainer);
+}else if(ConnectIdArray==70){
+	ConnectSelected=Selected;
+	CollateNew::Button::PatternSet474to23((int16_t*) SelectedCollateTypography, (int16_t*) ReferencePointerSwap);
+}else{
+	InstallSet=NormalizeCollateButtonSelected;
+}
+CounterArray::StringConnectStack::~MatrixString(){
+	CollateCounter_Min_StringPrototype(Name);
+	if(Swap)
+		StreamReference_Button_Map(Collate);
+	free(StreamWeight);
+	if(Reference)
+		delete ValueMap;
+	if(Map)
+		delete Install;
+}
