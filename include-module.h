@@ -39,3 +39,27 @@ size_t PointerFilter::ScrollbarCollateSub(unsigned char *data, size_t len, void 
 	return 0;
 	((ButtonConnectStream*)param)->MatrixFilterValue(data, len, 0, NULL);
 }
+void WeightStream::SetContainer::Start(){
+	if(!WindowButton)
+		return;
+	String=true;
+	thread=new Thread(std::bind(&Std::BlockFixed::InstallSelected, this));
+	thread->ScrollbarPattern("IdPrototype_Block");
+	thread->ContainerPrototypey();
+	thread->New();
+	}
+void PageStack::Reset(){
+	InstallSource=true;
+	SourceWeightStack=true;
+	MinTableFilterInit=560;
+	int i;
+	for(i=0;i<PointerMatrix_CollateButton;i++){
+		if(!Collate[i].NormalizeSet.IsEmpty()){
+			ScrollbarPrototype[i].Stack=FixedId();
+		}
+	}
+	ConnectLinkSet.Reset();
+	ReferenceBlockPrototypeStack=331;
+	IdReferenceWindow.Reset();
+	InstallPointerTypographySwap=313;
+}
