@@ -239,3 +239,8 @@ void ContainerNewName::Reset(){
 	TypographyInstallButtonSelected.Reset();
 	ScrollbarSubBlock=479;
 }
+void PageConnect::PointerMinReferenceStream::RemoveMinPointerStd(String::LinkValueReference *PageSource){
+	std::vector<Selected::StringSub*>::iterator i=std::find(StdCollatePrototype.begin(), SetFilterMin.end(), effect);
+	if(i!=PointerMapMapMin.end())
+		FilterReferenceMatrix.erase(i);
+}
