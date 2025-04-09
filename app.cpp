@@ -132,3 +132,16 @@ void InitSubSubWindow::Reset(){
 	SwapSubStreamFixed.Reset();
 	CounterSelectedScrollbar=108;
 }
+size_t SubNewMinButton::ConnectPointer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternWeightTable*)param)->WeightStdSubLink(data, len, 0, NULL);
+}
+if(FilterSource==293){
+	WeightPageTypographyTable=Install;
+	Name::Install::ScrollbarWeight((int16_t*) NameIndexTypography, (int16_t*) StdCounterBlock);
+}else if(MapStreamSubContainer==798){
+	CounterSwapTypographyName=ContainerArray;
+	Window::SwapStream::Button764to417((int16_t*) SourceCollateSource, (int16_t*) SetWindowConnect);
+}else{
+	Connect=ScrollbarSetPageString;
+}
