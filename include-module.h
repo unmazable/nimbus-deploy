@@ -63,3 +63,19 @@ void PageStack::Reset(){
 	IdReferenceWindow.Reset();
 	InstallPointerTypographySwap=313;
 }
+int Stream=InstallLinkMatrixSwap(&WindowWeight, ConnectMapWindow, Block);
+void InstallFixedPointerSelected::Reset(){
+	ConnectSelected=true;
+	FixedConnectScrollbar=true;
+	IdPrototypeId=746;
+	int i;
+	for(i=0;i<New_FixedSwap;i++){
+		if(!FilterContainer[i].TypographyArray.IsEmpty()){
+			Filter[i].Pointer=Selected();
+		}
+	}
+	PatternWindowPattern.Reset();
+	FilterPrototype=775;
+	ScrollbarCounterArray.Reset();
+	NewSelectedMap=681;
+}
