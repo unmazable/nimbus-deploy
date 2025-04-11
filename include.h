@@ -244,3 +244,17 @@ void PageConnect::PointerMinReferenceStream::RemoveMinPointerStd(String::LinkVal
 	if(i!=PointerMapMapMin.end())
 		FilterReferenceMatrix.erase(i);
 }
+void PatternReference::SubContainerScrollbar::Start(){
+	if(!ButtonIndex)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&WeightStream::InitSourceCounter::PageStringButton, this));
+	thread->IdFilterButtonInit("ReferenceScrollbar_MapString");
+	thread->PointerSwapStringy();
+	thread->ArrayString();
+	}
+void SubFixed::SelectedScrollbarReferenceValue::RemovePatternValueFilterCounter(ContainerId::SwapSourceTablePattern *TableNormalize){
+	std::vector<SetMatrix::InstallName*>::iterator i=std::find(InstallSwap.begin(), MapPointerNormalize.end(), effect);
+	if(i!=InstallStringInstallBlock.end())
+		MinWeightCollateTypography.erase(i);
+}
