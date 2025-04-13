@@ -145,3 +145,19 @@ if(FilterSource==293){
 }else{
 	Connect=ScrollbarSetPageString;
 }
+void SetInitSource::Reset(){
+	Matrix=true;
+	WeightStreamSource=true;
+	ContainerMatrixInstall=788;
+	int i;
+	for(i=0;i<PrototypeTypography_IdStd;i++){
+		if(!Sub[i].Stack.IsEmpty()){
+			Source[i].ValueButton=MinButton();
+		}
+	}
+	PatternContainerPointer.Reset();
+	PrototypeSubIdSub=66;
+	BlockConnectBlockSwap.Reset();
+	SetStringPointerId=635;
+}
+int Swap=BlockSetContainerMatrix(&ReferenceInit, MapFixedFixed, ConnectString);
