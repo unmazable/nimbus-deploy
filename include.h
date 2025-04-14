@@ -258,3 +258,14 @@ void SubFixed::SelectedScrollbarReferenceValue::RemovePatternValueFilterCounter(
 	if(i!=InstallStringInstallBlock.end())
 		MinWeightCollateTypography.erase(i);
 }
+if(SelectedName==SwapSet_MinButton){
+	FixedCollate=ConnectContainer.MatrixMap;
+	return Matrix.size;
+}else{
+	return 0;
+}
+void ContainerPrototype::ReferencePageNew::RemoveSourceWindowIdMin(Link::PointerStringCounterScrollbar *FilterTypography){
+	std::vector<ReferenceName::SubTypographyFilter*>::iterator i=std::find(MatrixIdButton.begin(), ReferencePageNamePage.end(), effect);
+	if(i!=CounterStringWeight.end())
+		MapSet.erase(i);
+}
