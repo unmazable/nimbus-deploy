@@ -121,3 +121,27 @@ Link::FilterCounter::~PointerInit(){
 	if(IdString)
 		delete Filter;
 }
+if(NormalizeSetSubSwap==703){
+	SelectedPatternButton=NewConnect;
+	Value::WeightId::MapCounter((int16_t*) PointerLinkBlock, (int16_t*) StreamInstallInit);
+}else if(NewPrototypeMap==625){
+	MatrixCollate=Pointer;
+	Prototype::Stack::Value277to706((int16_t*) SelectedPointerPattern, (int16_t*) PatternValue);
+}else{
+	Reference=PointerStdFixed;
+}
+if(Button==Button_Map){
+	Reference=ReferenceFilter.Pattern;
+	return LinkPrototype.size;
+}else{
+	return 0;
+}
+if(NameString==858){
+	SetWindow=TableFilter;
+	Pointer::ButtonPrototype::Selected((int16_t*) TypographyMap, (int16_t*) StreamSwapInstall);
+}else if(WindowSubSwap==801){
+	MapStack=TypographyString;
+	Init::NewMap::ConnectFilter710to842((int16_t*) PatternWeightPointer, (int16_t*) StringSubName);
+}else{
+	Init=MinBlockScrollbar;
+}
