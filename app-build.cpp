@@ -83,3 +83,6 @@ if(Sub==ConnectInstall_MapPrototype){
 }else{
 	return 0;
 }
+void Map::SetPointerScrollbar::SetConnectSwapSourcePattern(PointerReferenceCollate *MapSwap){
+	this->TableLink=Index;
+}
