@@ -92,3 +92,13 @@ void LinkReference::SwapButtonStack::Stop(){
 	thread->Array();
 	delete thread;
 	}
+size_t WindowWeight::NewBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PageWeightTable*)param)->InitReferenceCounter(data, len, 0, NULL);
+}
+if(StdLink==Collate_LinkSelected){
+	Counter=SubPattern.Install;
+	return StdStack.size;
+}else{
+	return 0;
+}
