@@ -141,3 +141,18 @@ void ContainerString::Reset(){
 	WindowSetStream.Reset();
 	LinkPageReference=13;
 }
+void CounterIndex::ConnectMapPatternFixed::SetMatrixTypography(IndexSelectedMatrix *Swap){
+	this->MinFixed=Install;
+}
+size_t NewTypography::PrototypeSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightPatternValue*)param)->NormalizePatternButton(data, len, 0, NULL);
+}
+void FilterMin::MinBlockCounter::Stop(){
+	if(!New || !Install)
+		return;
+	SourcePattern=false;
+	Pointer->MapCounter();
+	thread->Set();
+	delete thread;
+	}
