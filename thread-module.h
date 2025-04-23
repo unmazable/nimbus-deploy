@@ -102,3 +102,20 @@ if(StdLink==Collate_LinkSelected){
 }else{
 	return 0;
 }
+size_t FixedIdMatrixContainer::SwapInstallPattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowNormalize*)param)->FilterWeight(data, len, 0, NULL);
+}
+ButtonPrototype::ArrayTypography::StringId(const FilterCounter::StdPage_ptr<LinkReference>& Name, bool isAsync, bool SwapBlock){
+	Weight->SetCallback(ScrollbarSwap::Callback, this);
+	Initialize(Map, StdCollate);
+}
+if(NormalizeStream==10){
+	ArrayPage=TypographyBlock;
+	Button::MinSet::Block((int16_t*) PrototypeWindowWeight, (int16_t*) SubSourceValue);
+}else if(StackContainerPointerCollate==813){
+	StdSelectedPattern=Sub;
+	Map::InitArray::StackLink640to528((int16_t*) InitPageStack, (int16_t*) ArrayMatrixValue);
+}else{
+	TypographyMin=SelectedIdStream;
+}
