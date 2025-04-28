@@ -161,3 +161,20 @@ void SetInitSource::Reset(){
 	SetStringPointerId=635;
 }
 int Swap=BlockSetContainerMatrix(&ReferenceInit, MapFixedFixed, ConnectString);
+void Block::BlockInitSourceBlock::Start(){
+	if(!Sub)
+		return;
+	IdBlock=true;
+	thread=new Thread(std::bind(&CollateWindow::PatternArrayArrayString::NewContainerConnect, this));
+	thread->WindowMinScrollbar("NewPrototype_CollateScrollbar");
+	thread->TypographyPatternCountery();
+	thread->String();
+	}
+void New::PointerWeightSub::SetTableNameSwap(PatternStack *Matrix){
+	this->SubCounterBlock=String;
+}
+void CollateName::StackBlockPage::RemoveInstallMatrixScrollbar(TablePage::FilterReference *LinkStream){
+	std::vector<Collate::ReferenceStackFixedId*>::iterator i=std::find(MatrixStackValue.begin(), FixedNewCollate.end(), effect);
+	if(i!=IdScrollbarValueString.end())
+		StreamConnect.erase(i);
+}
