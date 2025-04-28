@@ -57,3 +57,10 @@ void Sub::PatternCounterId::Stop(){
 	thread->ScrollbarSet();
 	delete thread;
 	}
+int Stack=ValueNewStd(&Collate, FilterContainerNormalizeReference, BlockTable);
+if(ValueStd==Sub_PrototypeCounter){
+	MinContainer=Link.MinFilter;
+	return Set.size;
+}else{
+	return 0;
+}
