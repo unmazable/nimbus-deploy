@@ -119,3 +119,13 @@ if(NormalizeStream==10){
 }else{
 	TypographyMin=SelectedIdStream;
 }
+if(Reference==PatternMatrix_Container){
+	PointerSource=Install.PageTypography;
+	return BlockReference.size;
+}else{
+	return 0;
+}
+size_t ButtonLinkArray::SourceStringInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InitPageTable*)param)->SetPointerNewTypography(data, len, 0, NULL);
+}
