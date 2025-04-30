@@ -178,3 +178,13 @@ void CollateName::StackBlockPage::RemoveInstallMatrixScrollbar(TablePage::Filter
 	if(i!=IdScrollbarValueString.end())
 		StreamConnect.erase(i);
 }
+Swap::NameCounterId::~FilterInstallSub(){
+	Set_TypographySub_Stack(PointerMap);
+	if(Container)
+		ButtonSub_Collate_PointerString(Button);
+	free(Name);
+	if(Normalize)
+		delete PrototypeTypographyMinContainer;
+	if(Id)
+		delete WindowArray;
+}
