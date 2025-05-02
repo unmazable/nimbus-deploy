@@ -50,3 +50,9 @@ void FilterReference::ContainerReferenceSet::Stop(){
 	thread->Link();
 	delete thread;
 	}
+if(Filter==MinReference_IndexNormalize){
+	MinSwap=ButtonTable.Map;
+	return IndexSet.size;
+}else{
+	return 0;
+}
