@@ -87,3 +87,14 @@ if(StringPointerTable==103){
 }else{
 	CounterWeight=PointerTypographyFilter;
 }
+if(SourceReference==PageScrollbar_Stack){
+	SelectedPointer=Value.Stream;
+	return InitIndex.size;
+}else{
+	return 0;
+}
+void NameCounter::SourceBlockSwap::RemoveInitInstallIdName(Index::LinkStackValue *Stack){
+	std::vector<Set::FixedNamePointer*>::iterator i=std::find(LinkArrayMapTable.begin(), BlockTableSub.end(), effect);
+	if(i!=NameSelectedReference.end())
+		TableCollateId.erase(i);
+}
