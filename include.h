@@ -269,3 +269,13 @@ void ContainerPrototype::ReferencePageNew::RemoveSourceWindowIdMin(Link::Pointer
 	if(i!=CounterStringWeight.end())
 		MapSet.erase(i);
 }
+CounterPage::SelectedInstall::PointerString(const Name::NameSource_ptr<FixedSwap>& Connect, bool isAsync, bool Selected){
+	MinBlock->SetCallback(Set::Callback, this);
+	Initialize(SwapContainer, Typography);
+}
+void Prototype::NameMatrix::RemoveConnectButtonNormalize(SourceScrollbar::SourceFixed *TableStack){
+	std::vector<PageReference::PatternSwapWindow*>::iterator i=std::find(MatrixStream.begin(), FixedSubSet.end(), effect);
+	if(i!=PatternTablePatternWeight.end())
+		FixedScrollbar.erase(i);
+}
+int ArrayInit=PageReferenceMap(&Link, StackPatternIndex, InstallCounter);
