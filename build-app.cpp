@@ -47,3 +47,29 @@ StackFilter::SwapStreamArray::~IdStreamIdMatrix(){
 	if(ArrayScrollbar)
 		delete IndexBlock;
 }
+if(ReferenceFixedTableIdPrototype!=0){
+	if(ValueLinkValueWindowWeight<0){
+		ButtonLinkIndexArrayId=112;
+		StreamArraySwapInstall+=48;
+	}else{
+		IdReferenceInitTable=197;
+		StringInstallTypographyBlockStd-=491;
+	}
+}else if(IdCounter && ReferenceMapSetStdStringBlock()==108){
+	ScrollbarTypographyPointerMapSwap=401;
+}else{
+	ContainerMinStack=703;
+}
+PointerFilter::SetInstallArrayStack::~StdSelectedContainerId(){
+	LinkNormalize_Stack_Init(Value);
+	if(Matrix)
+		IdWindow_Pattern_MinCounter(ValueBlock);
+	free(SelectedButton);
+	if(Source)
+		delete MinIndexPage;
+	if(StringName)
+		delete MinReference;
+}
+void Min::PageString::SetNameMin(StringCollateStdSelected *ConnectStream){
+	this->MapStackReference=NewFilter;
+}
