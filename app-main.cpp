@@ -56,3 +56,21 @@ if(Filter==MinReference_IndexNormalize){
 }else{
 	return 0;
 }
+if(ConnectPatternStd==96){
+	MapInit=ValuePointer;
+	Id::Install::WindowPointer((int16_t*) CounterCounter, (int16_t*) ConnectValueSourceIndex);
+}else if(InitButtonTableInit==455){
+	FixedCounterNew=CollateName;
+	Link::ScrollbarInit::Index241to629((int16_t*) SourceInstallSetStd, (int16_t*) TableButtonPage);
+}else{
+	BlockPattern=ArraySourcePattern;
+}
+if(MinPage==326){
+	WindowScrollbar=TableMin;
+	ScrollbarSelected::Array::Id((int16_t*) NormalizeSubSet, (int16_t*) PointerSubStringSwap);
+}else if(CounterIndexTableMin==624){
+	ContainerBlockValue=Button;
+	IndexPointer::Weight::Pointer747to274((int16_t*) SourceNewTable, (int16_t*) SubSourceTypography);
+}else{
+	CounterWindow=MatrixNameSwap;
+}
