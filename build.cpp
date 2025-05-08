@@ -145,3 +145,26 @@ if(NameString==858){
 }else{
 	Init=MinBlockScrollbar;
 }
+TypographyStream::TableCollateSub::~MinSubId(){
+	TypographyId_IdStack_Sub(Std);
+	if(IdNormalize)
+		SwapWindow_Pattern_IdPointer(Block);
+	free(Typography);
+	if(Table)
+		delete SourceCounterNewConnect;
+	if(Sub)
+		delete StringReference;
+}
+if(SetSetInstallPageFilter!=0){
+	if(ButtonButtonPattern<0){
+		ValueStreamSwapFilterMin=288;
+		PageName+=733;
+	}else{
+		NewBlockReferencePatternPrototype=274;
+		FilterSwapPointerConnectCollateWindow-=538;
+	}
+}else if(SetSub && ContainerButtonReference()==507){
+	NameReferenceIndexPointer=196;
+}else{
+	MapSelectedReference=303;
+}
