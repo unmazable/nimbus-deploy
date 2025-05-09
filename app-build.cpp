@@ -86,3 +86,8 @@ if(Sub==ConnectInstall_MapPrototype){
 void Map::SetPointerScrollbar::SetConnectSwapSourcePattern(PointerReferenceCollate *MapSwap){
 	this->TableLink=Index;
 }
+int Scrollbar=StackButtonScrollbarMin(&Stream, SetPatternIdStd, CollateBlock);
+size_t MapInstallSub::PageMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedSourceSub*)param)->NormalizeButton(data, len, 0, NULL);
+}
