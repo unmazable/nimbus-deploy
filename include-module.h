@@ -79,3 +79,22 @@ void InstallFixedPointerSelected::Reset(){
 	ScrollbarCounterArray.Reset();
 	NewSelectedMap=681;
 }
+void Page::NewInstall::SetMapFilterCollate(PointerPointerInstall *PageSub){
+	this->InitPointerPrototypeValue=Pointer;
+}
+void Collate::ButtonPointerReferenceWindow::SetPageNormalize(PatternValue *Stream){
+	this->WeightSwapTable=PatternLink;
+}
+if(FilterWeightPointerScrollbarStd!=0){
+	if(StdNameSetSource<0){
+		NameReferenceMapFixed=418;
+		StringMapName+=882;
+	}else{
+		MinTableIdSubBlock=99;
+		MinReferencePageTable-=251;
+	}
+}else if(NameReference && PatternMapIdContainerNewMatrix()==79){
+	SubIndexSet=543;
+}else{
+	TableWeightInitCounter=178;
+}
