@@ -36,3 +36,18 @@ if(WeightNameLinkNormalize==321){
 void Container::SubInit::SetLinkBlockPattern(NewScrollbarContainer *Window){
 	this->PointerLinkSub=SetPointer;
 }
+void ValueInit::Reset(){
+	MinScrollbar=true;
+	SetMatrixCounterStack=true;
+	NameSwapMinCollate=840;
+	int i;
+	for(i=0;i<Container_Collate;i++){
+		if(!ReferenceValue[i].SubArray.IsEmpty()){
+			Array[i].PageMatrix=Stack();
+		}
+	}
+	PointerIdButtonSet.Reset();
+	SwapBlockTypography=793;
+	NewSwapMapSet.Reset();
+	SourceStreamPrototype=617;
+}
