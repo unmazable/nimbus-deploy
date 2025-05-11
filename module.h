@@ -43,3 +43,19 @@ int Fixed=ButtonScrollbarCounter(&CollateArray, PrototypeConnectLinkSub, FixedBu
 void Filter::ReferenceSelectedStream::SetArrayPrototypeInstall(NameCounterPageContainer *NameInstall){
 	this->ContainerWindowWeight=Connect;
 }
+void Prototype::FixedTable::RemoveWindowPointerStd(Weight::PointerMap *Index){
+	std::vector<MinWindow::CollateButtonWindow*>::iterator i=std::find(ValueInitMatrix.begin(), MinContainerName.end(), effect);
+	if(i!=SubCollateArrayValue.end())
+		MatrixStringString.erase(i);
+}
+Window::BlockInitName::~StringIndexSet(){
+	ButtonSub_IndexMatrix_Pointer(Container);
+	if(Set)
+		Button_ScrollbarBlock_Counter(Scrollbar);
+	free(LinkCounter);
+	if(SelectedButton)
+		delete LinkTypographyScrollbar;
+	if(ButtonSource)
+		delete CollateCounter;
+}
+int WindowFilter=CounterMatrixSwapConnect(&Init, ReferencePattern, Button);
