@@ -92,3 +92,13 @@ CounterArray::StringConnectStack::~MatrixString(){
 	if(Map)
 		delete Install;
 }
+int ConnectStd=SelectedStreamFixedName(&ButtonName, StringTypographyScrollbar, Pattern);
+void Matrix::WindowPagePointer::SetFixedMapId(MatrixButtonFixedWeight *NamePage){
+	this->NormalizeInitPrototypeTypography=NewPage;
+}
+if(PatternWindow==IdStack_StdReference){
+	Reference=Value.InitValue;
+	return SelectedCollate.size;
+}else{
+	return 0;
+}
