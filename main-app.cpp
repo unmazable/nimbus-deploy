@@ -64,3 +64,14 @@ if(ValueStd==Sub_PrototypeCounter){
 }else{
 	return 0;
 }
+void Normalize::ScrollbarSourceStackPattern::SetLinkSetScrollbarPattern(MapConnectWindowInit *Init){
+	this->NameMatrixSelected=Collate;
+}
+void New::SourceLinkButton::Stop(){
+	if(!Typography || !FixedPrototype)
+		return;
+	BlockReference=false;
+	WeightMin->ValueMap();
+	thread->Name();
+	delete thread;
+	}
