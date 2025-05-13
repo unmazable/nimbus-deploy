@@ -168,3 +168,11 @@ if(SetSetInstallPageFilter!=0){
 }else{
 	MapSelectedReference=303;
 }
+void Index::PatternConnect::SetFixedReferenceTable(CollateSubStream *TableCollate){
+	this->ArrayPointer=LinkCollate;
+}
+int Install=StringConnectSourceTable(&InstallMap, FilterString, Table);
+size_t IdLink::StreamFilterConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternWindowSwap*)param)->ScrollbarInitReference(data, len, 0, NULL);
+}
