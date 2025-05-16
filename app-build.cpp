@@ -91,3 +91,25 @@ size_t MapInstallSub::PageMatrix(unsigned char *data, size_t len, void *param){
 	return 0;
 	((SelectedSourceSub*)param)->NormalizeButton(data, len, 0, NULL);
 }
+if(StdStackNewValueContainer!=0){
+	if(SubStreamTableLink<0){
+		CounterNewIdButtonPage=2;
+		BlockSet+=779;
+	}else{
+		InitScrollbarConnectTypographyInstall=366;
+		CollateTypographySwapSet-=362;
+	}
+}else if(PrototypeConnect && SetBlockMapLink()==583){
+	ArrayNameSwap=618;
+}else{
+	BlockMinPrototypeInstall=116;
+}
+void MinId::StdSubScrollbarLink::Start(){
+	if(!StreamArray)
+		return;
+	MatrixPrototype=true;
+	thread=new Thread(std::bind(&Window::StringPatternButton::SourceSelectedTable, this));
+	thread->ValueScrollbarSwap("Prototype_Map");
+	thread->ButtonReferenceTypographyReferencey();
+	thread->CollateFixed();
+	}
