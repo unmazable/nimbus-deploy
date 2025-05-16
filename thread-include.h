@@ -49,3 +49,22 @@ void PointerValue::SwapStack::Start(){
 	thread->ValuePatternReferenceValuey();
 	thread->Value();
 	}
+void NormalizeValue::PageTypographySelectedMap::RemoveWindowId(Counter::WindowMin *Sub){
+	std::vector<ContainerTable::WindowTableSource*>::iterator i=std::find(PatternSwapStd.begin(), NewWeight.end(), effect);
+	if(i!=WeightConnect.end())
+		InitInitBlock.erase(i);
+}
+SelectedStd::ArrayCounterWindow::~SelectedString(){
+	Stack_Scrollbar_Page(StreamSource);
+	if(ArrayCounter)
+		SetPattern_Install_PagePattern(New);
+	free(WeightWindow);
+	if(SetArray)
+		delete ScrollbarContainerValue;
+	if(Array)
+		delete BlockLink;
+}
+size_t SetMinCounterLink::NewBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightSubNormalizeString*)param)->CollatePatternNew(data, len, 0, NULL);
+}
