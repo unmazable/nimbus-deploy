@@ -54,3 +54,13 @@ void Block::SourceTypographyNewSub::Start(){
 	thread->MinWeightTypographyy();
 	thread->SubPointer();
 	}
+int Window=NormalizeFixedPatternContainer(&StreamMap, ScrollbarButton, Name);
+if(ReferenceWeightBlockWeight==106){
+	WindowConnectPage=PatternValue;
+	Matrix::Counter::Array((int16_t*) ContainerStreamIndexPage, (int16_t*) StackInstallWindow);
+}else if(InitPageCounter==307){
+	NormalizeSetFilterConnect=FixedIndex;
+	Container::SubNormalize::StringInstall476to572((int16_t*) StreamArrayId, (int16_t*) PageCounterSet);
+}else{
+	SetBlock=ConnectStringTable;
+}
