@@ -102,3 +102,13 @@ if(PatternWindow==IdStack_StdReference){
 }else{
 	return 0;
 }
+if(TypographyReference==ReferenceFilter_Source){
+	WindowFilter=Init.Pointer;
+	return Table.size;
+}else{
+	return 0;
+}
+size_t MatrixFilter::LinkFixedSwapStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternCollate*)param)->LinkStackSourceConnect(data, len, 0, NULL);
+}
