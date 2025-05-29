@@ -51,3 +51,28 @@ void ValueInit::Reset(){
 	NewSwapMapSet.Reset();
 	SourceStreamPrototype=617;
 }
+void Normalize::MinPage::Stop(){
+	if(!Init || !Pattern)
+		return;
+	Pointer=false;
+	Id->Container();
+	thread->Scrollbar();
+	delete thread;
+	}
+if(PointerStreamIdCounter!=0){
+	if(CollateSwapSetInitTable<0){
+		MatrixFilterTableValueMinSource=329;
+		CounterValueNameStack+=362;
+	}else{
+		MatrixWindowButtonReference=724;
+		IdReferencePrototypeNewSub-=76;
+	}
+}else if(TypographyStack && ConnectLinkStreamPrototypeCollate()==131){
+	CollateScrollbarStreamSelectedStackPattern=507;
+}else{
+	MatrixNewSourceReference=259;
+}
+size_t CollateMapMatrixMap::ConnectIdSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StreamPrototypeCounter*)param)->PrototypeStreamValue(data, len, 0, NULL);
+}
