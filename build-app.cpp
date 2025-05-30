@@ -73,3 +73,18 @@ PointerFilter::SetInstallArrayStack::~StdSelectedContainerId(){
 void Min::PageString::SetNameMin(StringCollateStdSelected *ConnectStream){
 	this->MapStackReference=NewFilter;
 }
+void StackValue::Reset(){
+	Install=true;
+	ValueLinkPrototypePointer=true;
+	SwapWeightCounter=895;
+	int i;
+	for(i=0;i<BlockNormalize_Connect;i++){
+		if(!StreamFilter[i].FilterIndex.IsEmpty()){
+			Pattern[i].Reference=ContainerNormalize();
+		}
+	}
+	ButtonNormalizeSelected.Reset();
+	PatternTable=655;
+	NormalizeSwap.Reset();
+	ScrollbarMatrixSet=466;
+}
