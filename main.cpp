@@ -156,3 +156,16 @@ void FilterMin::MinBlockCounter::Stop(){
 	thread->Set();
 	delete thread;
 	}
+void ArrayWeight::FixedMapInstall::Start(){
+	if(!Filter)
+		return;
+	NormalizeInit=true;
+	thread=new Thread(std::bind(&FilterNormalize::SourceNormalizeTablePattern::SubPagePattern, this));
+	thread->SubIndexNameCollate("ContainerNew_PointerConnect");
+	thread->NameWindowSwapNamey();
+	thread->SourceMin();
+	}
+size_t SelectedValueFilterCollate::NormalizeWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewInstallArray*)param)->PageSelectedInitFilter(data, len, 0, NULL);
+}
