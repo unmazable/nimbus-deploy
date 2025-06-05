@@ -112,3 +112,26 @@ size_t MatrixFilter::LinkFixedSwapStack(unsigned char *data, size_t len, void *p
 	return 0;
 	((PatternCollate*)param)->LinkStackSourceConnect(data, len, 0, NULL);
 }
+Table::SubScrollbar::PatternValue(const Link::StackConnect_ptr<CounterLinkSource>& SourceSet, bool isAsync, bool CollateContainer){
+	Fixed->SetCallback(String::Callback, this);
+	Initialize(WindowInstall, InstallId);
+}
+StreamValue::ArrayNewLink::~BlockFixedTypography(){
+	FixedFilter_Page_Container(Matrix);
+	if(SelectedId)
+		InitArray_ButtonName_Counter(Weight);
+	free(Array);
+	if(Min)
+		delete NewMapSwap;
+	if(Counter)
+		delete ContainerConnect;
+}
+if(ScrollbarSelectedIndex==665){
+	NameStringNewCounter=NewSet;
+	CounterMatrix::FilterPointer::StreamFixed((int16_t*) WindowInit, (int16_t*) SwapReferenceButton);
+}else if(ContainerStringCollatePrototype==114){
+	ReferenceStackSetInit=MatrixNormalize;
+	CollateBlock::TypographyMin::Link42to533((int16_t*) StreamContainer, (int16_t*) FixedPatternPointer);
+}else{
+	Install=StackFixedSubPattern;
+}
