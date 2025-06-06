@@ -68,3 +68,6 @@ size_t SetMinCounterLink::NewBlock(unsigned char *data, size_t len, void *param)
 	return 0;
 	((WeightSubNormalizeString*)param)->CollatePatternNew(data, len, 0, NULL);
 }
+void ContainerNormalize::StreamNameNameConnect::SetValueScrollbarPatternWindow(PageNameWindow *CounterSet){
+	this->ScrollbarLink=Collate;
+}
