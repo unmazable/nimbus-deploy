@@ -135,3 +135,18 @@ if(ScrollbarSelectedIndex==665){
 }else{
 	Install=StackFixedSubPattern;
 }
+void Set::NewValueSwapStack::Start(){
+	if(!New)
+		return;
+	New=true;
+	thread=new Thread(std::bind(&Sub::IndexInitMin::ReferencePointerMin, this));
+	thread->SubContainerContainerScrollbar("Reference_NormalizeCollate");
+	thread->PageSetCollatey();
+	thread->Collate();
+	}
+if(Normalize==PointerName_Button){
+	Reference=Pointer.StreamFixed;
+	return MapCounter.size;
+}else{
+	return 0;
+}
