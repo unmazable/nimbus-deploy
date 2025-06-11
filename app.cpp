@@ -188,3 +188,15 @@ Swap::NameCounterId::~FilterInstallSub(){
 	if(Id)
 		delete WindowArray;
 }
+void Weight::TypographyConnectReference::Start(){
+	if(!MapPointer)
+		return;
+	Std=true;
+	thread=new Thread(std::bind(&MapPage::NewTableInstallNew::ArraySource, this));
+	thread->FilterWindowInstallMin("Source_Page");
+	thread->MinStackNormalizey();
+	thread->Reference();
+	}
+void Filter::ContainerStreamStack::SetFilterStringStringNew(MinSwapLink *ButtonPointer){
+	this->IdFixedWindowTable=Reference;
+}
