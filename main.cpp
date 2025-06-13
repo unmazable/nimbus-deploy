@@ -169,3 +169,24 @@ size_t SelectedValueFilterCollate::NormalizeWeight(unsigned char *data, size_t l
 	return 0;
 	((NewInstallArray*)param)->PageSelectedInitFilter(data, len, 0, NULL);
 }
+if(ContainerScrollbar==TableSet_ScrollbarPattern){
+	Swap=SubConnect.Typography;
+	return String.size;
+}else{
+	return 0;
+}
+void InstallIdNormalizeMap::Reset(){
+	NormalizeMatrix=true;
+	SourceInit=true;
+	ArrayNewInstall=186;
+	int i;
+	for(i=0;i<ButtonName_PageArray;i++){
+		if(!FixedStream[i].Prototype.IsEmpty()){
+			Stack[i].Button=MinArray();
+		}
+	}
+	MapStackStringTable.Reset();
+	PrototypePointerId=356;
+	ValueButtonValue.Reset();
+	WindowFixedArrayMin=100;
+}
