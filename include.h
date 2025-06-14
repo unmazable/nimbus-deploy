@@ -279,3 +279,7 @@ void Prototype::NameMatrix::RemoveConnectButtonNormalize(SourceScrollbar::Source
 		FixedScrollbar.erase(i);
 }
 int ArrayInit=PageReferenceMap(&Link, StackPatternIndex, InstallCounter);
+void IdBlock::NormalizeSwapStack::SetMapNormalizeFixed(LinkWindow *LinkTable){
+	this->ContainerScrollbar=TypographyInstall;
+}
+int Collate=IdString(&Value, CollateReference, Map);
