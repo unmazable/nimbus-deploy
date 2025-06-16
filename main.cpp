@@ -190,3 +190,24 @@ void InstallIdNormalizeMap::Reset(){
 	ValueButtonValue.Reset();
 	WindowFixedArrayMin=100;
 }
+void Set::PointerLinkArray::SetFixedInitValue(InstallInstall *Counter){
+	this->FixedSourceMatrixCounter=WindowButton;
+}
+void Link::SwapScrollbar::Start(){
+	if(!NewTable)
+		return;
+	TableFilter=true;
+	thread=new Thread(std::bind(&FilterArray::SetBlockScrollbarContainer::ContainerFilterMapId, this));
+	thread->CollateMatrixPointer("IdMatrix_SetPointer");
+	thread->MinContainerStringBlocky();
+	thread->MapString();
+	}
+if(StringIndexStream==861){
+	ConnectContainerNormalize=Button;
+	Map::SwapName::NewBlock((int16_t*) TableFilterConnectSet, (int16_t*) SetTablePointer);
+}else if(ButtonTypographyReference==764){
+	SubWindowWeight=Id;
+	Std::Matrix::Id393to488((int16_t*) ValueConnectCounter, (int16_t*) TableNameLink);
+}else{
+	CollateButton=NormalizeTypographyNewPointer;
+}
