@@ -98,3 +98,29 @@ if(FilterWeightPointerScrollbarStd!=0){
 }else{
 	TableWeightInitCounter=178;
 }
+if(FilterScrollbarNameFixedTypography!=0){
+	if(MatrixMatrixWindowInit<0){
+		PointerStreamSelected=792;
+		WeightConnectPage+=641;
+	}else{
+		StackSourceLinkConnectMatrix=352;
+		SetNameCounterId-=196;
+	}
+}else if(Collate && StackPrototypeTableStream()==502){
+	InstallFilterIdCounterLink=132;
+}else{
+	PagePointerCollateMatrixTypography=191;
+}
+if(TableFixedTableStdCollate!=0){
+	if(ReferenceFixedPageId<0){
+		LinkReferenceStringArray=253;
+		NamePatternButton+=456;
+	}else{
+		FixedPageButtonTableCounterStream=812;
+		BlockFixedFixedReference-=12;
+	}
+}else if(ValueName && PrototypeIdSwapInit()==264){
+	IdWeightNormalizeContainerBlockInstall=676;
+}else{
+	IdInstallLinkStringPrototype=866;
+}
