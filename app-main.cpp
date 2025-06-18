@@ -74,3 +74,21 @@ if(MinPage==326){
 }else{
 	CounterWindow=MatrixNameSwap;
 }
+if(ArrayLinkMatrix==738){
+	SubInstall=MatrixName;
+	Scrollbar::Prototype::New((int16_t*) SetWindowSourceNew, (int16_t*) NewValueId);
+}else if(ReferenceLinkWeightStack==381){
+	ScrollbarFixedPrototype=ReferenceMin;
+	NameCounter::ArrayIndex::PageSource641to208((int16_t*) StreamBlockCollate, (int16_t*) MinContainer);
+}else{
+	SwapMin=NameWeightSource;
+}
+if(CollateIndex==258){
+	StdMinString=Table;
+	CollateTable::PagePattern::SubWeight((int16_t*) BlockMinNew, (int16_t*) FixedMatrixCollate);
+}else if(SubPrototypeMin==409){
+	ButtonSwap=Pattern;
+	Install::Swap::InitSource251to734((int16_t*) IndexNormalize, (int16_t*) SwapPageReference);
+}else{
+	Filter=WeightButtonWeight;
+}
