@@ -88,3 +88,37 @@ void StackValue::Reset(){
 	NormalizeSwap.Reset();
 	ScrollbarMatrixSet=466;
 }
+if(SelectedStreamLink==12){
+	PointerSubIndexPrototype=ContainerId;
+	TableCounter::Pointer::WindowFixed((int16_t*) MatrixWeightValueMin, (int16_t*) StdArrayPrototypeStream);
+}else if(FixedSwapNewSelected==359){
+	MapButtonName=Min;
+	SubCounter::LinkSet::Container496to596((int16_t*) FixedSelectedSwap, (int16_t*) TypographyLinkNew);
+}else{
+	Map=IdButton;
+}
+void SetStringNew::Reset(){
+	Scrollbar=true;
+	SwapPage=true;
+	ContainerTypography=520;
+	int i;
+	for(i=0;i<Typography_Table;i++){
+		if(!Array[i].SetConnect.IsEmpty()){
+			String[i].Map=Connect();
+		}
+	}
+	ContainerNormalize.Reset();
+	ConnectNormalize=133;
+	SwapBlockMin.Reset();
+	ValueSetSelected=676;
+}
+Map::InitWindowNormalizePage::~SubMapSetReference(){
+	Filter_ArrayFilter_PageSource(Name);
+	if(IndexName)
+		Block_CollateStd_CollateWeight(Install);
+	free(PrototypeStack);
+	if(PatternSub)
+		delete ScrollbarLink;
+	if(PageMatrix)
+		delete IdWeight;
+}
