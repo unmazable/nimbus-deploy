@@ -211,3 +211,8 @@ if(StringIndexStream==861){
 }else{
 	CollateButton=NormalizeTypographyNewPointer;
 }
+void Init::StreamMinTable::RemoveStackInitCounter(FilterInstall::StackTableInstall *Connect){
+	std::vector<SelectedPrototype::BlockContainerBlock*>::iterator i=std::find(SwapInstallSourceWindow.begin(), MinFixedPage.end(), effect);
+	if(i!=ScrollbarNormalize.end())
+		ValueWindowNormalize.erase(i);
+}
