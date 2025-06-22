@@ -124,3 +124,17 @@ if(TableFixedTableStdCollate!=0){
 }else{
 	IdInstallLinkStringPrototype=866;
 }
+if(FilterSwap==Init_MatrixFilter){
+	LinkInit=Block.BlockTypography;
+	return Array.size;
+}else{
+	return 0;
+}
+void Container::SwapSub::Stop(){
+	if(!String || !ArrayInit)
+		return;
+	ConnectId=false;
+	LinkScrollbar->Matrix();
+	thread->Pointer();
+	delete thread;
+	}
