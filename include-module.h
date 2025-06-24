@@ -138,3 +138,13 @@ void Container::SwapSub::Stop(){
 	thread->Pointer();
 	delete thread;
 	}
+if(Pattern==Set_Prototype){
+	CounterFixed=ArraySub.NameFilter;
+	return FixedInit.size;
+}else{
+	return 0;
+}
+void WindowTypography::NewValueBlock::SetContainerSubBlockSource(NewCollateId *ValueNormalize){
+	this->BlockScrollbarFixed=Table;
+}
+int ConnectSelected=TableSourceTypographyStack(&Table, ButtonArraySwapMin, Init);
