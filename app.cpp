@@ -200,3 +200,22 @@ void Weight::TypographyConnectReference::Start(){
 void Filter::ContainerStreamStack::SetFilterStringStringNew(MinSwapLink *ButtonPointer){
 	this->IdFixedWindowTable=Reference;
 }
+size_t NewPrototypeNew::NameMin(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapWeightSubId*)param)->BlockNormalizeNormalizeSelected(data, len, 0, NULL);
+}
+void WeightInstallCounterSub::Reset(){
+	Typography=true;
+	MapPattern=true;
+	CounterSourceName=577;
+	int i;
+	for(i=0;i<WeightPointer_Scrollbar;i++){
+		if(!Min[i].Reference.IsEmpty()){
+			Swap[i].WeightLink=Scrollbar();
+		}
+	}
+	CounterValueWeight.Reset();
+	InstallLinkNormalizeArray=779;
+	BlockPage.Reset();
+	StackMatrixReference=165;
+}
