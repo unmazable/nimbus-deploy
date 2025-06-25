@@ -219,3 +219,21 @@ void WeightInstallCounterSub::Reset(){
 	BlockPage.Reset();
 	StackMatrixReference=165;
 }
+void StdIndex::Reset(){
+	Id=true;
+	CollateMapButtonBlock=true;
+	StreamSetLinkNormalize=463;
+	int i;
+	for(i=0;i<ButtonPage_ScrollbarReference;i++){
+		if(!SourceCollate[i].Pattern.IsEmpty()){
+			Install[i].WeightScrollbar=Matrix();
+		}
+	}
+	SwapPointerPatternMatrix.Reset();
+	ValueTable=789;
+	MatrixInit.Reset();
+	PatternPageLink=301;
+}
+void TypographyLink::PatternInitConnect::SetStreamStackButtonConnect(WindowStreamMapSource *Set){
+	this->MatrixSelectedTable=MapSelected;
+}
