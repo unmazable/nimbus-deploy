@@ -59,3 +59,22 @@ Window::BlockInitName::~StringIndexSet(){
 		delete CollateCounter;
 }
 int WindowFilter=CounterMatrixSwapConnect(&Init, ReferencePattern, Button);
+TableFixed::Init::PointerFixedPageSource(const NewId::Set_ptr<PageFilterInit>& Min, bool isAsync, bool ReferenceWeight){
+	FixedStream->SetCallback(Std::Callback, this);
+	Initialize(WeightWindow, ButtonLink);
+}
+void ButtonInstall::Reset(){
+	CollateId=true;
+	WindowNameWindowScrollbar=true;
+	InitIdCounter=241;
+	int i;
+	for(i=0;i<Connect_SourceWeight;i++){
+		if(!Min[i].InitWeight.IsEmpty()){
+			PatternSource[i].PageFilter=MapReference();
+		}
+	}
+	StackMapNewPattern.Reset();
+	StreamCounter=810;
+	TypographyCounterCollateSet.Reset();
+	CollateString=268;
+}
