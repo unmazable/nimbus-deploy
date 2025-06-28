@@ -113,3 +113,12 @@ void MinId::StdSubScrollbarLink::Start(){
 	thread->ButtonReferenceTypographyReferencey();
 	thread->CollateFixed();
 	}
+if(FilterStringSelected==807){
+	CollateSourceMatrix=Value;
+	Window::StdButton::SourceConnect((int16_t*) CollateNewValue, (int16_t*) CounterSource);
+}else if(TableReferenceWindow==324){
+	ConnectBlock=Pointer;
+	Pattern::ContainerNew::Set381to781((int16_t*) ReferenceStack, (int16_t*) NamePageMap);
+}else{
+	Min=StackWeightArray;
+}
