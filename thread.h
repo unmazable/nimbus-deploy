@@ -150,3 +150,12 @@ if(Normalize==PointerName_Button){
 }else{
 	return 0;
 }
+if(BlockMatrix==191){
+	PrototypeNormalizeValueSub=Block;
+	ValueScrollbar::Button::Weight((int16_t*) SubFixed, (int16_t*) MinMapCollate);
+}else if(SubContainerSelectedNew==655){
+	SetMap=Collate;
+	Collate::Button::Value842to501((int16_t*) MapNewArray, (int16_t*) SourcePageCollate);
+}else{
+	Map=NewBlock;
+}
