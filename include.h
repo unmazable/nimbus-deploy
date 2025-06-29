@@ -283,3 +283,31 @@ void IdBlock::NormalizeSwapStack::SetMapNormalizeFixed(LinkWindow *LinkTable){
 	this->ContainerScrollbar=TypographyInstall;
 }
 int Collate=IdString(&Value, CollateReference, Map);
+if(IdButtonString==382){
+	WeightCounter=PrototypeId;
+	StreamInit::Id::CollateMin((int16_t*) ValuePointer, (int16_t*) CounterReferenceBlock);
+}else if(WindowStackSource==755){
+	BlockMatrixBlock=Container;
+	Collate::Matrix::CounterPointer691to277((int16_t*) PageConnectId, (int16_t*) SelectedSwapTable);
+}else{
+	ReferenceString=SubCollateInstall;
+}
+size_t SubStdFixed::TypographyArrayMapSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MatrixPointer*)param)->NameNormalizeScrollbar(data, len, 0, NULL);
+}
+void LinkInitNormalize::Reset(){
+	Min=true;
+	InstallSelectedWindow=true;
+	TypographyPrototypeNew=811;
+	int i;
+	for(i=0;i<NamePattern_InstallPrototype;i++){
+		if(!LinkWeight[i].PatternFilter.IsEmpty()){
+			Window[i].Table=SelectedNew();
+		}
+	}
+	StreamCollateMatrix.Reset();
+	CollateCounterSelectedInstall=554;
+	NormalizeLinkContainerInstall.Reset();
+	FilterPrototypeBlockNormalize=29;
+}
