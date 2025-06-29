@@ -31,3 +31,16 @@ if(FilterCollateSelectedSet!=0){
 
 
 
+if(ReferenceSelectedPage!=0){
+	if(ArrayPatternSet<0){
+		ArrayNormalizeTypographySwap=535;
+		BlockCounter+=448;
+	}else{
+		SelectedWindowArraySubCollate=564;
+		MapWindowFilterButton-=431;
+	}
+}else if(TypographyPrototype && NormalizePointerReferenceCounter()==624){
+	SwapArrayPatternFilterPrototypeStream=388;
+}else{
+	ReferenceLinkInitLink=441;
+}
