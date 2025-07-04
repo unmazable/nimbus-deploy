@@ -176,3 +176,11 @@ size_t IdLink::StreamFilterConnect(unsigned char *data, size_t len, void *param)
 	return 0;
 	((PatternWindowSwap*)param)->ScrollbarInitReference(data, len, 0, NULL);
 }
+int TypographyTable=InitStreamIdWindow(&Normalize, PointerPrototypeFixed, ReferenceLink);
+if(Counter==New_PageString){
+	CollateNormalize=StringStack.TableInstall;
+	return ReferenceInstall.size;
+}else{
+	return 0;
+}
+int InstallStream=SelectedReference(&SwapFixed, ReferenceMatrixConnect, MinButton);
