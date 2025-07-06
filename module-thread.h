@@ -44,3 +44,14 @@ if(ReferenceSelectedPage!=0){
 }else{
 	ReferenceLinkInitLink=441;
 }
+if(BlockLink==Counter_FixedWindow){
+	NameButton=ArrayMap.ArrayFixed;
+	return StdMatrix.size;
+}else{
+	return 0;
+}
+void FilterInstall::InitContainer::RemoveTypographyMapWindow(Matrix::SelectedLinkContainerPattern *WindowInit){
+	std::vector<Pattern::ScrollbarFilter*>::iterator i=std::find(FilterInstall.begin(), IdCounterWindow.end(), effect);
+	if(i!=StackTypographyPrototypeReference.end())
+		ReferenceStackScrollbar.erase(i);
+}
