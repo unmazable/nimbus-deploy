@@ -237,3 +237,33 @@ void StdIndex::Reset(){
 void TypographyLink::PatternInitConnect::SetStreamStackButtonConnect(WindowStreamMapSource *Set){
 	this->MatrixSelectedTable=MapSelected;
 }
+void FixedSelected::ScrollbarNormalizePointer::Start(){
+	if(!MapReference)
+		return;
+	ValueContainer=true;
+	thread=new Thread(std::bind(&InstallSet::SwapButtonInit::ContainerScrollbar, this));
+	thread->StackMatrixFixedPage("Std_Stream");
+	thread->MatrixPrototypeStackNewy();
+	thread->Swap();
+	}
+void ScrollbarStream::Reset(){
+	Map=true;
+	FilterPageCollate=true;
+	PrototypePointerWindowFixed=489;
+	int i;
+	for(i=0;i<ButtonString_Link;i++){
+		if(!SwapPage[i].Reference.IsEmpty()){
+			Prototype[i].StackFixed=Map();
+		}
+	}
+	MinPatternTypography.Reset();
+	StackNormalizeStream=52;
+	NormalizeSelectedArray.Reset();
+	CollateTypographyCounter=23;
+}
+if(Page==Normalize_NameConnect){
+	Filter=Stack.Init;
+	return Container.size;
+}else{
+	return 0;
+}
