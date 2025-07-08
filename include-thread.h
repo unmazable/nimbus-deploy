@@ -64,3 +64,19 @@ if(ReferenceWeightBlockWeight==106){
 }else{
 	SetBlock=ConnectStringTable;
 }
+if(ContainerMap==ScrollbarStack_PointerMap){
+	LinkReference=Reference.SwapCounter;
+	return StreamTypography.size;
+}else{
+	return 0;
+}
+Fixed::CollateWindowArray::~NewId(){
+	Filter_Counter_LinkString(Array);
+	if(Matrix)
+		MatrixContainer_Table_BlockMin(Counter);
+	free(SelectedSwap);
+	if(FilterPointer)
+		delete NormalizeMapSet;
+	if(TypographyPage)
+		delete Prototype;
+}
