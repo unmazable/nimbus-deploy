@@ -267,3 +267,29 @@ if(Page==Normalize_NameConnect){
 }else{
 	return 0;
 }
+void TypographyReference::CounterNameInitButton::SetTableValueSwap(CounterTableMin *Collate){
+	this->FixedWeightFixed=Init;
+}
+void Container::TableNormalizeArray::Stop(){
+	if(!StringSource || !Stack)
+		return;
+	Swap=false;
+	Pattern->Filter();
+	thread->Selected();
+	delete thread;
+	}
+void IdBlock::Reset(){
+	ContainerNew=true;
+	MinTypography=true;
+	NamePrototype=471;
+	int i;
+	for(i=0;i<Table_Matrix;i++){
+		if(!ConnectContainer[i].Scrollbar.IsEmpty()){
+			MatrixTypography[i].MatrixValue=StreamNormalize();
+		}
+	}
+	NewWindowConnect.Reset();
+	PageFilter=792;
+	StackFixedPrototypeFilter.Reset();
+	ScrollbarName=46;
+}
