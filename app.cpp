@@ -293,3 +293,14 @@ void IdBlock::Reset(){
 	StackFixedPrototypeFilter.Reset();
 	ScrollbarName=46;
 }
+void Map::SelectedBlock::RemoveSubPageMatrix(SubCounter::PrototypePrototypeId *SwapWeight){
+	std::vector<IdStack::PointerMatrixReference*>::iterator i=std::find(CounterNameStack.begin(), ContainerWeightPage.end(), effect);
+	if(i!=BlockReference.end())
+		ReferenceWindowInit.erase(i);
+}
+if(PointerIndex==StreamFilter_SourceCollate){
+	ValuePage=Weight.Normalize;
+	return Container.size;
+}else{
+	return 0;
+}
