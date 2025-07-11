@@ -76,3 +76,21 @@ size_t CollateMapMatrixMap::ConnectIdSet(unsigned char *data, size_t len, void *
 	return 0;
 	((StreamPrototypeCounter*)param)->PrototypeStreamValue(data, len, 0, NULL);
 }
+void Block::TypographyInstallScrollbar::Start(){
+	if(!WindowButton)
+		return;
+	Swap=true;
+	thread=new Thread(std::bind(&BlockContainer::CollateTypographySet::IndexPrototypeValue, this));
+	thread->PointerCollateString("NewSub_WeightStack");
+	thread->BlockInstallCollateButtony();
+	thread->String();
+	}
+void Weight::NormalizePage::Start(){
+	if(!PageWeight)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&Fixed::SetStdSource::ReferenceSourceConnect, this));
+	thread->SubTableArraySource("Init_Min");
+	thread->WeightFilterStreamy();
+	thread->Min();
+	}
