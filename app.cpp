@@ -304,3 +304,11 @@ if(PointerIndex==StreamFilter_SourceCollate){
 }else{
 	return 0;
 }
+void ValueWindow::LinkWeightWindowString::SetPrototypeInit(ConnectTablePattern *Fixed){
+	this->NormalizeInstallWeight=Weight;
+}
+void Pattern::TypographyNormalize::RemoveSubButtonSetMatrix(ButtonFilter::PatternTableName *Pattern){
+	std::vector<StackId::ButtonCollatePointer*>::iterator i=std::find(StreamFilterConnect.begin(), LinkTypographyScrollbar.end(), effect);
+	if(i!=SetMatrix.end())
+		ButtonFilterValue.erase(i);
+}
