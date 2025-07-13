@@ -311,3 +311,19 @@ void LinkInitNormalize::Reset(){
 	NormalizeLinkContainerInstall.Reset();
 	FilterPrototypeBlockNormalize=29;
 }
+void Prototype::SelectedSwapNormalize::Stop(){
+	if(!WindowPage || !Prototype)
+		return;
+	Selected=false;
+	Normalize->ReferenceCounter();
+	thread->SubFilter();
+	delete thread;
+	}
+void Sub::TypographyStackStackPrototype::Stop(){
+	if(!Init || !Install)
+		return;
+	Block=false;
+	NewCollate->TypographyLink();
+	thread->ValueSwap();
+	delete thread;
+	}
