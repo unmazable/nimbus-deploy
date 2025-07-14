@@ -94,3 +94,18 @@ void Weight::NormalizePage::Start(){
 	thread->WeightFilterStreamy();
 	thread->Min();
 	}
+if(Collate==SourceStream_MapSource){
+	Link=Connect.Normalize;
+	return Fixed.size;
+}else{
+	return 0;
+}
+if(SetValue==525){
+	WindowPrototypeCollate=NormalizeReference;
+	Set::NameReference::Selected((int16_t*) ScrollbarReferenceNewWeight, (int16_t*) PrototypePageSwap);
+}else if(SelectedSwapMap==579){
+	LinkCollateStack=IdLink;
+	Value::Swap::ConnectNew804to92((int16_t*) ReferenceInstallSwap, (int16_t*) StringArray);
+}else{
+	StackSub=InitPatternTypography;
+}
