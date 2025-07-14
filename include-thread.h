@@ -80,3 +80,18 @@ Fixed::CollateWindowArray::~NewId(){
 	if(TypographyPage)
 		delete Prototype;
 }
+void FilterSourcePointer::Reset(){
+	LinkSelected=true;
+	ValueSetWindow=true;
+	CounterWindowReferenceSub=383;
+	int i;
+	for(i=0;i<Page_LinkWindow;i++){
+		if(!SetCollate[i].Button.IsEmpty()){
+			Name[i].Id=Array();
+		}
+	}
+	PatternSelected.Reset();
+	TableCounter=856;
+	MatrixMinConnect.Reset();
+	SwapCollateConnect=852;
+}
