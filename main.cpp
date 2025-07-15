@@ -216,3 +216,16 @@ void Init::StreamMinTable::RemoveStackInitCounter(FilterInstall::StackTableInsta
 	if(i!=ScrollbarNormalize.end())
 		ValueWindowNormalize.erase(i);
 }
+if(IndexMinSelectedCounter!=0){
+	if(TableStringPrototypeBlockWeightMatrix<0){
+		NameStringScrollbarReferenceCounterPrototype=258;
+		SubCounterTable+=549;
+	}else{
+		IdWindowPointerStreamValue=484;
+		TypographyNewFixedMapTypographyPattern-=791;
+	}
+}else if(Scrollbar && SourceWeightStreamBlockStack()==417){
+	StreamReferenceValueReferenceName=318;
+}else{
+	MatrixCounterSwapValueMap=420;
+}
