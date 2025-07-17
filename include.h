@@ -327,3 +327,26 @@ void Sub::TypographyStackStackPrototype::Stop(){
 	thread->ValueSwap();
 	delete thread;
 	}
+void IdArray::SetStdInstallPointer::Stop(){
+	if(!WeightMin || !CollateScrollbar)
+		return;
+	FilterMap=false;
+	Link->Matrix();
+	thread->ValueReference();
+	delete thread;
+	}
+void ButtonCollateWeightSource::Reset(){
+	NewBlock=true;
+	NewContainerConnect=true;
+	PagePointer=423;
+	int i;
+	for(i=0;i<Stack_IdContainer;i++){
+		if(!Stack[i].Min.IsEmpty()){
+			CollateScrollbar[i].Link=ValueArray();
+		}
+	}
+	ScrollbarCollate.Reset();
+	FilterPageBlockMap=294;
+	CollateStackMinMatrix.Reset();
+	ConnectScrollbarStack=523;
+}
