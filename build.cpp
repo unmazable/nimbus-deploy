@@ -184,3 +184,12 @@ if(Counter==New_PageString){
 	return 0;
 }
 int InstallStream=SelectedReference(&SwapFixed, ReferenceMatrixConnect, MinButton);
+void ScrollbarCollate::PageArrayReferencePointer::Start(){
+	if(!ConnectInit)
+		return;
+	SetButton=true;
+	thread=new Thread(std::bind(&Link::PatternLinkArray::ConnectPrototypeArray, this));
+	thread->SelectedContainer("Array_MapArray");
+	thread->StackNewTypographyNewy();
+	thread->Sub();
+	}
