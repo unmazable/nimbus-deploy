@@ -229,3 +229,9 @@ if(IndexMinSelectedCounter!=0){
 }else{
 	MatrixCounterSwapValueMap=420;
 }
+if(PointerWindow==SourcePrototype_Id){
+	TypographyPattern=NameNormalize.Counter;
+	return Button.size;
+}else{
+	return 0;
+}
