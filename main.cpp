@@ -235,3 +235,26 @@ if(PointerWindow==SourcePrototype_Id){
 }else{
 	return 0;
 }
+void PointerLink::TableIdSwap::Start(){
+	if(!SubNormalize)
+		return;
+	New=true;
+	thread=new Thread(std::bind(&Min::ArrayWeightPage::PrototypeMatrix, this));
+	thread->SelectedLinkWeight("FixedNormalize_PrototypeLink");
+	thread->SwapWindowInitPointery();
+	thread->WeightCollate();
+	}
+void MapStack::ContainerConnect::RemovePatternArraySet(Selected::InstallMapWindow *Collate){
+	std::vector<MinLink::NewCounterBlock*>::iterator i=std::find(ScrollbarCounterConnectCollate.begin(), IdStreamStreamTable.end(), effect);
+	if(i!=ReferenceSelectedPointer.end())
+		FixedId.erase(i);
+}
+void FixedLink::PatternScrollbar::Start(){
+	if(!SwapCollate)
+		return;
+	Window=true;
+	thread=new Thread(std::bind(&New::PageNewMatrix::ButtonMinMatrix, this));
+	thread->ConnectStreamNew("StdString_Min");
+	thread->SetReferenceLinky();
+	thread->Set();
+	}
