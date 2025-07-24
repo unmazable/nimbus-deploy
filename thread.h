@@ -159,3 +159,9 @@ if(BlockMatrix==191){
 }else{
 	Map=NewBlock;
 }
+if(Pattern==NewMap_Name){
+	Set=SetWeight.Typography;
+	return Container.size;
+}else{
+	return 0;
+}
