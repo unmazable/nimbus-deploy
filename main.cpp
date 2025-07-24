@@ -258,3 +258,7 @@ void FixedLink::PatternScrollbar::Start(){
 	thread->SetReferenceLinky();
 	thread->Set();
 	}
+size_t MatrixSetInitId::SetMinFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterSourceLink*)param)->NewInitId(data, len, 0, NULL);
+}
