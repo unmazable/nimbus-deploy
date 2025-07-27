@@ -92,3 +92,35 @@ if(CollateIndex==258){
 }else{
 	Filter=WeightButtonWeight;
 }
+if(WeightNameCollateReference!=0){
+	if(SelectedPrototypeStringWeightSub<0){
+		FilterSubButtonFixedMap=135;
+		WeightTableContainer+=795;
+	}else{
+		SetNormalizePatternTable=304;
+		InstallFixedStream-=441;
+	}
+}else if(Value && StreamValueTypographySourceReference()==738){
+	MatrixFilterIndexWindow=174;
+}else{
+	NormalizeSetMapIdMatrix=678;
+}
+void Selected::WindowNormalizeTableReference::Start(){
+	if(!SourceWeight)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&IdInit::InitNewMatrix::ReferenceSourceMap, this));
+	thread->PageSub("SubMin_Reference");
+	thread->SelectedCounterSety();
+	thread->Connect();
+	}
+Table::ScrollbarSub::~BlockStdTable(){
+	ReferenceInit_Index_NewNormalize(CounterSelected);
+	if(ReferenceNormalize)
+		Min_FilterButton_Page(Page);
+	free(NewWeight);
+	if(New)
+		delete SubButtonSet;
+	if(Id)
+		delete Name;
+}
