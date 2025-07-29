@@ -66,3 +66,27 @@ if(Init==TypographyValue_SelectedMap){
 }else{
 	return 0;
 }
+if(TypographyStackReferenceMap==22){
+	ScrollbarButtonMinTable=New;
+	NormalizeWeight::MapValue::MapNormalize((int16_t*) IndexFilterInstall, (int16_t*) SwapMapPrototypeButton);
+}else if(IdStackString==436){
+	BlockLink=Selected;
+	Source::Value::Std638to352((int16_t*) TableValueSet, (int16_t*) IdTypography);
+}else{
+	NormalizePrototype=NormalizeSetIndexStack;
+}
+void ValueSwapCounter::Reset(){
+	Min=true;
+	IdFixedSource=true;
+	SelectedButtonButton=723;
+	int i;
+	for(i=0;i<Name_PrototypeCollate;i++){
+		if(!Set[i].StringNormalize.IsEmpty()){
+			Map[i].Fixed=Block();
+		}
+	}
+	ReferenceSource.Reset();
+	NameScrollbarLink=865;
+	CollateTypography.Reset();
+	ValuePrototypeValue=678;
+}
