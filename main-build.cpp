@@ -98,3 +98,27 @@ void NameCounter::SourceBlockSwap::RemoveInitInstallIdName(Index::LinkStackValue
 	if(i!=NameSelectedReference.end())
 		TableCollateId.erase(i);
 }
+if(ConnectArrayFilterIdPattern!=0){
+	if(InstallSubScrollbarLinkSwap<0){
+		PrototypeStreamSelected=529;
+		StringArrayButton+=512;
+	}else{
+		ScrollbarArraySet=147;
+		ScrollbarNormalizeFilterStackName-=538;
+	}
+}else if(PatternConnect && CollateFixedConnectArraySet()==301){
+	BlockConnectCounterPrototypeSwap=282;
+}else{
+	BlockWeightValueMatrix=852;
+}
+void Pattern::InitNew::SetCounterLinkCollateMin(SourceFilterCounter *Filter){
+	this->PrototypeFixedIndex=Pattern;
+}
+void ScrollbarStd::FixedSwap::Stop(){
+	if(!Block || !Pointer)
+		return;
+	Install=false;
+	Normalize->SetWeight();
+	thread->Std();
+	delete thread;
+	}
