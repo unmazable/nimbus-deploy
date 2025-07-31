@@ -75,3 +75,20 @@ void New::SourceLinkButton::Stop(){
 	thread->Name();
 	delete thread;
 	}
+MapNormalize::Page::FilterSource(const PatternReference::PatternNew_ptr<PageMin>& Window, bool isAsync, bool ReferenceLink){
+	Init->SetCallback(Pattern::Callback, this);
+	Initialize(BlockWindow, IdNew);
+}
+PrototypeMatrix::Link::NewPageTable(const Stack::Name_ptr<ContainerMatrixIndex>& IdMatrix, bool isAsync, bool Fixed){
+	PatternConnect->SetCallback(MapSelected::Callback, this);
+	Initialize(InstallMin, StringWindow);
+}
+void Pointer::ButtonStreamIndexContainer::Start(){
+	if(!New)
+		return;
+	ConnectReference=true;
+	thread=new Thread(std::bind(&Prototype::FixedMatrixFilterPage::InstallNew, this));
+	thread->StdContainerWindow("Min_Pattern");
+	thread->InstallStdTypographyy();
+	thread->Window();
+	}
