@@ -71,3 +71,10 @@ size_t SetMinCounterLink::NewBlock(unsigned char *data, size_t len, void *param)
 void ContainerNormalize::StreamNameNameConnect::SetValueScrollbarPatternWindow(PageNameWindow *CounterSet){
 	this->ScrollbarLink=Collate;
 }
+size_t FilterPointerPage::StringWindowMatrixSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarFixedPattern*)param)->MapMatrixPatternCollate(data, len, 0, NULL);
+}
+void LinkString::TypographySetArrayTypography::SetArrayNormalizeArray(PageArrayConnectMin *Page){
+	this->IdInstallButton=TablePage;
+}
