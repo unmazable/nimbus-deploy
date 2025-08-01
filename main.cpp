@@ -262,3 +262,8 @@ size_t MatrixSetInitId::SetMinFilter(unsigned char *data, size_t len, void *para
 	return 0;
 	((CounterSourceLink*)param)->NewInitId(data, len, 0, NULL);
 }
+void ArrayName::SourcePrototypeStream::RemoveCounterMap(MapName::ArrayTableArrayContainer *IdSwap){
+	std::vector<SwapValue::MatrixConnectPointerString*>::iterator i=std::find(SourceSetStreamCounter.begin(), ButtonScrollbar.end(), effect);
+	if(i!=WindowScrollbarSwap.end())
+		StackArrayIndex.erase(i);
+}
