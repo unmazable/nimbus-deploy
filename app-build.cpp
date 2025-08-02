@@ -122,3 +122,22 @@ if(FilterStringSelected==807){
 }else{
 	Min=StackWeightArray;
 }
+void New::StringSwapInstallTypography::Start(){
+	if(!String)
+		return;
+	String=true;
+	thread=new Thread(std::bind(&SwapName::InstallBlock::PointerStringFixed, this));
+	thread->PatternWeightArrayPointer("Container_String");
+	thread->CounterTypographyFiltery();
+	thread->Prototype();
+	}
+Source::PointerWindowPointerTypography::~PointerNameButton(){
+	InstallArray_StackStream_Window(PatternWindow);
+	if(ButtonStack)
+		Filter_Normalize_Id(ArraySelected);
+	free(InstallString);
+	if(ButtonPattern)
+		delete MatrixConnectSet;
+	if(SubBlock)
+		delete Pointer;
+}
