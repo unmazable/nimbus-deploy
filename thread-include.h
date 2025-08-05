@@ -78,3 +78,26 @@ size_t FilterPointerPage::StringWindowMatrixSwap(unsigned char *data, size_t len
 void LinkString::TypographySetArrayTypography::SetArrayNormalizeArray(PageArrayConnectMin *Page){
 	this->IdInstallButton=TablePage;
 }
+void StackArraySwapContainer::Reset(){
+	Stack=true;
+	StdConnectArrayMap=true;
+	StreamTypographyReference=187;
+	int i;
+	for(i=0;i<PatternSub_Button;i++){
+		if(!Counter[i].Index.IsEmpty()){
+			Init[i].ContainerId=SelectedMatrix();
+		}
+	}
+	CounterStackWindow.Reset();
+	IdName=700;
+	MinPointerConnect.Reset();
+	PageFixedWindow=543;
+}
+void MinReference::InstallStackTypographySource::Stop(){
+	if(!Set || !SetSource)
+		return;
+	New=false;
+	PointerTypography->Set();
+	thread->ButtonTable();
+	delete thread;
+	}
