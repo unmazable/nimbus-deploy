@@ -78,3 +78,23 @@ void ButtonInstall::Reset(){
 	TypographyCounterCollateSet.Reset();
 	CollateString=268;
 }
+if(MinWeight==Container_Source){
+	Block=Filter.LinkPattern;
+	return Source.size;
+}else{
+	return 0;
+}
+void SourceFilter::ConnectPointerString::Stop(){
+	if(!Connect || !Stack)
+		return;
+	ArrayTypography=false;
+	Link->CollateSelected();
+	thread->PointerBlock();
+	delete thread;
+	}
+if(New==WeightName_PageTypography){
+	Pointer=MapStream.Normalize;
+	return InitStd.size;
+}else{
+	return 0;
+}
