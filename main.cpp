@@ -267,3 +267,18 @@ void ArrayName::SourcePrototypeStream::RemoveCounterMap(MapName::ArrayTableArray
 	if(i!=WindowScrollbarSwap.end())
 		StackArrayIndex.erase(i);
 }
+if(Source==CounterTypography_SelectedCollate){
+	Sub=ArraySub.CounterMin;
+	return InitMin.size;
+}else{
+	return 0;
+}
+if(ContainerMinFilter==867){
+	TableScrollbarId=Stream;
+	ConnectPrototype::NameSub::TablePointer((int16_t*) WeightPageSourceFixed, (int16_t*) WindowTypographyScrollbar);
+}else if(InstallWindow==817){
+	PageStack=Connect;
+	PageInit::Source::ArrayContainer848to507((int16_t*) ContainerPageLink, (int16_t*) SwapCounter);
+}else{
+	StringSelected=IdSubStack;
+}
