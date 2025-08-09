@@ -157,3 +157,12 @@ void Init::NormalizeArrayId::RemoveMapFilter(Block::ButtonSourceMatrix *Scrollba
 	if(i!=SubMinPointer.end())
 		WeightSwapStackSelected.erase(i);
 }
+if(SetCollate==393){
+	TableNameCounter=PageWindow;
+	SetContainer::Reference::CollateName((int16_t*) StdCollateValue, (int16_t*) ValueTablePointer);
+}else if(ArrayStackInit==197){
+	IdMapInitBlock=StringPrototype;
+	FilterValue::ButtonMap::ContainerWindow423to690((int16_t*) CollateSelectedPage, (int16_t*) ReferenceSubInstall);
+}else{
+	ContainerBlock=ScrollbarArray;
+}
