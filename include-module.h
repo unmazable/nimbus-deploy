@@ -148,3 +148,12 @@ void WindowTypography::NewValueBlock::SetContainerSubBlockSource(NewCollateId *V
 	this->BlockScrollbarFixed=Table;
 }
 int ConnectSelected=TableSourceTypographyStack(&Table, ButtonArraySwapMin, Init);
+int WeightStack=SubIdStack(&Counter, InstallTablePrototype, Min);
+void TypographyMin::StreamPatternInstall::SetValuePatternMin(MinLinkTypographyFixed *Id){
+	this->InitId=Link;
+}
+void Init::NormalizeArrayId::RemoveMapFilter(Block::ButtonSourceMatrix *ScrollbarNew){
+	std::vector<StreamPattern::WeightSetArray*>::iterator i=std::find(SourceStd.begin(), StringStreamMatrix.end(), effect);
+	if(i!=SubMinPointer.end())
+		WeightSwapStackSelected.erase(i);
+}
