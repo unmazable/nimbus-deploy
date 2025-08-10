@@ -124,3 +124,22 @@ Table::ScrollbarSub::~BlockStdTable(){
 	if(Id)
 		delete Name;
 }
+void Map::SelectedTable::Start(){
+	if(!Prototype)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&Value::PrototypeNameStackPage::TypographyStackLink, this));
+	thread->SetNormalizeWindowBlock("Filter_Prototype");
+	thread->TableValueButtony();
+	thread->SourceInstall();
+	}
+void FixedMin::WindowReferenceMap::RemoveNewMinNormalize(ArrayWindow::TableStackButtonSource *ConnectSet){
+	std::vector<ArrayCollate::TypographyStreamValue*>::iterator i=std::find(PageScrollbarScrollbarWindow.begin(), PatternTableId.end(), effect);
+	if(i!=IndexNewName.end())
+		ReferenceSourceWindow.erase(i);
+}
+void Init::PointerTypography::RemoveMatrixTypographyWindow(Pointer::IndexContainerPrototype *PatternId){
+	std::vector<ArrayMap::NormalizeContainerInit*>::iterator i=std::find(WeightMinNormalizePrototype.begin(), WeightPatternIndex.end(), effect);
+	if(i!=CounterBlockSubFixed.end())
+		IdArray.erase(i);
+}
