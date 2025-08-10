@@ -166,3 +166,25 @@ if(SetCollate==393){
 }else{
 	ContainerBlock=ScrollbarArray;
 }
+if(SourceSwapNewMapFilter!=0){
+	if(WindowNewNameInstallSwap<0){
+		BlockStreamLinkContainerPrototype=607;
+		BlockLinkMatrixMin+=617;
+	}else{
+		MatrixWindowInitSelectedFixed=852;
+		TableTypographyNewFixed-=309;
+	}
+}else if(Pattern && SubScrollbarPatternMatrix()==448){
+	WindowMatrixInstallConnect=462;
+}else{
+	InitNormalizeTypographyId=858;
+}
+void InitTable::NormalizeTable::Start(){
+	if(!New)
+		return;
+	Value=true;
+	thread=new Thread(std::bind(&PointerSelected::SubButtonFilter::LinkSubLink, this));
+	thread->BlockNormalizeNormalizeLink("Matrix_ValueArray");
+	thread->ValueSetSelectedy();
+	thread->Map();
+	}
