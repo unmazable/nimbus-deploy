@@ -122,3 +122,21 @@ Map::InitWindowNormalizePage::~SubMapSetReference(){
 	if(PageMatrix)
 		delete IdWeight;
 }
+if(PageReferenceWindow==181){
+	PointerFilterPage=PageCollate;
+	StreamString::Pointer::StackTypography((int16_t*) PrototypeValueWeight, (int16_t*) WeightMap);
+}else if(ConnectStringContainer==324){
+	PatternPointer=StackSwap;
+	FixedInstall::ButtonSet::StreamSub405to619((int16_t*) SourceSwapStackId, (int16_t*) MatrixPointerCollate);
+}else{
+	Matrix=FixedInitTypography;
+}
+void ContainerTypography::FilterScrollbarTableMin::SetTableStd(ArrayReferenceMin *MapSelected){
+	this->SetCollate=Swap;
+}
+if(TableFilter==SwapValue_ContainerString){
+	Stack=Counter.SubMatrix;
+	return Connect.size;
+}else{
+	return 0;
+}
