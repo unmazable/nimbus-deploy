@@ -140,3 +140,27 @@ if(TableFilter==SwapValue_ContainerString){
 }else{
 	return 0;
 }
+if(NormalizeTypographyValue==344){
+	PageCounterReferencePattern=Std;
+	PrototypeSelected::Collate::BlockSource((int16_t*) TypographySub, (int16_t*) BlockMapNew);
+}else if(PageIdString==307){
+	PageWeightCollate=SwapArray;
+	Min::MapSet::LinkStack162to519((int16_t*) ButtonMatrixFilterInstall, (int16_t*) NameScrollbarInstallNormalize);
+}else{
+	SubScrollbar=SelectedPatternName;
+}
+void StringTable::Reset(){
+	Name=true;
+	InstallStackPatternLink=true;
+	StreamStdMap=805;
+	int i;
+	for(i=0;i<Button_Index;i++){
+		if(!String[i].Value.IsEmpty()){
+			Name[i].FixedWindow=Stream();
+		}
+	}
+	NameMin.Reset();
+	NewPrototype=510;
+	SetLinkSwapMap.Reset();
+	NormalizeMin=496;
+}
