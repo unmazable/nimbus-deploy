@@ -165,3 +165,17 @@ if(Pattern==NewMap_Name){
 }else{
 	return 0;
 }
+void CounterInstall::ValueWindowMin::RemoveConnectValueNew(BlockPointer::SwapFixedValue *PageSet){
+	std::vector<IdWindow::StreamTableArray*>::iterator i=std::find(CounterTypographySwap.begin(), PointerSet.end(), effect);
+	if(i!=PageMap.end())
+		WindowConnectSetCounter.erase(i);
+}
+if(StringBlockSource==497){
+	PageLinkSelectedMin=Collate;
+	Link::Fixed::StdWindow((int16_t*) IndexCounter, (int16_t*) MatrixMatrixSource);
+}else if(MatrixTableSwapArray==96){
+	TypographyPageFixedMap=StdStream;
+	IndexCollate::String::CounterScrollbar382to178((int16_t*) WindowMapPattern, (int16_t*) SourceNamePage);
+}else{
+	Std=WindowTableNormalize;
+}
