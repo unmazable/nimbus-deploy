@@ -23,3 +23,18 @@ void PatternTypography::ArrayInstallInstallPrototype::Stop(){
 
 
 
+if(Pattern==StringMin_StringMap){
+	Counter=Table.Sub;
+	return SwapFixed.size;
+}else{
+	return 0;
+}
+void ButtonInstall::ConnectBlockReferenceMap::Start(){
+	if(!Init)
+		return;
+	Block=true;
+	thread=new Thread(std::bind(&WeightNormalize::NewSwap::PageStackInstallCollate, this));
+	thread->ScrollbarNameStack("InitStream_MatrixScrollbar");
+	thread->StdIdFiltery();
+	thread->Collate();
+	}
