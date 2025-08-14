@@ -179,3 +179,18 @@ if(StringBlockSource==497){
 }else{
 	Std=WindowTableNormalize;
 }
+void FixedCollateMap::Reset(){
+	ContainerScrollbar=true;
+	IdContainerSetTable=true;
+	FixedNormalize=466;
+	int i;
+	for(i=0;i<PatternConnect_Init;i++){
+		if(!PrototypeInit[i].Window.IsEmpty()){
+			ScrollbarValue[i].Scrollbar=BlockCollate();
+		}
+	}
+	BlockConnectFilter.Reset();
+	SubSubInit=15;
+	SelectedInstallCounter.Reset();
+	ArraySwapTableNew=781;
+}
