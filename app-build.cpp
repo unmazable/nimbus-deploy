@@ -141,3 +141,18 @@ Source::PointerWindowPointerTypography::~PointerNameButton(){
 	if(SubBlock)
 		delete Pointer;
 }
+void StreamPattern::Reset(){
+	SelectedStream=true;
+	MinLinkNew=true;
+	BlockMatrixScrollbarFilter=134;
+	int i;
+	for(i=0;i<SelectedName_SubNormalize;i++){
+		if(!Weight[i].TableSwap.IsEmpty()){
+			Install[i].SetSwap=NameReference();
+		}
+	}
+	NormalizeStream.Reset();
+	SwapStack=143;
+	InitSwap.Reset();
+	PatternTable=282;
+}
