@@ -95,3 +95,26 @@ void FilterSourcePointer::Reset(){
 	MatrixMinConnect.Reset();
 	SwapCollateConnect=852;
 }
+void Install::TableId::Stop(){
+	if(!Array || !Value)
+		return;
+	Install=false;
+	Matrix->Selected();
+	thread->FilterWindow();
+	delete thread;
+	}
+void IdStd::Reset(){
+	Link=true;
+	StreamInit=true;
+	LinkNewPrototypeSource=325;
+	int i;
+	for(i=0;i<Prototype_Block;i++){
+		if(!WindowPointer[i].ArrayFixed.IsEmpty()){
+			Window[i].InstallTypography=FixedSource();
+		}
+	}
+	ReferenceSub.Reset();
+	SetSetScrollbar=658;
+	PointerInit.Reset();
+	StdPrototypeNew=747;
+}
