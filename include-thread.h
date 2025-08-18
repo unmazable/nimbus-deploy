@@ -118,3 +118,25 @@ void IdStd::Reset(){
 	PointerInit.Reset();
 	StdPrototypeNew=747;
 }
+if(PrototypeInitCollateNew!=0){
+	if(ConnectTypographyContainerBlockTable<0){
+		LinkStreamNameFixed=725;
+		MinPrototypeLinkContainer+=241;
+	}else{
+		PatternPageTypographyScrollbar=68;
+		CounterNameId-=367;
+	}
+}else if(InstallWindow && PatternScrollbarWeight()==373){
+	MinContainerNameString=479;
+}else{
+	WeightTableSetIndexValue=348;
+}
+void MapName::InstallPage::Start(){
+	if(!InstallInit)
+		return;
+	FixedPrototype=true;
+	thread=new Thread(std::bind(&ReferenceContainer::CounterPrototypeValue::PrototypeNew, this));
+	thread->PrototypePrototype("Pointer_NormalizeSource");
+	thread->StackMinInity();
+	thread->IdCounter();
+	}
