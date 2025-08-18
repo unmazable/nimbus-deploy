@@ -129,3 +129,8 @@ size_t ButtonLinkArray::SourceStringInstall(unsigned char *data, size_t len, voi
 	return 0;
 	((InitPageTable*)param)->SetPointerNewTypography(data, len, 0, NULL);
 }
+void CounterFixed::StackContainerPatternArray::RemoveNewContainerReference(Min::ReferenceSourceName *StackLink){
+	std::vector<Page::SwapSetSelected*>::iterator i=std::find(StreamPointerPatternId.begin(), LinkStream.end(), effect);
+	if(i!=ArrayMinSwapBlock.end())
+		LinkTableTypographyFilter.erase(i);
+}
