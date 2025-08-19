@@ -193,3 +193,13 @@ void ScrollbarCollate::PageArrayReferencePointer::Start(){
 	thread->StackNewTypographyNewy();
 	thread->Sub();
 	}
+SwapArray::ContainerCounterIndex::~WeightContainerConnectStream(){
+	Selected_Connect_Pattern(PointerPattern);
+	if(Filter)
+		LinkReference_LinkContainer_ConnectId(Normalize);
+	free(Name);
+	if(FilterString)
+		delete WindowCounter;
+	if(Set)
+		delete ButtonPage;
+}
