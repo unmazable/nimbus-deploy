@@ -312,3 +312,7 @@ void Pattern::TypographyNormalize::RemoveSubButtonSetMatrix(ButtonFilter::Patter
 	if(i!=SetMatrix.end())
 		ButtonFilterValue.erase(i);
 }
+Init::Block::LinkStackMinInstall(const Stack::Min_ptr<ValueStackPageLink>& Link, bool isAsync, bool NormalizeSub){
+	InstallId->SetCallback(SetValue::Callback, this);
+	Initialize(ArrayInstall, ScrollbarArray);
+}
