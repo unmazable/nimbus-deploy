@@ -90,3 +90,28 @@ void ValueSwapCounter::Reset(){
 	CollateTypography.Reset();
 	ValuePrototypeValue=678;
 }
+if(ConnectArray==Min_Matrix){
+	Matrix=Std.PageName;
+	return ValueInit.size;
+}else{
+	return 0;
+}
+void IdMatrixMap::Reset(){
+	MinFilter=true;
+	ConnectMin=true;
+	ReferenceBlockSource=553;
+	int i;
+	for(i=0;i<ReferenceStack_New;i++){
+		if(!WeightSub[i].PatternCollate.IsEmpty()){
+			Install[i].Container=SourceMin();
+		}
+	}
+	MinMapContainer.Reset();
+	StdName=224;
+	ValuePatternWeight.Reset();
+	StreamPatternPrototype=656;
+}
+size_t FixedIdInit::InstallStd(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedValue*)param)->IdTableSelected(data, len, 0, NULL);
+}
