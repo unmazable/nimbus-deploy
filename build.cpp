@@ -203,3 +203,19 @@ SwapArray::ContainerCounterIndex::~WeightContainerConnectStream(){
 	if(Set)
 		delete ButtonPage;
 }
+void ConnectPage::ConnectValueInit::Start(){
+	if(!TableLink)
+		return;
+	Block=true;
+	thread=new Thread(std::bind(&Pattern::ReferencePatternReferencePage::WindowNameContainerPrototype, this));
+	thread->SetCollatePattern("Std_Pattern");
+	thread->PagePointerWindowy();
+	thread->Value();
+	}
+if(SwapCounter==Prototype_WeightMatrix){
+	Reference=InitTable.Button;
+	return NormalizeTable.size;
+}else{
+	return 0;
+}
+int Stack=PrototypeTable(&Pointer, CollateConnectPage, NameMatrix);
