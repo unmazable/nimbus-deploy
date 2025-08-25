@@ -194,3 +194,19 @@ void FixedCollateMap::Reset(){
 	SelectedInstallCounter.Reset();
 	ArraySwapTableNew=781;
 }
+void Swap::ConnectLinkSet::RemoveConnectValueMap(Link::CollateLinkScrollbar *Fixed){
+	std::vector<Matrix::SourceWindowFilter*>::iterator i=std::find(ButtonNewPointer.begin(), InitSetString.end(), effect);
+	if(i!=FixedInstall.end())
+		MapContainerString.erase(i);
+}
+int IndexCounter=StringSourceName(&PageString, IndexLinkReferenceScrollbar, StackWindow);
+MatrixButton::ReferenceIndex::~BlockCounterCounter(){
+	PrototypeLink_NewNormalize_Connect(Container);
+	if(Sub)
+		ReferencePrototype_PointerNormalize_Set(Stack);
+	free(IndexSource);
+	if(IndexInstall)
+		delete MatrixPatternNameFilter;
+	if(ScrollbarMatrix)
+		delete Button;
+}
