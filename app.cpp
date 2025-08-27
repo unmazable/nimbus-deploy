@@ -316,3 +316,33 @@ Init::Block::LinkStackMinInstall(const Stack::Min_ptr<ValueStackPageLink>& Link,
 	InstallId->SetCallback(SetValue::Callback, this);
 	Initialize(ArrayInstall, ScrollbarArray);
 }
+void Container::ContainerNameSource::Start(){
+	if(!StdPage)
+		return;
+	Scrollbar=true;
+	thread=new Thread(std::bind(&TypographyString::ContainerNormalizeConnectMin::WeightFixedWeight, this));
+	thread->ButtonStream("SwapMap_Connect");
+	thread->MatrixSuby();
+	thread->MapSub();
+	}
+void MinFixedArray::Reset(){
+	TypographySource=true;
+	IdNewInstallWeight=true;
+	MapNameName=858;
+	int i;
+	for(i=0;i<MatrixPointer_ScrollbarNew;i++){
+		if(!MatrixWeight[i].TypographyCounter.IsEmpty()){
+			Selected[i].New=Swap();
+		}
+	}
+	MatrixIndexInit.Reset();
+	WeightFixed=308;
+	StreamTypographyArray.Reset();
+	ContainerCounterLink=532;
+}
+if(LinkNew==ArrayBlock_MatrixNormalize){
+	String=FilterScrollbar.ScrollbarName;
+	return TableArray.size;
+}else{
+	return 0;
+}
