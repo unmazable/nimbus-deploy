@@ -219,3 +219,28 @@ if(SwapCounter==Prototype_WeightMatrix){
 	return 0;
 }
 int Stack=PrototypeTable(&Pointer, CollateConnectPage, NameMatrix);
+void Install::NameSwap::Start(){
+	if(!PatternInstall)
+		return;
+	Array=true;
+	thread=new Thread(std::bind(&MapPattern::StringMatrixTableLink::BlockLinkFixed, this));
+	thread->SetScrollbarSelected("Selected_MapMin");
+	thread->CounterWindowNewCountery();
+	thread->ValuePointer();
+	}
+if(MatrixInstall==ContainerTypography_NameMin){
+	Block=NameFixed.SourceConnect;
+	return InstallWindow.size;
+}else{
+	return 0;
+}
+Stack::ConnectNormalize::~SourceIdPattern(){
+	Install_Name_ReferencePattern(Window);
+	if(Source)
+		SourceSub_LinkCounter_ButtonValue(SelectedPointer);
+	free(Reference);
+	if(Map)
+		delete SwapPrototypeStringMin;
+	if(Weight)
+		delete StdContainer;
+}
