@@ -92,3 +92,23 @@ void Pointer::ButtonStreamIndexContainer::Start(){
 	thread->InstallStdTypographyy();
 	thread->Window();
 	}
+void Prototype::IdWeight::RemoveButtonSwapPrototype(ContainerScrollbar::TableInstall *FilterPointer){
+	std::vector<Container::PatternNameName*>::iterator i=std::find(ContainerCollateFixed.begin(), SubMapPointerLink.end(), effect);
+	if(i!=CounterContainerSet.end())
+		SelectedValueArrayScrollbar.erase(i);
+}
+void PageReferenceTable::Reset(){
+	SubInstall=true;
+	BlockStringPage=true;
+	PageStdWindowName=432;
+	int i;
+	for(i=0;i<Page_Table;i++){
+		if(!Container[i].ValueTypography.IsEmpty()){
+			MinStd[i].MapStd=Button();
+		}
+	}
+	ScrollbarLinkIdTypography.Reset();
+	FixedStringSub=94;
+	PageSourceBlock.Reset();
+	NameNameNormalize=285;
+}
