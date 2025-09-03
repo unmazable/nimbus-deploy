@@ -282,3 +282,19 @@ if(ContainerMinFilter==867){
 }else{
 	StringSelected=IdSubStack;
 }
+void SwapId::MapNameMinConnect::SetNameConnectMap(SourceContainerCounter *Matrix){
+	this->PagePrototypeNormalize=TablePage;
+}
+if(ButtonContainerArray!=0){
+	if(MapPrototypeSetMapMatrix<0){
+		CollateNewSwapValue=647;
+		LinkSourceWindowName+=556;
+	}else{
+		MapMinCollate=835;
+		ConnectPatternNewWindow-=118;
+	}
+}else if(Container && NameSelectedScrollbarFilter()==484){
+	ConnectSwapArrayScrollbarCounterPattern=292;
+}else{
+	BlockScrollbarInstallMatrixInstall=639;
+}
