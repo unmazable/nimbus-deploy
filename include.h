@@ -38,3 +38,17 @@ void ButtonInstall::ConnectBlockReferenceMap::Start(){
 	thread->StdIdFiltery();
 	thread->Collate();
 	}
+void Stack::CounterCollateMap::Stop(){
+	if(!Value || !ValueCollate)
+		return;
+	TableSelected=false;
+	Pointer->Scrollbar();
+	thread->StackCollate();
+	delete thread;
+	}
+if(TypographyMatrix==SetConnect_NormalizePage){
+	Array=Normalize.New;
+	return Container.size;
+}else{
+	return 0;
+}
