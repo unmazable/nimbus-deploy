@@ -210,3 +210,21 @@ MatrixButton::ReferenceIndex::~BlockCounterCounter(){
 	if(ScrollbarMatrix)
 		delete Button;
 }
+void BlockStringReference::Reset(){
+	TypographyInstall=true;
+	PrototypePage=true;
+	StringInitPointer=127;
+	int i;
+	for(i=0;i<ConnectId_Init;i++){
+		if(!NameReference[i].Source.IsEmpty()){
+			PatternSwap[i].FixedWeight=ReferenceFixed();
+		}
+	}
+	StackPageScrollbar.Reset();
+	MinPrototypeLink=85;
+	MatrixSourceStringPointer.Reset();
+	SelectedIdWeightReference=435;
+}
+void Link::ConnectStd::SetScrollbarTable(ConnectLink *PointerCounter){
+	this->FilterSub=New;
+}
