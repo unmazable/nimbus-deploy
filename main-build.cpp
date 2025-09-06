@@ -122,3 +122,29 @@ void ScrollbarStd::FixedSwap::Stop(){
 	thread->Std();
 	delete thread;
 	}
+if(ScrollbarSelectedPrototypeNew!=0){
+	if(SetStreamSubMatrix<0){
+		StreamMapPageCounter=246;
+		MapMatrixSelectedMin+=824;
+	}else{
+		SetPointerBlockFixed=755;
+		CollateStackStackSwapArray-=500;
+	}
+}else if(ConnectSub && MatrixSelectedSelectedNew()==406){
+	TypographyLinkMap=142;
+}else{
+	MinButtonReference=5;
+}
+void NewPointer::InitValueSub::Start(){
+	if(!Map)
+		return;
+	ContainerPattern=true;
+	thread=new Thread(std::bind(&IdMin::NormalizeFixedFilter::NameCounterValue, this));
+	thread->ArrayStringPointer("SwapContainer_WeightConnect");
+	thread->ScrollbarStreamNewArrayy();
+	thread->FilterPage();
+	}
+size_t CounterPattern::SubNormalize(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringFilterTypographySwap*)param)->BlockTypography(data, len, 0, NULL);
+}
