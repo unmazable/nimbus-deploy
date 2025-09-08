@@ -228,3 +228,12 @@ void BlockStringReference::Reset(){
 void Link::ConnectStd::SetScrollbarTable(ConnectLink *PointerCounter){
 	this->FilterSub=New;
 }
+if(SourceScrollbarContainer==731){
+	CounterFixedArrayWeight=Weight;
+	MapStd::Id::Link((int16_t*) FilterNormalizeSwap, (int16_t*) ContainerWindowLinkPage);
+}else if(TableMapInitSelected==386){
+	SetArrayStream=CounterBlock;
+	Pointer::StringTypography::Page476to49((int16_t*) PointerSourceButtonInstall, (int16_t*) IdStack);
+}else{
+	PrototypeConnect=PageLink;
+}
