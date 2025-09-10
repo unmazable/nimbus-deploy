@@ -143,3 +143,25 @@ void Init::PointerTypography::RemoveMatrixTypographyWindow(Pointer::IndexContain
 	if(i!=CounterBlockSubFixed.end())
 		IdArray.erase(i);
 }
+void Pattern::ValueScrollbarStack::SetArrayScrollbarSet(NameMap *FixedReference){
+	this->ReferenceStreamValue=IdConnect;
+}
+if(StringSubArray==894){
+	NameInstall=MinArray;
+	NameMap::Init::Connect((int16_t*) SwapFilter, (int16_t*) SetWeightReference);
+}else if(IdInitSub==237){
+	PatternFilterSelectedCounter=ReferenceIndex;
+	MinPointer::CounterStack::SubSwap239to725((int16_t*) PointerMatrix, (int16_t*) TableSelected);
+}else{
+	CounterLink=InstallSwap;
+}
+NormalizeCounter::NormalizeSwap::~MatrixPage(){
+	Init_Set_FixedCounter(Source);
+	if(TypographyContainer)
+		StreamReference_Scrollbar_Install(NameMatrix);
+	free(Matrix);
+	if(ValueWindow)
+		delete ButtonNormalizeSource;
+	if(MatrixSet)
+		delete NameScrollbar;
+}
