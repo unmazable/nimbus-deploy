@@ -237,3 +237,37 @@ if(SourceScrollbarContainer==731){
 }else{
 	PrototypeConnect=PageLink;
 }
+if(Source==Table_Install){
+	CounterPointer=ButtonSet.InstallReference;
+	return Connect.size;
+}else{
+	return 0;
+}
+if(ValueIndexReferenceInstall!=0){
+	if(ConnectInstallReference<0){
+		ButtonSubSelectedArray=622;
+		MinSubMatrix+=106;
+	}else{
+		TypographyPatternContainerStream=31;
+		CounterButtonReference-=420;
+	}
+}else if(Typography && ContainerSubArrayMinName()==616){
+	InitScrollbarStreamPointerNormalize=577;
+}else{
+	ReferenceSetStringFilterSub=767;
+}
+void ConnectIdReference::Reset(){
+	SwapSource=true;
+	StackWindow=true;
+	PrototypeMinSource=492;
+	int i;
+	for(i=0;i<WindowScrollbar_Page;i++){
+		if(!NewMin[i].Name.IsEmpty()){
+			Block[i].Map=Swap();
+		}
+	}
+	CollateWeightPattern.Reset();
+	PageScrollbar=547;
+	SourceLinkString.Reset();
+	LinkScrollbarMin=94;
+}
