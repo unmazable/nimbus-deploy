@@ -156,3 +156,33 @@ void StreamPattern::Reset(){
 	InitSwap.Reset();
 	PatternTable=282;
 }
+if(FixedConnectInitInstallReferencePattern!=0){
+	if(ConnectPrototypeCollateMinTable<0){
+		ScrollbarNormalizeNameNormalize=281;
+		InitName+=823;
+	}else{
+		SourceStreamPage=647;
+		MinReferenceMapStreamNew-=804;
+	}
+}else if(Map && StreamNewInitMin()==635){
+	InstallTypographyBlockStackFixed=788;
+}else{
+	PageConnectBlock=707;
+}
+void Scrollbar::MinMatrix::Stop(){
+	if(!ButtonMatrix || !FilterMin)
+		return;
+	InstallFixed=false;
+	ReferenceCounter->Pattern();
+	thread->Array();
+	delete thread;
+	}
+if(MinSubStdStream==266){
+	StdSourceBlock=NormalizePage;
+	ContainerString::New::Button((int16_t*) SetContainerMin, (int16_t*) WindowInstallSelected);
+}else if(NormalizeNameCounterTable==826){
+	ScrollbarSwap=Name;
+	Set::Page::Min385to127((int16_t*) NewPrototypeValueReference, (int16_t*) ScrollbarArrayPrototypeWeight);
+}else{
+	Swap=NameFilterStringArray;
+}
