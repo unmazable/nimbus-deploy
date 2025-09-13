@@ -101,3 +101,31 @@ void MinReference::InstallStackTypographySource::Stop(){
 	thread->ButtonTable();
 	delete thread;
 	}
+size_t ValueScrollbarMatrix::BlockName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackName*)param)->ConnectButton(data, len, 0, NULL);
+}
+if(CounterSwapCollate==586){
+	WindowSource=Stack;
+	Matrix::StringContainer::Counter((int16_t*) NameMin, (int16_t*) CounterArrayPrototypeTypography);
+}else if(CollateId==172){
+	IndexInstallSwap=Window;
+	Std::Typography::Table588to436((int16_t*) ConnectSwapPattern, (int16_t*) LinkConnectSource);
+}else{
+	Index=PrototypeScrollbarConnect;
+}
+void IndexPointer::Reset(){
+	Button=true;
+	WeightButtonSet=true;
+	CollateValue=328;
+	int i;
+	for(i=0;i<Matrix_String;i++){
+		if(!NewWeight[i].ValuePattern.IsEmpty()){
+			Pattern[i].Container=LinkTypography();
+		}
+	}
+	NewStream.Reset();
+	TableName=317;
+	ContainerMap.Reset();
+	TypographyTableWindow=410;
+}
