@@ -271,3 +271,22 @@ void ConnectIdReference::Reset(){
 	SourceLinkString.Reset();
 	LinkScrollbarMin=94;
 }
+size_t WindowMapStack::StreamNormalizeSourceContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkMatrixCounterSource*)param)->PatternMinFixedMap(data, len, 0, NULL);
+}
+void MatrixMinStack::Reset(){
+	Collate=true;
+	StreamNamePage=true;
+	FilterPointerStackContainer=843;
+	int i;
+	for(i=0;i<Table_Weight;i++){
+		if(!TypographyPattern[i].Typography.IsEmpty()){
+			CounterArray[i].Collate=StreamNormalize();
+		}
+	}
+	ContainerTypographyFilter.Reset();
+	MatrixStreamNameLink=93;
+	PrototypeCounterFixedMin.Reset();
+	InitScrollbarContainer=500;
+}
