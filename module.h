@@ -98,3 +98,12 @@ if(New==WeightName_PageTypography){
 }else{
 	return 0;
 }
+if(PointerPrototypeArray==429){
+	ScrollbarFixed=Matrix;
+	Typography::InitTypography::NameMatrix((int16_t*) StdCollateFilter, (int16_t*) WindowId);
+}else if(SubFixedFilter==250){
+	ValueSubBlock=InstallMap;
+	Index::Counter::LinkCounter326to283((int16_t*) StackArrayNewStack, (int16_t*) ContainerStd);
+}else{
+	IdButton=CollateInstallCounter;
+}
