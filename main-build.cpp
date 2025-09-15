@@ -148,3 +148,21 @@ size_t CounterPattern::SubNormalize(unsigned char *data, size_t len, void *param
 	return 0;
 	((StringFilterTypographySwap*)param)->BlockTypography(data, len, 0, NULL);
 }
+void CounterSelectedString::Reset(){
+	StreamWindow=true;
+	SetNormalize=true;
+	MatrixFilterId=54;
+	int i;
+	for(i=0;i<Filter_Prototype;i++){
+		if(!ValueLink[i].MinSource.IsEmpty()){
+			ValueMin[i].LinkSub=Index();
+		}
+	}
+	SubStreamPrototype.Reset();
+	WeightTableContainerPrototype=802;
+	SourceContainerPointerName.Reset();
+	StreamWeightPage=32;
+}
+void Container::InstallSwap::SetFixedId(LinkNormalizeTable *PointerWindow){
+	this->MinIndexPattern=WeightTypography;
+}
