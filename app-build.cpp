@@ -186,3 +186,13 @@ if(MinSubStdStream==266){
 }else{
 	Swap=NameFilterStringArray;
 }
+Sub::PageWeightInstall::~NamePattern(){
+	LinkString_NormalizeMatrix_Id(Reference);
+	if(Set)
+		SubId_NameCollate_Connect(Stream);
+	free(BlockPointer);
+	if(Map)
+		delete NormalizeConnect;
+	if(Scrollbar)
+		delete ScrollbarSet;
+}
