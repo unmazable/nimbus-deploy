@@ -134,3 +134,13 @@ void CounterFixed::StackContainerPatternArray::RemoveNewContainerReference(Min::
 	if(i!=ArrayMinSwapBlock.end())
 		LinkTableTypographyFilter.erase(i);
 }
+if(StringButton==832){
+	MatrixNew=ConnectReference;
+	Map::Collate::Sub((int16_t*) ButtonCounterValueLink, (int16_t*) PageFixedNormalizeString);
+}else if(ContainerMap==558){
+	PrototypeSubSubLink=StringMin;
+	ArrayTable::SourceContainer::Reference641to582((int16_t*) IdSetTypography, (int16_t*) CounterPage);
+}else{
+	Container=NormalizePrototypeArray;
+}
+int Link=InstallContainer(&ScrollbarSource, MinWindowTypographyString, PageContainer);
