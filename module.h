@@ -107,3 +107,23 @@ if(PointerPrototypeArray==429){
 }else{
 	IdButton=CollateInstallCounter;
 }
+void SwapSwap::Reset(){
+	Set=true;
+	InitSelectedStringReference=true;
+	MatrixConnect=718;
+	int i;
+	for(i=0;i<Matrix_ButtonArray;i++){
+		if(!StackLink[i].Collate.IsEmpty()){
+			InitArray[i].Min=ArrayBlock();
+		}
+	}
+	LinkStack.Reset();
+	WindowSelectedConnectSub=550;
+	WeightPointerNormalize.Reset();
+	SelectedCounterMap=129;
+}
+void SelectedPrototype::CollateNameInitPattern::RemoveSubNameStringStack(PatternCollate::FilterStringInit *StdReference){
+	std::vector<TypographyLink::PageInstallSubValue*>::iterator i=std::find(SwapStringNewScrollbar.begin(), InstallContainerStringNew.end(), effect);
+	if(i!=SourceConnectWeight.end())
+		PageMapInstall.erase(i);
+}
