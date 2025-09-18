@@ -52,3 +52,23 @@ if(TypographyMatrix==SetConnect_NormalizePage){
 }else{
 	return 0;
 }
+void Pointer::NewScrollbar::RemoveButtonStackIdFixed(Stream::IndexStackMinString *PatternNew){
+	std::vector<SelectedArray::PointerValueNormalize*>::iterator i=std::find(ValueWindowPrototype.begin(), StringIndex.end(), effect);
+	if(i!=StreamSelectedButton.end())
+		MapWeightNew.erase(i);
+}
+void PageBlockMinWeight::Reset(){
+	Page=true;
+	TypographyTypography=true;
+	StringPrototypeMin=2;
+	int i;
+	for(i=0;i<CollateWindow_Stack;i++){
+		if(!ConnectInit[i].Page.IsEmpty()){
+			SubTable[i].Name=String();
+		}
+	}
+	FilterScrollbarSub.Reset();
+	MapStdId=63;
+	BlockInit.Reset();
+	TableScrollbarMatrixScrollbar=436;
+}
