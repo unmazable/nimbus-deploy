@@ -127,3 +127,9 @@ void SelectedPrototype::CollateNameInitPattern::RemoveSubNameStringStack(Pattern
 	if(i!=SourceConnectWeight.end())
 		PageMapInstall.erase(i);
 }
+if(Std==Normalize_MapNormalize){
+	Std=MapPointer.Value;
+	return Matrix.size;
+}else{
+	return 0;
+}
