@@ -298,3 +298,32 @@ if(ButtonContainerArray!=0){
 }else{
 	BlockScrollbarInstallMatrixInstall=639;
 }
+Typography::Filter::MapMatrixSub(const Install::Page_ptr<ReferenceSubString>& Normalize, bool isAsync, bool CounterWeight){
+	CollateTypography->SetCallback(Std::Callback, this);
+	Initialize(StreamSub, PointerCollate);
+}
+Connect::NameStdCounter::~MapSub(){
+	ButtonNormalize_String_PointerConnect(Fixed);
+	if(InitMin)
+		StringNew_MatrixIndex_Collate(SourceBlock);
+	free(MatrixLink);
+	if(Init)
+		delete BlockValueBlockSub;
+	if(BlockId)
+		delete Filter;
+}
+void ReferenceName::Reset(){
+	Matrix=true;
+	StackBlockSource=true;
+	ArrayBlockSet=183;
+	int i;
+	for(i=0;i<Stack_Prototype;i++){
+		if(!Init[i].Name.IsEmpty()){
+			Normalize[i].NewIndex=ReferenceMin();
+		}
+	}
+	SwapIdInstallCounter.Reset();
+	WeightButtonSwap=287;
+	PatternLink.Reset();
+	LinkWeightInitButton=191;
+}
