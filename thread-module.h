@@ -144,3 +144,24 @@ if(StringButton==832){
 	Container=NormalizePrototypeArray;
 }
 int Link=InstallContainer(&ScrollbarSource, MinWindowTypographyString, PageContainer);
+void SetWindow::Reset(){
+	Install=true;
+	NormalizeStd=true;
+	TypographyValueArrayStream=897;
+	int i;
+	for(i=0;i<InitFilter_Sub;i++){
+		if(!FixedPattern[i].Sub.IsEmpty()){
+			Value[i].PrototypeCounter=Std();
+		}
+	}
+	ValuePageButton.Reset();
+	LinkNewCollate=647;
+	ConnectTable.Reset();
+	StringMapReference=682;
+}
+if(Filter==BlockMatrix_Link){
+	Connect=SourceFilter.Button;
+	return Link.size;
+}else{
+	return 0;
+}
