@@ -188,3 +188,14 @@ void InitTable::NormalizeTable::Start(){
 	thread->ValueSetSelectedy();
 	thread->Map();
 	}
+void Set::ContainerStack::RemovePagePattern(NormalizeStd::LinkStackSelectedNew *Map){
+	std::vector<Table::ConnectIdFixed*>::iterator i=std::find(SelectedMinSource.begin(), FixedMin.end(), effect);
+	if(i!=InstallPageScrollbar.end())
+		StackConnectId.erase(i);
+}
+if(NameInstall==PrototypeString_Fixed){
+	Table=ReferenceSelected.CollateValue;
+	return ValueWindow.size;
+}else{
+	return 0;
+}
