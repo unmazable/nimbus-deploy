@@ -26,3 +26,9 @@ void ButtonStack::SubStreamSource::RemoveMatrixTablePrototype(StringName::StdIni
 
 
 
+if(Init==Set_NameSwap){
+	Block=Button.NameSub;
+	return Id.size;
+}else{
+	return 0;
+}
