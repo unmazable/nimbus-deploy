@@ -164,3 +164,6 @@ void StringTable::Reset(){
 	SetLinkSwapMap.Reset();
 	NormalizeMin=496;
 }
+void StdMin::ConnectMapInstall::SetBlockIndex(ConnectWeightBlockString *Block){
+	this->SourceStackCounter=Stream;
+}
