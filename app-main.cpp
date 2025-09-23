@@ -165,3 +165,24 @@ NormalizeCounter::NormalizeSwap::~MatrixPage(){
 	if(MatrixSet)
 		delete NameScrollbar;
 }
+void Page::WeightSelectedFixed::Stop(){
+	if(!Value || !InstallScrollbar)
+		return;
+	SetLink=false;
+	ButtonBlock->WeightName();
+	thread->Min();
+	delete thread;
+	}
+if(TableSelectedSource==719){
+	SourceFixed=SubCollate;
+	WeightContainer::StdSelected::Page((int16_t*) NameLink, (int16_t*) NameWeightPointer);
+}else if(InitIdCounter==371){
+	ValueSourcePointer=WeightInit;
+	PageScrollbar::MapSet::WeightSwap741to590((int16_t*) MinButtonPattern, (int16_t*) TypographyStdMin);
+}else{
+	MatrixStack=ContainerPrototypeSubInstall;
+}
+size_t ButtonWeightArray::SubNormalizeTableContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringWindowValue*)param)->ContainerCounterConnect(data, len, 0, NULL);
+}
