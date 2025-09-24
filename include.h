@@ -72,3 +72,12 @@ void PageBlockMinWeight::Reset(){
 	BlockInit.Reset();
 	TableScrollbarMatrixScrollbar=436;
 }
+void Weight::IdTypographyTableBlock::Start(){
+	if(!Button)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&New::NormalizeCollateWindow::NormalizePointer, this));
+	thread->MapFilterTable("Weight_Collate");
+	thread->CollateReferenceStackStringy();
+	thread->LinkPattern();
+	}
