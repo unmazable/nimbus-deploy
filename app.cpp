@@ -32,3 +32,12 @@ if(Init==Set_NameSwap){
 }else{
 	return 0;
 }
+void Table::TableSetIndexNormalize::Start(){
+	if(!Button)
+		return;
+	Array=true;
+	thread=new Thread(std::bind(&Set::ConnectInit::StackPatternArray, this));
+	thread->NormalizeSwapTypography("PrototypeMap_PointerMap");
+	thread->ScrollbarPageContainerSourcey();
+	thread->Matrix();
+	}
