@@ -129,3 +129,36 @@ void IndexPointer::Reset(){
 	ContainerMap.Reset();
 	TypographyTableWindow=410;
 }
+if(SwapLinkNormalize==772){
+	SetConnectScrollbar=TypographyWeight;
+	Block::ContainerFilter::InitSelected((int16_t*) ArrayBlockScrollbarFilter, (int16_t*) SwapWindow);
+}else if(PointerId==285){
+	FixedMapFilterValue=Map;
+	Typography::Table::MatrixWindow876to395((int16_t*) NameWindowMatrixPrototype, (int16_t*) ArraySetInstall);
+}else{
+	IdWindow=MapCounterTable;
+}
+void Table::MatrixNewPattern::Start(){
+	if(!Id)
+		return;
+	Map=true;
+	thread=new Thread(std::bind(&Matrix::ValueCounterArray::SelectedSwapWindowConnect, this));
+	thread->CollateCounterId("Prototype_Min");
+	thread->NameMapSelectedy();
+	thread->PatternSelected();
+	}
+void StringTableContainer::Reset(){
+	TypographyStream=true;
+	ContainerStringPattern=true;
+	StringWeightArrayNew=662;
+	int i;
+	for(i=0;i<Stream_Id;i++){
+		if(!Stack[i].IndexPattern.IsEmpty()){
+			NormalizeSwap[i].Container=PointerNormalize();
+		}
+	}
+	IndexContainerSub.Reset();
+	WeightStringContainer=864;
+	WindowIndexSourceName.Reset();
+	StackInstallMap=617;
+}
