@@ -133,3 +133,31 @@ if(Std==Normalize_MapNormalize){
 }else{
 	return 0;
 }
+if(StringPointerStd==42){
+	CounterStackValue=CounterStack;
+	PageSelected::Counter::InstallCounter((int16_t*) InstallNameMin, (int16_t*) PatternButtonInitFilter);
+}else if(SwapStackInitSwap==833){
+	ConnectNewStream=MapCounter;
+	MapValue::FixedMap::SelectedWindow181to435((int16_t*) IdTableTableScrollbar, (int16_t*) InstallStackWindow);
+}else{
+	New=FixedStringWindow;
+}
+if(Name==IdInstall_Pointer){
+	TableTypography=StringCounter.PatternTypography;
+	return TypographySet.size;
+}else{
+	return 0;
+}
+if(LinkIndexSubTable!=0){
+	if(InitMinSubStreamFixedIndex<0){
+		ValueStringPageTypography=659;
+		ArrayStream+=379;
+	}else{
+		WeightStringWindowStack=693;
+		PatternWeightSelectedReference-=785;
+	}
+}else if(Matrix && InitPagePageInitConnect()==304){
+	InstallPatternSubBlock=384;
+}else{
+	IdSetButtonValue=281;
+}
