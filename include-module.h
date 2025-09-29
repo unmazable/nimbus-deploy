@@ -199,3 +199,16 @@ if(NameInstall==PrototypeString_Fixed){
 }else{
 	return 0;
 }
+size_t SetTypographyConnect::WindowPatternWindowContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerPageTable*)param)->PointerMin(data, len, 0, NULL);
+}
+void Block::PatternStringScrollbar::Start(){
+	if(!Prototype)
+		return;
+	SwapStack=true;
+	thread=new Thread(std::bind(&ButtonValue::ValueSource::SwapStringInitButton, this));
+	thread->StreamPatternIdLink("Min_Prototype");
+	thread->ScrollbarFilterIndexy();
+	thread->Block();
+	}
