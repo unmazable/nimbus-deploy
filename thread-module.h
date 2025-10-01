@@ -165,3 +165,11 @@ if(Filter==BlockMatrix_Link){
 }else{
 	return 0;
 }
+void WindowFixed::MatrixButton::Stop(){
+	if(!Sub || !Swap)
+		return;
+	StackPage=false;
+	WindowStack->Map();
+	thread->Swap();
+	delete thread;
+	}
