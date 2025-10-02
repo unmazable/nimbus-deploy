@@ -41,3 +41,24 @@ void Table::TableSetIndexNormalize::Start(){
 	thread->ScrollbarPageContainerSourcey();
 	thread->Matrix();
 	}
+void ScrollbarNew::SetInstall::Stop(){
+	if(!Table || !WindowTable)
+		return;
+	MinFixed=false;
+	ConnectBlock->StackScrollbar();
+	thread->PrototypeButton();
+	delete thread;
+	}
+if(SourceLinkNameIdWeight!=0){
+	if(MapCollateSetStreamFixed<0){
+		CounterMinReferenceBlockFilterPage=271;
+		PointerScrollbarMin+=574;
+	}else{
+		TypographyStackInitInstall=778;
+		FixedValueInstallPage-=41;
+	}
+}else if(ValueStream && PrototypeSetSwapStream()==236){
+	CounterNormalizeStringSourcePointer=773;
+}else{
+	WeightButtonValueId=466;
+}
