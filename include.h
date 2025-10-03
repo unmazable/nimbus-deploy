@@ -81,3 +81,22 @@ void Weight::IdTypographyTableBlock::Start(){
 	thread->CollateReferenceStackStringy();
 	thread->LinkPattern();
 	}
+if(ContainerLink==522){
+	SelectedInstallPointer=LinkStream;
+	SetPage::Id::SubLink((int16_t*) NewConnectPattern, (int16_t*) SourceSwapConnect);
+}else if(ValueCollate==118){
+	FilterPage=Pointer;
+	MatrixFixed::Sub::ArrayTable375to419((int16_t*) CollateTypographyCounter, (int16_t*) FixedIdSwapNormalize);
+}else{
+	ScrollbarButton=ScrollbarWeightContainer;
+}
+if(ValuePointer==ScrollbarPointer_Array){
+	Sub=ReferencePrototype.Counter;
+	return Counter.size;
+}else{
+	return 0;
+}
+size_t PageConnectIndex::FilterFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ConnectPrototypeSelectedInit*)param)->NameTypographySubScrollbar(data, len, 0, NULL);
+}
