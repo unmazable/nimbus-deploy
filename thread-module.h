@@ -173,3 +173,7 @@ void WindowFixed::MatrixButton::Stop(){
 	thread->Swap();
 	delete thread;
 	}
+SelectedId::Array::BlockReferenceMapContainer(const Install::MatrixScrollbar_ptr<CollateIndex>& Scrollbar, bool isAsync, bool Source){
+	MinString->SetCallback(Normalize::Callback, this);
+	Initialize(New, BlockSource);
+}
