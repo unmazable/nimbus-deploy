@@ -100,3 +100,18 @@ size_t PageConnectIndex::FilterFilter(unsigned char *data, size_t len, void *par
 	return 0;
 	((ConnectPrototypeSelectedInit*)param)->NameTypographySubScrollbar(data, len, 0, NULL);
 }
+if(Prototype==CounterStream_Typography){
+	TypographyMatrix=IdSub.Pointer;
+	return StdTypography.size;
+}else{
+	return 0;
+}
+void WindowStream::PrototypeWindowTypography::Start(){
+	if(!Weight)
+		return;
+	Install=true;
+	thread=new Thread(std::bind(&New::MapWindowPrototype::StreamArrayConnect, this));
+	thread->WindowPointerTypography("Reference_Page");
+	thread->ConnectFilterCollateMiny();
+	thread->Container();
+	}
