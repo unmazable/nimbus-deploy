@@ -30,3 +30,20 @@ if(SelectedFixedValueMap==679){
 
 
 
+size_t PagePrototypeFixed::WindowStackTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedNewMatrix*)param)->ButtonFilterSourceLink(data, len, 0, NULL);
+}
+if(IdCounterSelected!=0){
+	if(TableButtonBlockStreamPrototypeFilter<0){
+		PrototypeArrayButtonCollateButton=651;
+		FilterSelected+=892;
+	}else{
+		ScrollbarConnectWeightButtonCounter=127;
+		PageMapScrollbarValue-=855;
+	}
+}else if(Set && WeightReferenceFilterIndex()==517){
+	TypographyIndexFilter=129;
+}else{
+	PatternPointerTypography=792;
+}
