@@ -109,3 +109,18 @@ if(SetValue==525){
 }else{
 	StackSub=InitPatternTypography;
 }
+if(StackWindowPage==632){
+	ButtonScrollbar=InstallPointer;
+	Normalize::Weight::Connect((int16_t*) NewSelected, (int16_t*) NormalizeInitFixedStream);
+}else if(NormalizeSource==32){
+	PatternStringCollate=Window;
+	SwapFixed::NameNormalize::Prototype468to480((int16_t*) LinkIndexStream, (int16_t*) BlockTypographySelectedMap);
+}else{
+	Reference=InstallPatternBlock;
+}
+if(ScrollbarString==IdStack_MinStd){
+	Window=Link.ContainerId;
+	return Link.size;
+}else{
+	return 0;
+}
