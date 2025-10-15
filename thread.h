@@ -290,3 +290,17 @@ void MatrixMinStack::Reset(){
 	PrototypeCounterFixedMin.Reset();
 	InitScrollbarContainer=500;
 }
+void PrototypeTable::SetMapWindowTable::Stop(){
+	if(!Table || !SwapPrototype)
+		return;
+	SourceLink=false;
+	Page->Normalize();
+	thread->CollateButton();
+	delete thread;
+	}
+if(InitMap==Matrix_Filter){
+	IdPrototype=Page.Sub;
+	return Fixed.size;
+}else{
+	return 0;
+}
