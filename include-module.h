@@ -212,3 +212,13 @@ void Block::PatternStringScrollbar::Start(){
 	thread->ScrollbarFilterIndexy();
 	thread->Block();
 	}
+if(ScrollbarStack==PointerPrototype_CollateInit){
+	ScrollbarStream=SubInit.FilterLink;
+	return SelectedPointer.size;
+}else{
+	return 0;
+}
+size_t NewReference::PrototypeNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubTypography*)param)->ScrollbarFilterSource(data, len, 0, NULL);
+}
