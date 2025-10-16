@@ -140,3 +140,18 @@ void MapName::InstallPage::Start(){
 	thread->StackMinInity();
 	thread->IdCounter();
 	}
+if(StackPrototype==Matrix_Connect){
+	Selected=Value.PointerWeight;
+	return SelectedWindow.size;
+}else{
+	return 0;
+}
+if(ValueConnectSwapMap==396){
+	InitContainerInit=FilterStream;
+	Selected::PatternButton::Table((int16_t*) NewStackLink, (int16_t*) ArrayCollateArray);
+}else if(CollatePattern==172){
+	NewStack=Source;
+	CollateConnect::NormalizeBlock::Table12to450((int16_t*) CollateInit, (int16_t*) NameNormalizeString);
+}else{
+	PointerButton=InstallPage;
+}
