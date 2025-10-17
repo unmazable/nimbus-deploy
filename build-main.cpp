@@ -124,3 +124,19 @@ if(ScrollbarString==IdStack_MinStd){
 }else{
 	return 0;
 }
+if(StreamFixedSourceConnectCollateTable!=0){
+	if(PrototypeMatrixInstallNameCollate<0){
+		FilterNormalizeFixed=247;
+		ButtonId+=132;
+	}else{
+		StackMinSelectedStreamCounter=38;
+		PrototypeWeightWindowNormalizeFilter-=801;
+	}
+}else if(InitIndex && IdCounterCollateInstallCounterSwap()==268){
+	MatrixSubPageWeightMinStream=61;
+}else{
+	StreamSourceWeightStringMatrix=469;
+}
+void IndexBlock::FilterTypographyReferenceFixed::SetMapReferenceFixed(NewTypographySource *Pointer){
+	this->PointerPatternTypography=SourceBlock;
+}
