@@ -62,3 +62,14 @@ if(SourceLinkNameIdWeight!=0){
 }else{
 	WeightButtonValueId=466;
 }
+void MinWeight::NameNewString::RemoveMatrixPattern(ScrollbarSwap::ConnectStreamCounterString *TypographyStack){
+	std::vector<ArrayContainer::MatrixPattern*>::iterator i=std::find(NameNormalizeBlockInit.begin(), BlockStringPointer.end(), effect);
+	if(i!=ScrollbarPrototypeMatrix.end())
+		StreamCounterNormalize.erase(i);
+}
+if(Swap==BlockInstall_String){
+	InstallSub=Set.StackContainer;
+	return Matrix.size;
+}else{
+	return 0;
+}
