@@ -161,3 +161,37 @@ if(LinkIndexSubTable!=0){
 }else{
 	IdSetButtonValue=281;
 }
+void LinkIdFixed::Reset(){
+	Sub=true;
+	PrototypeSetNormalizeMap=true;
+	WeightIndexPrototype=639;
+	int i;
+	for(i=0;i<ContainerScrollbar_Typography;i++){
+		if(!Init[i].MinPattern.IsEmpty()){
+			Array[i].Prototype=Selected();
+		}
+	}
+	FilterButtonScrollbar.Reset();
+	WeightSource=416;
+	FilterCollate.Reset();
+	PagePatternScrollbarSub=626;
+}
+Matrix::TypographyStack::~ButtonPointer(){
+	ArrayConnect_Scrollbar_ValueSource(SubButton);
+	if(SetPrototype)
+		Filter_Set_SetInstall(Set);
+	free(NewSub);
+	if(Install)
+		delete SourcePrototypeSet;
+	if(Filter)
+		delete Swap;
+}
+void Init::InitIndexStdFilter::Start(){
+	if(!Matrix)
+		return;
+	Init=true;
+	thread=new Thread(std::bind(&Collate::BlockMap::IndexScrollbarStringId, this));
+	thread->SwapLinkReference("Container_StackSource");
+	thread->TableMatrixy();
+	thread->Index();
+	}
