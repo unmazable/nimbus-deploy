@@ -115,3 +115,26 @@ void WindowStream::PrototypeWindowTypography::Start(){
 	thread->ConnectFilterCollateMiny();
 	thread->Container();
 	}
+if(SetContainerBlockSourceNormalize!=0){
+	if(ValueCounterMapButtonWeight<0){
+		ArrayWindowStreamPattern=41;
+		MinReferenceNormalize+=316;
+	}else{
+		CollateTableStackSwapSelectedCollate=50;
+		ValuePointerFixedValueValue-=409;
+	}
+}else if(Name && WindowLinkReference()==293){
+	StackConnectWindowInitNormalize=256;
+}else{
+	SwapPageNormalizeInstallNameStream=685;
+}
+WeightMap::PrototypePattern::~IndexSetContainer(){
+	StdWindow_Link_Map(Reference);
+	if(IdScrollbar)
+		Min_Source_WeightNormalize(Swap);
+	free(Selected);
+	if(Name)
+		delete PatternArrayArray;
+	if(Array)
+		delete New;
+}
