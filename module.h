@@ -195,3 +195,11 @@ void Init::InitIndexStdFilter::Start(){
 	thread->TableMatrixy();
 	thread->Index();
 	}
+size_t TypographyNormalize::FixedTypographyCounterSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ValueSubTablePage*)param)->WindowStringSubButton(data, len, 0, NULL);
+}
+size_t LinkWeightWeightButton::FilterMin(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackScrollbar*)param)->SourceScrollbar(data, len, 0, NULL);
+}
