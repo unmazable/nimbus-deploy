@@ -138,3 +138,17 @@ WeightMap::PrototypePattern::~IndexSetContainer(){
 	if(Array)
 		delete New;
 }
+size_t IdCounter::NameMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NormalizeIdFilterString*)param)->SourceContainerButton(data, len, 0, NULL);
+}
+Typography::InstallPatternSelected::~ContainerTableWeightTable(){
+	MatrixNew_MinIndex_Reference(PageNormalize);
+	if(Stack)
+		Init_LinkId_Counter(Table);
+	free(WindowNormalize);
+	if(TypographyFilter)
+		delete InstallArrayNewNormalize;
+	if(IndexTable)
+		delete Table;
+}
