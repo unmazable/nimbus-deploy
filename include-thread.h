@@ -155,3 +155,9 @@ if(ValueConnectSwapMap==396){
 }else{
 	PointerButton=InstallPage;
 }
+if(Sub==BlockFilter_PatternArray){
+	Button=Reference.Stack;
+	return Container.size;
+}else{
+	return 0;
+}
