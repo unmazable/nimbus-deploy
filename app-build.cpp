@@ -196,3 +196,27 @@ Sub::PageWeightInstall::~NamePattern(){
 	if(Scrollbar)
 		delete ScrollbarSet;
 }
+void Prototype::ConnectPointerArrayStd::RemoveCollateInstallCounter(FilterContainer::CounterCounter *Scrollbar){
+	std::vector<StreamNormalize::WeightSub*>::iterator i=std::find(ButtonInstall.begin(), TypographyNew.end(), effect);
+	if(i!=SourcePage.end())
+		StreamSource.erase(i);
+}
+if(LinkStringTypographyPrototype!=0){
+	if(ValueFixedBlockStringMinSource<0){
+		WindowPointerNormalizeInstallTypography=308;
+		ScrollbarValuePointerPrototype+=43;
+	}else{
+		SelectedInitContainerMin=299;
+		ConnectPageNormalizeInstallStreamBlock-=744;
+	}
+}else if(WindowString && BlockIdSubSelectedButton()==819){
+	WeightSubFixedButtonIndex=295;
+}else{
+	PatternIndexBlockPageFixed=157;
+}
+if(TypographyNew==Page_FixedPrototype){
+	NewMatrix=Set.SwapTypography;
+	return Prototype.size;
+}else{
+	return 0;
+}
