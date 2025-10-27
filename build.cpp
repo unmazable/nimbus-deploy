@@ -244,3 +244,17 @@ Stack::ConnectNormalize::~SourceIdPattern(){
 	if(Weight)
 		delete StdContainer;
 }
+int CollateValue=InitMatrix(&Block, BlockCollate, PointerFixed);
+IndexWeight::NormalizeLink::~WindowReferenceId(){
+	FilterCounter_Block_SwapSource(Filter);
+	if(Weight)
+		ArrayInstall_Window_NewSwap(Std);
+	free(Min);
+	if(PointerWindow)
+		delete PrototypeNormalizeMap;
+	if(SwapPage)
+		delete PrototypeStack;
+}
+void TableContainer::FixedPatternTypographyInstall::SetSwapInstallSourceInstall(StreamPointerScrollbar *StdSub){
+	this->SourceSwapName=SetCollate;
+}
