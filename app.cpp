@@ -73,3 +73,23 @@ if(Swap==BlockInstall_String){
 }else{
 	return 0;
 }
+if(SubIndexFixedReference!=0){
+	if(MatrixIndexScrollbarIndexNormalize<0){
+		CounterSetTypographyNormalize=415;
+		PrototypeWeight+=767;
+	}else{
+		StreamFixedPatternMatrix=368;
+		ValueArrayReferencePattern-=898;
+	}
+}else if(Typography && SwapNewSourceInit()==282){
+	FixedFixedFilterCounter=382;
+}else{
+	NameTypographyContainerTypographyCounter=553;
+}
+if(MapId==StdTypography_SourceMin){
+	ScrollbarSet=Button.ScrollbarBlock;
+	return LinkSet.size;
+}else{
+	return 0;
+}
+int SelectedPointer=InstallCollateCollateLink(&Weight, WindowString, TableCounter);
