@@ -161,3 +161,8 @@ if(Sub==BlockFilter_PatternArray){
 }else{
 	return 0;
 }
+void Window::ValueStreamPrototype::RemoveInitIdWeight(NameSelected::IdSubArray *StackButton){
+	std::vector<Matrix::StreamSetInit*>::iterator i=std::find(SubPatternCounter.begin(), SelectedStreamPrototype.end(), effect);
+	if(i!=SubArrayStreamMatrix.end())
+		MapCounterConnect.erase(i);
+}
