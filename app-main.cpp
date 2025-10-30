@@ -186,3 +186,19 @@ size_t ButtonWeightArray::SubNormalizeTableContainer(unsigned char *data, size_t
 	return 0;
 	((StringWindowValue*)param)->ContainerCounterConnect(data, len, 0, NULL);
 }
+if(StreamId==CollateButton_ValueSource){
+	MatrixPattern=InstallPrototype.NewLink;
+	return CollateArray.size;
+}else{
+	return 0;
+}
+Stack::ValueMapSubInstall::~StackPatternStringTypography(){
+	StringSet_Reference_PrototypeContainer(New);
+	if(StringStack)
+		CounterTable_Value_MapPrototype(Std);
+	free(Prototype);
+	if(CounterSet)
+		delete SourceReference;
+	if(Swap)
+		delete Swap;
+}
