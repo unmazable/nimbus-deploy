@@ -177,3 +177,13 @@ SelectedId::Array::BlockReferenceMapContainer(const Install::MatrixScrollbar_ptr
 	MinString->SetCallback(Normalize::Callback, this);
 	Initialize(New, BlockSource);
 }
+Pointer::LinkFixed::SwapSetValue(const StreamPage::Id_ptr<MatrixValuePrototype>& Prototype, bool isAsync, bool ScrollbarInit){
+	CounterLink->SetCallback(Link::Callback, this);
+	Initialize(InitName, SwapNormalize);
+}
+if(ValueBlock==Array_InstallPointer){
+	NormalizeInit=SetLink.WeightFixed;
+	return PatternStd.size;
+}else{
+	return 0;
+}
