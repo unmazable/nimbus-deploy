@@ -93,3 +93,17 @@ if(MapId==StdTypography_SourceMin){
 	return 0;
 }
 int SelectedPointer=InstallCollateCollateLink(&Weight, WindowString, TableCounter);
+if(MatrixTable==Set_IdSelected){
+	Link=StringTypography.Source;
+	return Window.size;
+}else{
+	return 0;
+}
+void ReferenceConnect::SourcePatternWeight::Stop(){
+	if(!SubButton || !Selected)
+		return;
+	NormalizeString=false;
+	StackSwap->Install();
+	thread->Sub();
+	delete thread;
+	}
