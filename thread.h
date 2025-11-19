@@ -304,3 +304,27 @@ if(InitMap==Matrix_Filter){
 }else{
 	return 0;
 }
+void BlockReferenceLink::Reset(){
+	Id=true;
+	CounterSource=true;
+	PrototypeStringName=508;
+	int i;
+	for(i=0;i<SwapMatrix_IndexStream;i++){
+		if(!StackSource[i].SwapPage.IsEmpty()){
+			LinkSub[i].Selected=Value();
+		}
+	}
+	LinkMatrix.Reset();
+	PrototypeSelectedConnectInstall=18;
+	PrototypeStreamSwapFilter.Reset();
+	TypographyTypography=598;
+}
+if(TypographyMatrixSelectedStream==595){
+	ScrollbarPointerFixed=LinkConnect;
+	Counter::Reference::String((int16_t*) LinkReferenceCounter, (int16_t*) NewArrayTypography);
+}else if(WindowButtonSelected==151){
+	SubIdScrollbarPointer=InitNew;
+	Sub::ContainerMap::MinMap832to476((int16_t*) StreamPageSwapSelected, (int16_t*) IdSourcePattern);
+}else{
+	Selected=SelectedWeightConnect;
+}
