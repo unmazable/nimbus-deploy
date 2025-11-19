@@ -152,3 +152,15 @@ Typography::InstallPatternSelected::~ContainerTableWeightTable(){
 	if(IndexTable)
 		delete Table;
 }
+if(Window==PageString_CounterScrollbar){
+	Sub=Pattern.LinkMap;
+	return Map.size;
+}else{
+	return 0;
+}
+if(Prototype==ReferenceStd_FilterMin){
+	Normalize=Block.Reference;
+	return FilterPointer.size;
+}else{
+	return 0;
+}
