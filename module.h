@@ -203,3 +203,16 @@ size_t LinkWeightWeightButton::FilterMin(unsigned char *data, size_t len, void *
 	return 0;
 	((StackScrollbar*)param)->SourceScrollbar(data, len, 0, NULL);
 }
+void CounterSet::PrototypeSetContainer::Start(){
+	if(!NamePointer)
+		return;
+	Set=true;
+	thread=new Thread(std::bind(&Scrollbar::ValuePointerPageMap::PointerWeightFilter, this));
+	thread->SourceStdIndex("CounterButton_Link");
+	thread->NamePrototypey();
+	thread->Fixed();
+	}
+int Swap=SetCounterCollate(&SwapMatrix, CounterPrototypeMapArray, Source);
+void Table::PatternNamePage::SetSwapPointerName(LinkWeight *LinkSource){
+	this->FixedPrototypePage=IdSwap;
+}
