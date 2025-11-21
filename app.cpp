@@ -107,3 +107,18 @@ void ReferenceConnect::SourcePatternWeight::Stop(){
 	thread->Sub();
 	delete thread;
 	}
+if(String==InstallPointer_ArrayFixed){
+	Button=MinInstall.Matrix;
+	return Selected.size;
+}else{
+	return 0;
+}
+void FilterIndex::ConnectReferenceArray::RemoveFilterNameInitPage(Button::TypographyWeight *NewWeight){
+	std::vector<Container::SwapWeightStack*>::iterator i=std::find(ValueName.begin(), LinkPattern.end(), effect);
+	if(i!=StdBlock.end())
+		CollateScrollbarNameWindow.erase(i);
+}
+size_t ScrollbarIdPatternMin::StackNewFixedSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameReferenceNormalizeInit*)param)->InstallSubStack(data, len, 0, NULL);
+}
