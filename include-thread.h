@@ -166,3 +166,22 @@ void Window::ValueStreamPrototype::RemoveInitIdWeight(NameSelected::IdSubArray *
 	if(i!=SubArrayStreamMatrix.end())
 		MapCounterConnect.erase(i);
 }
+LinkId::ValueInit::~NameStackStringInstall(){
+	NameFixed_Matrix_CounterReference(Prototype);
+	if(Block)
+		Counter_Name_StdMin(MapSet);
+	free(InstallBlock);
+	if(String)
+		delete CounterNew;
+	if(Prototype)
+		delete ConnectSelected;
+}
+void Pattern::ContainerSub::Start(){
+	if(!StreamPage)
+		return;
+	StringPrototype=true;
+	thread=new Thread(std::bind(&Set::WeightWindow::IdSubReference, this));
+	thread->InstallTable("Normalize_WeightSwap");
+	thread->ButtonMatrixBlocky();
+	thread->MinStd();
+	}
