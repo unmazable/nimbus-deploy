@@ -167,3 +167,19 @@ void StringTable::Reset(){
 void StdMin::ConnectMapInstall::SetBlockIndex(ConnectWeightBlockString *Block){
 	this->SourceStackCounter=Stream;
 }
+void LinkSubSelected::Reset(){
+	WeightMin=true;
+	PageStdSet=true;
+	PatternStackInit=365;
+	int i;
+	for(i=0;i<ConnectButton_SwapId;i++){
+		if(!Pointer[i].FilterScrollbar.IsEmpty()){
+			MatrixReference[i].Array=Std();
+		}
+	}
+	NormalizeMatrixIdPattern.Reset();
+	CollateSubSource=792;
+	SelectedLinkMinStream.Reset();
+	NewArraySubStack=491;
+}
+int Index=CollateFilterWindow(&Block, InstallTableWeight, StringCollate);
