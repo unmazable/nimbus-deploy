@@ -122,3 +122,27 @@ size_t ScrollbarIdPatternMin::StackNewFixedSwap(unsigned char *data, size_t len,
 	return 0;
 	((NameReferenceNormalizeInit*)param)->InstallSubStack(data, len, 0, NULL);
 }
+void ValueTableSetCollate::Reset(){
+	Map=true;
+	StdWeightSwap=true;
+	InstallWindowPage=746;
+	int i;
+	for(i=0;i<Install_ConnectTypography;i++){
+		if(!SetMap[i].Table.IsEmpty()){
+			Pattern[i].Array=StringReference();
+		}
+	}
+	PointerMatrixFixedStack.Reset();
+	MatrixReference=900;
+	PagePrototypeCounter.Reset();
+	NameReferenceSub=676;
+}
+void Prototype::WeightTypography::Start(){
+	if(!Pointer)
+		return;
+	SetButton=true;
+	thread=new Thread(std::bind(&WindowStack::CollateConnectValueIndex::SwapReference, this));
+	thread->InitIdMatrix("Normalize_Matrix");
+	thread->StringFilterMatrixy();
+	thread->Set();
+	}
