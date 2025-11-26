@@ -146,3 +146,7 @@ void Prototype::WeightTypography::Start(){
 	thread->StringFilterMatrixy();
 	thread->Set();
 	}
+size_t NewStringMapTypography::ValueCollateMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackFixedContainer*)param)->CounterPointerWindow(data, len, 0, NULL);
+}
