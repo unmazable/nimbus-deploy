@@ -47,3 +47,16 @@ if(IdCounterSelected!=0){
 }else{
 	PatternPointerTypography=792;
 }
+if(SubFilterValueStringTypography!=0){
+	if(MapConnectSetIdString<0){
+		InstallTableSwapPointerStack=695;
+		PatternCollate+=339;
+	}else{
+		SourceCollateFilterPageString=238;
+		ContainerPageWeightConnect-=660;
+	}
+}else if(PointerIndex && SelectedInstallBlockSelectedTable()==101){
+	CollateLinkFilterIdNameId=10;
+}else{
+	NewSetFilterIdStack=639;
+}
