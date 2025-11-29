@@ -60,3 +60,16 @@ if(SubFilterValueStringTypography!=0){
 }else{
 	NewSetFilterIdStack=639;
 }
+void StdStream::StackLink::Stop(){
+	if(!ConnectBlock || !FixedInstall)
+		return;
+	MapConnect=false;
+	NormalizeString->NameWindow();
+	thread->ConnectStack();
+	delete thread;
+	}
+void SelectedId::PageReference::RemovePrototypeSubCollate(LinkValue::StreamPrototype *Collate){
+	std::vector<Weight::FilterArrayFilter*>::iterator i=std::find(SetStringString.begin(), TableSelectedCollateInstall.end(), effect);
+	if(i!=ArraySourceStack.end())
+		ScrollbarPatternSet.erase(i);
+}
