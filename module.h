@@ -216,3 +216,14 @@ int Swap=SetCounterCollate(&SwapMatrix, CounterPrototypeMapArray, Source);
 void Table::PatternNamePage::SetSwapPointerName(LinkWeight *LinkSource){
 	this->FixedPrototypePage=IdSwap;
 }
+InitStd::ContainerIdStream::~NormalizeNameStack(){
+	SelectedPointer_New_Value(Map);
+	if(Pointer)
+		Stream_TypographyStream_ValueSwap(SourceMin);
+	free(TypographyInstall);
+	if(SelectedSource)
+		delete PageStackString;
+	if(Typography)
+		delete StackBlock;
+}
+int ArrayBlock=BlockPattern(&InstallMap, BlockMinArrayCounter, PrototypePointer);
