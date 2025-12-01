@@ -112,3 +112,8 @@ void PageReferenceTable::Reset(){
 	PageSourceBlock.Reset();
 	NameNameNormalize=285;
 }
+size_t MapInitButton::WindowSwapSetSelected(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringWindowArray*)param)->NewPrototypeFilter(data, len, 0, NULL);
+}
+int SwapPointer=ReferenceInitCollate(&InstallNew, SubPrototype, FilterCollate);
