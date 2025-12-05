@@ -73,3 +73,31 @@ void SelectedId::PageReference::RemovePrototypeSubCollate(LinkValue::StreamProto
 	if(i!=ArraySourceStack.end())
 		ScrollbarPatternSet.erase(i);
 }
+void FixedSelectedReference::Reset(){
+	Id=true;
+	StringWindowStd=true;
+	PointerStringCounter=121;
+	int i;
+	for(i=0;i<Stack_Counter;i++){
+		if(!Map[i].Fixed.IsEmpty()){
+			PrototypeSource[i].Swap=Sub();
+		}
+	}
+	StackString.Reset();
+	SourceArrayLinkPage=440;
+	WeightBlock.Reset();
+	NameLinkPointerTable=521;
+}
+Value::FilterFixedPageStream::~WindowPattern(){
+	IndexMin_MapInstall_Button(Block);
+	if(Set)
+		MatrixConnect_Set_Typography(NameBlock);
+	free(Normalize);
+	if(ScrollbarFixed)
+		delete ReferenceReferenceButton;
+	if(MatrixButton)
+		delete SelectedWindow;
+}
+void Button::WindowInitSourcePattern::SetInitWeightNormalizeFixed(ArrayPrototypeSetContainer *SwapWeight){
+	this->IdButton=ScrollbarBlock;
+}
