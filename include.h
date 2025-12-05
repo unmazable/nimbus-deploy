@@ -164,3 +164,16 @@ if(Prototype==ReferenceStd_FilterMin){
 }else{
 	return 0;
 }
+if(IndexNewCollateName!=0){
+	if(TypographyValueSetSource<0){
+		MatrixInstallLinkMatrixSource=481;
+		FilterPatternMin+=641;
+	}else{
+		FixedStreamPrototypeInitSet=856;
+		CounterStringCounterSource-=562;
+	}
+}else if(Prototype && InitReferenceStreamReferenceInstall()==728){
+	PointerWeightId=812;
+}else{
+	SetMapMinSelected=441;
+}
