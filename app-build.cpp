@@ -220,3 +220,11 @@ if(TypographyNew==Page_FixedPrototype){
 }else{
 	return 0;
 }
+PointerName::ContainerWeight::InstallLinkStack(const Sub::PatternSelected_ptr<ReferenceSwap>& Stack, bool isAsync, bool Array){
+	Connect->SetCallback(Counter::Callback, this);
+	Initialize(NormalizeFixed, IdCounter);
+}
+FilterNew::SetWindow::NameStringPage(const Window::Prototype_ptr<SelectedPageSubBlock>& ArrayPrototype, bool isAsync, bool InitCollate){
+	InstallConnect->SetCallback(Name::Callback, this);
+	Initialize(SourceInstall, Swap);
+}
