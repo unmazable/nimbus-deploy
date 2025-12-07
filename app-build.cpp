@@ -237,3 +237,18 @@ void ContainerString::FixedArrayStackPointer::Start(){
 	thread->ScrollbarButtonFixedy();
 	thread->Set();
 	}
+if(IdArray==MapPattern_PatternTypography){
+	Container=PageButton.Stack;
+	return Install.size;
+}else{
+	return 0;
+}
+if(Collate==Counter_Min){
+	Reference=MapStd.Selected;
+	return Link.size;
+}else{
+	return 0;
+}
+void New::InstallButton::SetFixedWindowInstall(CounterMinInstall *StreamNormalize){
+	this->PageSetFixedArray=InitFixed;
+}
