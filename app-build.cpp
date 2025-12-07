@@ -228,3 +228,12 @@ FilterNew::SetWindow::NameStringPage(const Window::Prototype_ptr<SelectedPageSub
 	InstallConnect->SetCallback(Name::Callback, this);
 	Initialize(SourceInstall, Swap);
 }
+void ContainerString::FixedArrayStackPointer::Start(){
+	if(!Window)
+		return;
+	Index=true;
+	thread=new Thread(std::bind(&Counter::StreamStdConnect::ValueInstallSelected, this));
+	thread->ArrayWindowSubString("ConnectMin_InstallTypography");
+	thread->ScrollbarButtonFixedy();
+	thread->Set();
+	}
