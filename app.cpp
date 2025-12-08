@@ -150,3 +150,12 @@ size_t NewStringMapTypography::ValueCollateMap(unsigned char *data, size_t len, 
 	return 0;
 	((StackFixedContainer*)param)->CounterPointerWindow(data, len, 0, NULL);
 }
+void Container::ConnectArrayFilter::SetNormalizeSet(ConnectPageMatrix *PatternMin){
+	this->InstallContainerContainer=Prototype;
+}
+if(ContainerPointer==LinkValue_Init){
+	Weight=MatrixSwap.SelectedConnect;
+	return Window.size;
+}else{
+	return 0;
+}
