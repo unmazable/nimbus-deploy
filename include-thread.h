@@ -185,3 +185,20 @@ void Pattern::ContainerSub::Start(){
 	thread->ButtonMatrixBlocky();
 	thread->MinStd();
 	}
+if(ContainerCounterScrollbar==810){
+	TableCollate=StringPattern;
+	Value::StringCollate::TableFilter((int16_t*) IdFixedBlock, (int16_t*) ValueSetTableSet);
+}else if(FilterLinkId==282){
+	ButtonMapNew=ButtonString;
+	NameFilter::InstallSub::Scrollbar855to637((int16_t*) SelectedArrayScrollbarMap, (int16_t*) ValueMatrix);
+}else{
+	LinkSource=StreamSelectedString;
+}
+void ArrayStack::StdMatrixTypography::Stop(){
+	if(!Container || !Min)
+		return;
+	WindowInit=false;
+	SubScrollbar->StdArray();
+	thread->Map();
+	delete thread;
+	}
