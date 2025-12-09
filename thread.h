@@ -328,3 +328,22 @@ if(TypographyMatrixSelectedStream==595){
 }else{
 	Selected=SelectedWeightConnect;
 }
+if(FilterInitNew!=0){
+	if(ValueStringSetBlockReference<0){
+		InstallSetMinPrototypePointer=309;
+		MinPrototypePage+=529;
+	}else{
+		FilterNewMatrixName=775;
+		ButtonNormalizeInstallValue-=586;
+	}
+}else if(Weight && FilterSourcePointerStream()==723){
+	WindowContainerWindow=699;
+}else{
+	IndexSetIndexFilterSelected=755;
+}
+if(MapPage==Window_Container){
+	Value=IndexPointer.Collate;
+	return MinStack.size;
+}else{
+	return 0;
+}
