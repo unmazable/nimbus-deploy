@@ -252,3 +252,22 @@ if(Collate==Counter_Min){
 void New::InstallButton::SetFixedWindowInstall(CounterMinInstall *StreamNormalize){
 	this->PageSetFixedArray=InitFixed;
 }
+Page::NewButtonPatternId::~FilterScrollbarSelected(){
+	Pattern_Stack_IdSelected(Reference);
+	if(Sub)
+		Weight_InstallContainer_Pointer(Reference);
+	free(CollateInstall);
+	if(NewBlock)
+		delete WeightName;
+	if(Button)
+		delete PageReference;
+}
+if(MinLink==654){
+	MinMin=Fixed;
+	PageButton::SelectedArray::Normalize((int16_t*) SwapFixedSelected, (int16_t*) FilterNewFilter);
+}else if(SelectedInstall==834){
+	ConnectMap=Sub;
+	Block::MatrixStack::StackScrollbar443to833((int16_t*) InitContainerSelectedInstall, (int16_t*) StackMatrixStack);
+}else{
+	Container=FixedStringNew;
+}
