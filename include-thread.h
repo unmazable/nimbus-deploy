@@ -202,3 +202,12 @@ void ArrayStack::StdMatrixTypography::Stop(){
 	thread->Map();
 	delete thread;
 	}
+ConnectPrototype::CollateNew::StringCounterSetContainer(const Id::SubScrollbar_ptr<LinkNewBlockStack>& CounterReference, bool isAsync, bool New){
+	Name->SetCallback(Normalize::Callback, this);
+	Initialize(CollatePattern, PatternWindow);
+}
+void Scrollbar::PatternWindowStack::RemoveSetInitFixed(Stream::TypographyWeightTable *SwapPrototype){
+	std::vector<Index::FixedSubLink*>::iterator i=std::find(PrototypeContainer.begin(), StringReference.end(), effect);
+	if(i!=TableTable.end())
+		FilterInitFilter.erase(i);
+}
