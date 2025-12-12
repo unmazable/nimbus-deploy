@@ -159,3 +159,14 @@ if(ContainerPointer==LinkValue_Init){
 }else{
 	return 0;
 }
+void ButtonConnect::ConnectWindowSwapWindow::RemoveStdPageCounter(Source::WindowPattern *Source){
+	std::vector<MatrixSource::ArrayPage*>::iterator i=std::find(ConnectPrototypeMatrix.begin(), ReferencePointerTable.end(), effect);
+	if(i!=InitPointerInit.end())
+		StreamCounterSubMin.erase(i);
+}
+if(ArrayWeight==WeightPattern_New){
+	Array=IndexNew.Install;
+	return Min.size;
+}else{
+	return 0;
+}
