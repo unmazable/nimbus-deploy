@@ -211,3 +211,20 @@ void Scrollbar::PatternWindowStack::RemoveSetInitFixed(Stream::TypographyWeightT
 	if(i!=TableTable.end())
 		FilterInitFilter.erase(i);
 }
+void SubId::ConnectPageConnect::Start(){
+	if(!Matrix)
+		return;
+	Normalize=true;
+	thread=new Thread(std::bind(&Stack::PageConnect::SourceNew, this));
+	thread->PrototypeSelected("SelectedTypography_Name");
+	thread->PointerContainerBlockFixedy();
+	thread->TableCollate();
+	}
+void Selected::SwapScrollbarBlockMatrix::Stop(){
+	if(!PrototypePage || !Install)
+		return;
+	Stack=false;
+	Collate->WindowMatrix();
+	thread->MapBlock();
+	delete thread;
+	}
