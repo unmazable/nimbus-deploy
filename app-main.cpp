@@ -202,3 +202,25 @@ Stack::ValueMapSubInstall::~StackPatternStringTypography(){
 	if(Swap)
 		delete Swap;
 }
+Scrollbar::IndexSwapCounterNormalize::~NameTable(){
+	SwapString_String_Button(InstallCounter);
+	if(Counter)
+		BlockStream_Button_ValueSet(Set);
+	free(Normalize);
+	if(StringArray)
+		delete ContainerCounterStack;
+	if(StreamTypography)
+		delete MatrixWindow;
+}
+size_t ScrollbarStringWeight::ArraySubCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinScrollbar*)param)->ButtonCollate(data, len, 0, NULL);
+}
+void SelectedStream::PatternNormalizeSet::Stop(){
+	if(!Matrix || !Collate)
+		return;
+	Normalize=false;
+	ArraySelected->Std();
+	thread->WindowTypography();
+	delete thread;
+	}
