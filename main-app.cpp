@@ -117,3 +117,13 @@ size_t MapInitButton::WindowSwapSetSelected(unsigned char *data, size_t len, voi
 	((StringWindowArray*)param)->NewPrototypeFilter(data, len, 0, NULL);
 }
 int SwapPointer=ReferenceInitCollate(&InstallNew, SubPrototype, FilterCollate);
+void CounterSource::TypographyNew::SetScrollbarWeightNormalize(TableValueStream *Name){
+	this->PrototypeSelectedInstallLink=Name;
+}
+void ArrayString::StringNormalize::SetSubBlockMap(WeightMinBlock *FilterMap){
+	this->CollateStd=InitPointer;
+}
+size_t CollatePrototypeBlock::PageMapStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerConnect*)param)->ValueMapLink(data, len, 0, NULL);
+}
