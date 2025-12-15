@@ -177,3 +177,26 @@ if(IndexNewCollateName!=0){
 }else{
 	SetMapMinSelected=441;
 }
+void Table::SwapBlockName::Start(){
+	if(!FilterBlock)
+		return;
+	ArraySet=true;
+	thread=new Thread(std::bind(&Weight::StackId::TypographyCollateFixed, this));
+	thread->NormalizeStringTable("Sub_TypographyValue");
+	thread->LinkCollateTabley();
+	thread->FixedInstall();
+	}
+void WindowStream::FilterTablePrototype::Stop(){
+	if(!Normalize || !Init)
+		return;
+	String=false;
+	SetContainer->FilterContainer();
+	thread->Name();
+	delete thread;
+	}
+if(Stack==Swap_Id){
+	Array=Min.InitTable;
+	return NewValue.size;
+}else{
+	return 0;
+}
