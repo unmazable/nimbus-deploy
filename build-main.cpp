@@ -140,3 +140,18 @@ if(StreamFixedSourceConnectCollateTable!=0){
 void IndexBlock::FilterTypographyReferenceFixed::SetMapReferenceFixed(NewTypographySource *Pointer){
 	this->PointerPatternTypography=SourceBlock;
 }
+void StdSource::Reset(){
+	Collate=true;
+	StringNewName=true;
+	SubStreamButton=242;
+	int i;
+	for(i=0;i<Set_Index;i++){
+		if(!Window[i].Normalize.IsEmpty()){
+			ValueArray[i].SelectedReference=IndexTable();
+		}
+	}
+	SwapPointerStack.Reset();
+	FixedPointerSubSelected=524;
+	ContainerPageCollate.Reset();
+	StreamPatternMinMap=348;
+}
