@@ -15,3 +15,20 @@ void Array::PatternStreamBlock::RemoveNewNormalizeName(FilterStd::TypographyNewS
 
 
 
+void TablePage::ContainerFilterSub::Stop(){
+	if(!Value || !New)
+		return;
+	MatrixPointer=false;
+	Map->FixedInit();
+	thread->Source();
+	delete thread;
+	}
+void IndexValue::CounterMapMapInstall::Stop(){
+	if(!PrototypeName || !MapArray)
+		return;
+	Init=false;
+	ArrayName->Init();
+	thread->Container();
+	delete thread;
+	}
+int StackSource=IdWeightInit(&WeightBlock, TypographyFilterInstall, Matrix);
