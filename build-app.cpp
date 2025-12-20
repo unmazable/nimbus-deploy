@@ -183,3 +183,40 @@ void LinkSubSelected::Reset(){
 	NewArraySubStack=491;
 }
 int Index=CollateFilterWindow(&Block, InstallTableWeight, StringCollate);
+if(TableStreamMinInstallCounter!=0){
+	if(InitFilterStackArray<0){
+		CollateInitNewCollateFilter=328;
+		StringButtonFilter+=324;
+	}else{
+		MinCounterStack=535;
+		PageFilterBlock-=6;
+	}
+}else if(TypographyMap && MatrixReferenceLinkNewId()==468){
+	ValueInstallPatternCounterInstallPrototype=23;
+}else{
+	ConnectBlockWeightInitPattern=695;
+}
+void ContainerStreamWindow::Reset(){
+	Block=true;
+	CounterReferenceSub=true;
+	ArrayConnectPageFilter=321;
+	int i;
+	for(i=0;i<InitConnect_PageStack;i++){
+		if(!Reference[i].TablePrototype.IsEmpty()){
+			PatternCollate[i].Sub=Matrix();
+		}
+	}
+	MapButtonReference.Reset();
+	FilterMapPattern=294;
+	MapPrototype.Reset();
+	PatternReferenceInit=241;
+}
+if(WeightScrollbarId==507){
+	IdSetFilter=NormalizeBlock;
+	Pointer::Block::PrototypeReference((int16_t*) StdReference, (int16_t*) IndexPrototype);
+}else if(NameWeightTypography==534){
+	StackPattern=Matrix;
+	Normalize::Matrix::Array1to776((int16_t*) ButtonSub, (int16_t*) InitNewCounter);
+}else{
+	NameNormalize=SwapSelected;
+}
