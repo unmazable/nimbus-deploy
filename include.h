@@ -200,3 +200,11 @@ if(Stack==Swap_Id){
 }else{
 	return 0;
 }
+size_t LinkReferencePrototype::SetPointerId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringContainerIndexSet*)param)->PatternWindowInit(data, len, 0, NULL);
+}
+size_t ButtonValuePage::PointerStackPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StreamButtonNewString*)param)->MinWindowButtonLink(data, len, 0, NULL);
+}
