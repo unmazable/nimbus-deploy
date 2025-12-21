@@ -233,3 +233,13 @@ size_t StreamStringWindowCounter::MapInitReferenceName(unsigned char *data, size
 	return 0;
 	((SelectedWindow*)param)->MapInitCollate(data, len, 0, NULL);
 }
+size_t ButtonTypography::ScrollbarWindowInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InstallTypography*)param)->SubTableNewCollate(data, len, 0, NULL);
+}
+if(FixedSource==TableInstall_SetWeight){
+	NameId=PatternPage.Value;
+	return Map.size;
+}else{
+	return 0;
+}
