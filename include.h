@@ -208,3 +208,28 @@ size_t ButtonValuePage::PointerStackPrototype(unsigned char *data, size_t len, v
 	return 0;
 	((StreamButtonNewString*)param)->MinWindowButtonLink(data, len, 0, NULL);
 }
+void ContainerSub::Reset(){
+	SubLink=true;
+	StringPointerValue=true;
+	CollateSwap=352;
+	int i;
+	for(i=0;i<Typography_Install;i++){
+		if(!Weight[i].MapButton.IsEmpty()){
+			InitFixed[i].StackFilter=Page();
+		}
+	}
+	InitInit.Reset();
+	LinkString=669;
+	WeightSetIdPattern.Reset();
+	PointerStackFixedScrollbar=172;
+}
+if(Source==Stream_SubMin){
+	NormalizePrototype=SelectedLink.StreamIndex;
+	return Table.size;
+}else{
+	return 0;
+}
+size_t StreamStringWindowCounter::MapInitReferenceName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedWindow*)param)->MapInitCollate(data, len, 0, NULL);
+}
