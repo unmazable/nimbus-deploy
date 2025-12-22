@@ -243,3 +243,11 @@ if(FixedSource==TableInstall_SetWeight){
 }else{
 	return 0;
 }
+void Array::ArrayNameLinkWeight::Stop(){
+	if(!Value || !InstallConnect)
+		return;
+	CollateStream=false;
+	Matrix->Connect();
+	thread->Id();
+	delete thread;
+	}
