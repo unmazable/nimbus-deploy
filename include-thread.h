@@ -228,3 +228,26 @@ void Selected::SwapScrollbarBlockMatrix::Stop(){
 	thread->MapBlock();
 	delete thread;
 	}
+void ConnectFixed::SetPattern::Stop(){
+	if(!Source || !SelectedPattern)
+		return;
+	Set=false;
+	ScrollbarTable->BlockLink();
+	thread->Source();
+	delete thread;
+	}
+Table::StreamSelectedSwapStream::~TypographyMatrix(){
+	Counter_InstallPrototype_Id(Filter);
+	if(Button)
+		SubString_CollateWindow_Min(Source);
+	free(Matrix);
+	if(Collate)
+		delete WeightPage;
+	if(Typography)
+		delete Fixed;
+}
+void SelectedPage::InitPattern::RemoveLinkButtonConnectSource(SwapMatrix::StreamPageContainerTypography *ConnectReference){
+	std::vector<LinkPattern::StackNameString*>::iterator i=std::find(FilterWeightSwapTypography.begin(), StdNameArrayValue.end(), effect);
+	if(i!=ValueStringStack.end())
+		FilterBlockConnectContainer.erase(i);
+}
