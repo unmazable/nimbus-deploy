@@ -170,3 +170,22 @@ if(ArrayWeight==WeightPattern_New){
 }else{
 	return 0;
 }
+void Filter::ButtonSubMatrix::Start(){
+	if(!CollatePrototype)
+		return;
+	String=true;
+	thread=new Thread(std::bind(&Min::FilterStreamWeightContainer::ContainerBlockSet, this));
+	thread->PatternInitCollate("PrototypeNew_InstallMatrix");
+	thread->InstallSourcey();
+	thread->FixedPointer();
+	}
+ContainerTypography::NormalizeValue::~PatternConnectName(){
+	PageString_LinkSub_Window(SetWeight);
+	if(NormalizePointer)
+		Weight_Set_Table(Init);
+	free(Install);
+	if(ReferenceStack)
+		delete FilterLinkPrototype;
+	if(Init)
+		delete SourceBlock;
+}
