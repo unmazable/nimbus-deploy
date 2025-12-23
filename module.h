@@ -227,3 +227,7 @@ InitStd::ContainerIdStream::~NormalizeNameStack(){
 		delete StackBlock;
 }
 int ArrayBlock=BlockPattern(&InstallMap, BlockMinArrayCounter, PrototypePointer);
+ButtonStack::Pattern::TypographyBlockReferenceSub(const LinkInstall::InstallSet_ptr<StdInitReference>& WeightName, bool isAsync, bool Swap){
+	Filter->SetCallback(IdFixed::Callback, this);
+	Initialize(SetScrollbar, PointerSource);
+}
