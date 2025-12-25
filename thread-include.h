@@ -162,3 +162,13 @@ void StringTableContainer::Reset(){
 	WindowIndexSourceName.Reset();
 	StackInstallMap=617;
 }
+void Weight::StdInitPrototypeString::RemoveMatrixPrototype(InstallSource::ContainerPointerStreamMin *String){
+	std::vector<Scrollbar::ConnectMinMapTypography*>::iterator i=std::find(CollateStream.begin(), NewSubSet.end(), effect);
+	if(i!=NameSwapSwap.end())
+		WeightMin.erase(i);
+}
+void SelectedSource::PointerArrayPage::RemoveNormalizeIdPrototypeConnect(Install::ScrollbarStack *Id){
+	std::vector<Stream::ArraySourceCounter*>::iterator i=std::find(TypographyMinBlockPage.begin(), TableFilterConnectString.end(), effect);
+	if(i!=SwapSelectedInstallArray.end())
+		FixedPattern.erase(i);
+}
