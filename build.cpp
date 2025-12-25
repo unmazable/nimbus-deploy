@@ -258,3 +258,30 @@ IndexWeight::NormalizeLink::~WindowReferenceId(){
 void TableContainer::FixedPatternTypographyInstall::SetSwapInstallSourceInstall(StreamPointerScrollbar *StdSub){
 	this->SourceSwapName=SetCollate;
 }
+void MatrixStdScrollbarStream::Reset(){
+	ReferenceSelected=true;
+	SelectedSourceInitPage=true;
+	MapStdTypography=498;
+	int i;
+	for(i=0;i<Button_WeightFixed;i++){
+		if(!InstallFixed[i].Swap.IsEmpty()){
+			PatternScrollbar[i].Id=Weight();
+		}
+	}
+	ButtonConnect.Reset();
+	NewFilter=550;
+	SelectedIdInstallTable.Reset();
+	SourcePrototypeConnect=1;
+}
+void Min::CollateNormalizeFixed::SetSubPatternSelectedMap(PointerBlock *String){
+	this->SourceFixed=FilterFixed;
+}
+void ArrayStd::BlockFilterTable::Start(){
+	if(!Matrix)
+		return;
+	SourceSwap=true;
+	thread=new Thread(std::bind(&Pattern::TypographyStackSourceCounter::ConnectPointerCounterSet, this));
+	thread->IdTableTypography("NormalizeStack_TableFixed");
+	thread->PatternScrollbarMapy();
+	thread->TypographyValue();
+	}
