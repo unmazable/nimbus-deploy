@@ -155,3 +155,13 @@ void StdSource::Reset(){
 	ContainerPageCollate.Reset();
 	StreamPatternMinMap=348;
 }
+if(ReferencePrototype==Prototype_Window){
+	WeightSet=Connect.ButtonId;
+	return SourceCollate.size;
+}else{
+	return 0;
+}
+size_t StackInitLink::FilterTypographyCollateSelected(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IdSourceValueButton*)param)->InstallInstall(data, len, 0, NULL);
+}
