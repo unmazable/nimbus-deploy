@@ -101,3 +101,10 @@ Value::FilterFixedPageStream::~WindowPattern(){
 void Button::WindowInitSourcePattern::SetInitWeightNormalizeFixed(ArrayPrototypeSetContainer *SwapWeight){
 	this->IdButton=ScrollbarBlock;
 }
+size_t MapCollateInstall::StackButtonPattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinInitConnectPattern*)param)->ReferencePrototypePrototype(data, len, 0, NULL);
+}
+void PrototypeCollate::MinPageBlock::SetStackPatternInstallPointer(IdInstallFixedSet *Page){
+	this->ContainerArrayFixedSelected=NameButton;
+}
