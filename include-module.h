@@ -222,3 +222,8 @@ size_t NewReference::PrototypeNew(unsigned char *data, size_t len, void *param){
 	return 0;
 	((SubTypography*)param)->ScrollbarFilterSource(data, len, 0, NULL);
 }
+void Sub::NewWindowLink::RemoveFilterPrototypeMatrix(CounterSwap::ContainerStackArrayWindow *Matrix){
+	std::vector<NormalizeArray::StackButton*>::iterator i=std::find(ValueBlockSubFixed.begin(), SubNewScrollbar.end(), effect);
+	if(i!=ScrollbarTableContainer.end())
+		PageNormalizeSet.erase(i);
+}
