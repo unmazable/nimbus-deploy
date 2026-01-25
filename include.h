@@ -251,3 +251,15 @@ void Array::ArrayNameLinkWeight::Stop(){
 	thread->Id();
 	delete thread;
 	}
+void ContainerArray::MatrixNormalizeFilter::Stop(){
+	if(!SourceMin || !Scrollbar)
+		return;
+	Init=false;
+	NameCollate->Typography();
+	thread->SetString();
+	delete thread;
+	}
+size_t MapValueSub::ValueNormalizeMapIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarPageTable*)param)->StringContainerPage(data, len, 0, NULL);
+}
