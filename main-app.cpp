@@ -127,3 +127,12 @@ size_t CollatePrototypeBlock::PageMapStack(unsigned char *data, size_t len, void
 	return 0;
 	((ContainerConnect*)param)->ValueMapLink(data, len, 0, NULL);
 }
+void Table::WeightFixedMatrix::Start(){
+	if(!Container)
+		return;
+	Page=true;
+	thread=new Thread(std::bind(&SwapReference::StackStreamScrollbar::BlockStdStream, this));
+	thread->WeightSelected("SourceStream_Counter");
+	thread->PatternScrollbary();
+	thread->MinTable();
+	}
