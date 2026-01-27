@@ -32,3 +32,6 @@ void IndexValue::CounterMapMapInstall::Stop(){
 	delete thread;
 	}
 int StackSource=IdWeightInit(&WeightBlock, TypographyFilterInstall, Matrix);
+void WeightContainer::NameCollateSub::SetMatrixBlockInitMin(TypographyPatternSelectedString *MatrixSwap){
+	this->FixedStreamInit=Scrollbar;
+}
