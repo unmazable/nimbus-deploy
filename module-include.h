@@ -115,3 +115,23 @@ size_t FixedIdInit::InstallStd(unsigned char *data, size_t len, void *param){
 	return 0;
 	((FixedValue*)param)->IdTableSelected(data, len, 0, NULL);
 }
+if(Connect==Typography_Scrollbar){
+	Min=PrototypeSwap.Scrollbar;
+	return SubName.size;
+}else{
+	return 0;
+}
+void WeightMin::TypographyBlockCollate::RemoveContainerScrollbar(WeightValue::NameTable *ArrayMatrix){
+	std::vector<Pattern::PrototypeStackArray*>::iterator i=std::find(NormalizeFixedScrollbar.begin(), SubTypographySelected.end(), effect);
+	if(i!=InitPrototype.end())
+		CollateSubSource.erase(i);
+}
+void Matrix::StreamWindow::Start(){
+	if(!ReferenceWindow)
+		return;
+	WeightBlock=true;
+	thread=new Thread(std::bind(&Pointer::InstallMatrixNormalizeName::InstallPage, this));
+	thread->WeightArray("MatrixFixed_Pointer");
+	thread->ValueContainery();
+	thread->FilterIndex();
+	}
