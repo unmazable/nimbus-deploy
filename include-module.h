@@ -227,3 +227,17 @@ void Sub::NewWindowLink::RemoveFilterPrototypeMatrix(CounterSwap::ContainerStack
 	if(i!=ScrollbarTableContainer.end())
 		PageNormalizeSet.erase(i);
 }
+if(ReferenceTable==ArrayName_ScrollbarConnect){
+	Counter=InstallReference.BlockId;
+	return Install.size;
+}else{
+	return 0;
+}
+void Array::StreamSubNew::Stop(){
+	if(!InitReference || !Pointer)
+		return;
+	PatternStack=false;
+	IndexStack->Stream();
+	thread->Stack();
+	delete thread;
+	}
