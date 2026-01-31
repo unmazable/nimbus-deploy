@@ -224,3 +224,13 @@ void SelectedStream::PatternNormalizeSet::Stop(){
 	thread->WindowTypography();
 	delete thread;
 	}
+ContainerSelected::CollateStdWindow::~WeightNamePage(){
+	FixedWindow_PageFixed_Install(Source);
+	if(SubInit)
+		StreamId_SwapArray_Min(TableFilter);
+	free(Name);
+	if(IndexValue)
+		delete LinkScrollbar;
+	if(Container)
+		delete Name;
+}
