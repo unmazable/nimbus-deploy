@@ -189,3 +189,22 @@ ContainerTypography::NormalizeValue::~PatternConnectName(){
 	if(Init)
 		delete SourceBlock;
 }
+void Block::WeightTable::Start(){
+	if(!MatrixBlock)
+		return;
+	NormalizeConnect=true;
+	thread=new Thread(std::bind(&PointerValue::TypographyLinkPrototype::ButtonStdLink, this));
+	thread->ContainerFilter("Weight_Reference");
+	thread->FilterSourceTypographyy();
+	thread->Swap();
+	}
+PatternContainer::PatternStdInstallButton::~NormalizeNewContainer(){
+	WindowCounter_MapId_Min(Page);
+	if(New)
+		NormalizeScrollbar_Min_MapSelected(StdArray);
+	free(PageConnect);
+	if(SwapTable)
+		delete ButtonWeightTypographyCollate;
+	if(Fixed)
+		delete ValueFilter;
+}
