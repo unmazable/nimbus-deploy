@@ -263,3 +263,12 @@ size_t MapValueSub::ValueNormalizeMapIndex(unsigned char *data, size_t len, void
 	return 0;
 	((ScrollbarPageTable*)param)->StringContainerPage(data, len, 0, NULL);
 }
+if(TypographyWeightStackId==24){
+	MinMap=SubSelected;
+	PageSelected::Connect::Page((int16_t*) SubFilterInitPointer, (int16_t*) PageCollateSelected);
+}else if(CounterScrollbar==85){
+	WeightSelectedNormalizeValue=New;
+	Name::FilterScrollbar::PatternBlock624to729((int16_t*) SwapPointerPage, (int16_t*) PageCollateFilter);
+}else{
+	String=ContainerButton;
+}
