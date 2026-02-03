@@ -234,3 +234,18 @@ ContainerSelected::CollateStdWindow::~WeightNamePage(){
 	if(Container)
 		delete Name;
 }
+void WindowFilter::ArrayNormalizeSource::Start(){
+	if(!InitTable)
+		return;
+	PatternSource=true;
+	thread=new Thread(std::bind(&Pattern::MatrixPage::MapNewValueInstall, this));
+	thread->StackNameIndexNew("MapNormalize_ContainerButton");
+	thread->InstallStringy();
+	thread->IdPointer();
+	}
+if(Matrix==ScrollbarMap_Collate){
+	Container=FilterPointer.NewFixed;
+	return PointerNew.size;
+}else{
+	return 0;
+}
