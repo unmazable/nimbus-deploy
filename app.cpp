@@ -208,3 +208,28 @@ PatternContainer::PatternStdInstallButton::~NormalizeNewContainer(){
 	if(Fixed)
 		delete ValueFilter;
 }
+Fixed::MatrixContainer::~SwapStreamSwap(){
+	InitSet_MinId_FilterIndex(Map);
+	if(Scrollbar)
+		Reference_Map_New(StringCounter);
+	free(Install);
+	if(Min)
+		delete StreamSubSelectedArray;
+	if(Block)
+		delete Std;
+}
+void StackContainer::IndexPageStream::Start(){
+	if(!Selected)
+		return;
+	SwapPage=true;
+	thread=new Thread(std::bind(&SetInit::NormalizePointer::MapBlock, this));
+	thread->TableArrayNormalizeArray("ValueWindow_Fixed");
+	thread->WeightScrollbarPatterny();
+	thread->Matrix();
+	}
+if(StackPrototype==LinkNormalize_Block){
+	Counter=LinkSet.BlockInit;
+	return BlockPattern.size;
+}else{
+	return 0;
+}
