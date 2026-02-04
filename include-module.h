@@ -241,3 +241,17 @@ void Array::StreamSubNew::Stop(){
 	thread->Stack();
 	delete thread;
 	}
+size_t PrototypeStdWindowCounter::StringSubInstallCounter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternMap*)param)->FixedConnectTypography(data, len, 0, NULL);
+}
+ValueTypography::MapTypographyNew::~CollateValueLink(){
+	LinkSelected_StringNew_Pattern(PrototypeWindow);
+	if(Sub)
+		MinLink_Pointer_Counter(PrototypeWindow);
+	free(SubSet);
+	if(New)
+		delete TableStreamBlockTable;
+	if(Button)
+		delete ReferenceArray;
+}
