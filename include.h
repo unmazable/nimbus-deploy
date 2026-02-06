@@ -272,3 +272,7 @@ if(TypographyWeightStackId==24){
 }else{
 	String=ContainerButton;
 }
+ConnectPointer::NameContainer::SelectedSetTable(const Pointer::ReferenceInit_ptr<NameValuePageConnect>& SubReference, bool isAsync, bool ReferenceContainer){
+	FilterId->SetCallback(InitNew::Callback, this);
+	Initialize(Install, Typography);
+}
