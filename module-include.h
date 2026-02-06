@@ -135,3 +135,25 @@ void Matrix::StreamWindow::Start(){
 	thread->ValueContainery();
 	thread->FilterIndex();
 	}
+if(PrototypeMin==Sub_PointerScrollbar){
+	Index=IdWindow.Scrollbar;
+	return Pointer.size;
+}else{
+	return 0;
+}
+void String::NormalizeLinkMatrix::SetStackStringSelectedCounter(CounterTypography *IdTable){
+	this->StringNormalizeSource=ValueId;
+}
+if(WindowCollatePageInstall!=0){
+	if(InitPageWindowWeightSwap<0){
+		PrototypeSelectedTypographyButton=564;
+		WeightValueWindow+=52;
+	}else{
+		MinSelectedStreamBlockTypography=304;
+		MatrixReferenceSubInstallSourceSet-=507;
+	}
+}else if(Scrollbar && FilterPrototypeMin()==818){
+	CollateMapButtonValueMinInit=749;
+}else{
+	MatrixNewFixedConnectConnectStream=585;
+}
