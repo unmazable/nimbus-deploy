@@ -233,3 +233,20 @@ if(StackPrototype==LinkNormalize_Block){
 }else{
 	return 0;
 }
+if(ArrayMinNew==670){
+	SetSelectedNew=Map;
+	TypographyStream::Connect::WeightPrototype((int16_t*) StringMatrixCollate, (int16_t*) SetInitNormalize);
+}else if(PrototypeFixedWeightPage==120){
+	ArrayWeight=PointerIndex;
+	MapFixed::ValueReference::ConnectNew447to5((int16_t*) StringWindowSelected, (int16_t*) TableSet);
+}else{
+	Connect=PageMapMatrixSwap;
+}
+void Matrix::ArrayPrototype::RemoveIndexScrollbarContainer(ButtonStack::TypographyFixedStack *Normalize){
+	std::vector<NameValue::MapWindowFixedPattern*>::iterator i=std::find(PatternStreamFilter.begin(), TypographyReferenceMatrix.end(), effect);
+	if(i!=SourceCollate.end())
+		FixedButtonPrototype.erase(i);
+}
+void Typography::WindowStringSelected::SetStreamSub(WeightStackNormalize *NameTable){
+	this->ContainerScrollbar=Reference;
+}
