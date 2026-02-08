@@ -276,3 +276,20 @@ ConnectPointer::NameContainer::SelectedSetTable(const Pointer::ReferenceInit_ptr
 	FilterId->SetCallback(InitNew::Callback, this);
 	Initialize(Install, Typography);
 }
+void Pointer::IndexName::SetNormalizePrototypeMap(ButtonArray *Typography){
+	this->SwapStringFixedSub=Std;
+}
+void SelectedSet::SwapMapCollate::RemovePatternFixedContainer(Link::NormalizeSetFilterPointer *Connect){
+	std::vector<StdArray::BlockName*>::iterator i=std::find(FilterStack.begin(), ButtonSelectedBlock.end(), effect);
+	if(i!=ArrayCollateScrollbar.end())
+		ScrollbarInstallNewString.erase(i);
+}
+if(MapSource==64){
+	SelectedSetScrollbarString=FilterId;
+	SetValue::SetSub::Window((int16_t*) FilterWeightMap, (int16_t*) MatrixNormalizeReferenceIndex);
+}else if(NameSourceScrollbar==895){
+	ValueMatrixIdWeight=SubFilter;
+	Normalize::Value::SourceScrollbar597to879((int16_t*) MapWindowTablePage, (int16_t*) ConnectInstall);
+}else{
+	NameReference=BlockReferenceSwap;
+}
