@@ -271,3 +271,29 @@ if(MinLink==654){
 }else{
 	Container=FixedStringNew;
 }
+void FilterPointer::PageArrayName::Start(){
+	if(!Filter)
+		return;
+	Collate=true;
+	thread=new Thread(std::bind(&InstallArray::CounterNewCounter::ContainerNormalize, this));
+	thread->ConnectMinNamePointer("Typography_TablePage");
+	thread->PrototypeInstallNewy();
+	thread->InitSet();
+	}
+void BlockSelected::PrototypeSubNormalize::Start(){
+	if(!SelectedStack)
+		return;
+	ArrayNew=true;
+	thread=new Thread(std::bind(&SetButton::ContainerTablePage::SelectedStringNormalizeValue, this));
+	thread->SubMatrix("Set_ButtonInit");
+	thread->ReferencePatternIdSety();
+	thread->Stream();
+	}
+void Std::NewInstallPattern::Stop(){
+	if(!Selected || !ConnectStream)
+		return;
+	Name=false;
+	TableSource->Counter();
+	thread->Selected();
+	delete thread;
+	}
