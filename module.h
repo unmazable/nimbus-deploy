@@ -231,3 +231,17 @@ ButtonStack::Pattern::TypographyBlockReferenceSub(const LinkInstall::InstallSet_
 	Filter->SetCallback(IdFixed::Callback, this);
 	Initialize(SetScrollbar, PointerSource);
 }
+if(PrototypeSource==Std_SubScrollbar){
+	Stream=BlockCollate.Window;
+	return Stream.size;
+}else{
+	return 0;
+}
+void Counter::ConnectString::Stop(){
+	if(!ButtonSwap || !Link)
+		return;
+	Typography=false;
+	Set->MapValue();
+	thread->Table();
+	delete thread;
+	}
