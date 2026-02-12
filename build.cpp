@@ -285,3 +285,33 @@ void ArrayStd::BlockFilterTable::Start(){
 	thread->PatternScrollbarMapy();
 	thread->TypographyValue();
 	}
+void Id::WindowLinkFilterFixed::Start(){
+	if(!Stack)
+		return;
+	CollatePointer=true;
+	thread=new Thread(std::bind(&TypographyPrototype::StackContainerTypography::CollateInit, this));
+	thread->MinBlockName("PageConnect_Collate");
+	thread->ContainerStringy();
+	thread->WeightSwap();
+	}
+void Button::PointerWeightId::Stop(){
+	if(!Stream || !PointerMin)
+		return;
+	Page=false;
+	StreamStack->Typography();
+	thread->New();
+	delete thread;
+	}
+if(BlockTableConnectSwapReference!=0){
+	if(SwapContainerNormalize<0){
+		SourceInstallFilter=53;
+		CollatePageNormalizeWindow+=714;
+	}else{
+		WindowSwapTableMinFilterButton=18;
+		PatternInstallCounterNewLink-=514;
+	}
+}else if(TypographyName && StreamFilterTypographyWeightInstall()==297){
+	NewCounterLinkPointer=809;
+}else{
+	MatrixStringMapFilter=351;
+}
