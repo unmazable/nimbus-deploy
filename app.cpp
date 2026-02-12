@@ -250,3 +250,12 @@ void Matrix::ArrayPrototype::RemoveIndexScrollbarContainer(ButtonStack::Typograp
 void Typography::WindowStringSelected::SetStreamSub(WeightStackNormalize *NameTable){
 	this->ContainerScrollbar=Reference;
 }
+void Typography::SelectedStringStd::Start(){
+	if(!Prototype)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&Name::StreamScrollbarButtonSelected::SelectedWindowMapString, this));
+	thread->ScrollbarPrototype("Table_Std");
+	thread->CollateWindowArrayy();
+	thread->IndexMap();
+	}
