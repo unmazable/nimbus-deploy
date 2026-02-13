@@ -249,3 +249,7 @@ if(Matrix==ScrollbarMap_Collate){
 }else{
 	return 0;
 }
+size_t SetCounterNew::NewIdConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StdSwapSelectedButton*)param)->FixedStdMapPattern(data, len, 0, NULL);
+}
