@@ -255,3 +255,18 @@ ValueTypography::MapTypographyNew::~CollateValueLink(){
 	if(Button)
 		delete ReferenceArray;
 }
+if(FilterMatrix==Button_Connect){
+	ArrayCollate=WeightInit.NormalizeId;
+	return Pointer.size;
+}else{
+	return 0;
+}
+void SwapContainer::IdContainerSwap::RemoveInstallCollate(Sub::NewButtonSelectedMin *Reference){
+	std::vector<Init::FilterPointerMatrixCollate*>::iterator i=std::find(WeightMin.begin(), MinScrollbar.end(), effect);
+	if(i!=NewId.end())
+		InitConnectMatrix.erase(i);
+}
+size_t PrototypeReference::NewStreamIndexMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameMinTable*)param)->FixedScrollbar(data, len, 0, NULL);
+}
