@@ -293,3 +293,25 @@ if(MapSource==64){
 }else{
 	NameReference=BlockReferenceSwap;
 }
+if(IdFixedCollate!=0){
+	if(WeightNameInitMap<0){
+		SwapFixedTableIdPatternFilter=744;
+		MapFixedSub+=821;
+	}else{
+		CounterMatrixLinkIdPointer=653;
+		PrototypeReferenceMapInitSwapFilter-=691;
+	}
+}else if(Min && CounterValueButtonValueNormalizeCollate()==415){
+	SetTableSubTypographyBlock=724;
+}else{
+	SubFilterNameLinkTypography=144;
+}
+if(MinPage==Counter_Pattern){
+	Set=Install.String;
+	return TableCounter.size;
+}else{
+	return 0;
+}
+void FilterSet::SelectedCounter::SetNewTableStd(FixedWeightConnectLink *SetMap){
+	this->PatternBlock=ReferenceTable;
+}
