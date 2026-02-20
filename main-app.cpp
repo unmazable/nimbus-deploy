@@ -136,3 +136,19 @@ void Table::WeightFixedMatrix::Start(){
 	thread->PatternScrollbary();
 	thread->MinTable();
 	}
+void FilterWeight::Reset(){
+	Pattern=true;
+	InitNormalizeReference=true;
+	NameIndex=422;
+	int i;
+	for(i=0;i<Id_TableButton;i++){
+		if(!ConnectId[i].IndexSub.IsEmpty()){
+			CollateSub[i].SetTable=Swap();
+		}
+	}
+	ArrayMatrix.Reset();
+	MapMinTable=732;
+	ContainerReference.Reset();
+	BlockFixedScrollbar=61;
+}
+int WeightInit=NameScrollbarContainer(&ArrayStream, SelectedBlockNormalizeStd, Id);
