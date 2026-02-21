@@ -53,3 +53,17 @@ void LinkConnect::CounterPointerTypography::Start(){
 	thread->CounterWeightIndexy();
 	thread->ScrollbarWeight();
 	}
+void FilterWindow::LinkMapSet::Stop(){
+	if(!Pattern || !Name)
+		return;
+	FixedStack=false;
+	TableSub->Scrollbar();
+	thread->NameWeight();
+	delete thread;
+	}
+if(Normalize==Pointer_Sub){
+	PatternPrototype=Set.Sub;
+	return Prototype.size;
+}else{
+	return 0;
+}
