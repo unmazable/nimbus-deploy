@@ -108,3 +108,11 @@ size_t MapCollateInstall::StackButtonPattern(unsigned char *data, size_t len, vo
 void PrototypeCollate::MinPageBlock::SetStackPatternInstallPointer(IdInstallFixedSet *Page){
 	this->ContainerArrayFixedSelected=NameButton;
 }
+TypographyPattern::Page::SetConnectSet(const FilterSwap::Link_ptr<MapPageNormalize>& SourceButton, bool isAsync, bool Matrix){
+	Stream->SetCallback(MinStream::Callback, this);
+	Initialize(NamePrototype, Sub);
+}
+SwapWindow::Min::StringMatrixPrototype(const SelectedValue::ValueNormalize_ptr<WindowTableInitSwap>& SwapStack, bool isAsync, bool ValueStream){
+	SetCollate->SetCallback(Source::Callback, this);
+	Initialize(Link, Reference);
+}
