@@ -315,3 +315,17 @@ if(MinPage==Counter_Pattern){
 void FilterSet::SelectedCounter::SetNewTableStd(FixedWeightConnectLink *SetMap){
 	this->PatternBlock=ReferenceTable;
 }
+void Map::SubStackTable::RemoveMinTableMap(PrototypeMin::StdPointerArray *Selected){
+	std::vector<FilterConnect::MapMinSwapFixed*>::iterator i=std::find(MapContainer.begin(), PointerStream.end(), effect);
+	if(i!=StdScrollbar.end())
+		FilterValueNew.erase(i);
+}
+void NewCounter::IdStringFixed::Start(){
+	if(!InitValue)
+		return;
+	ConnectNew=true;
+	thread=new Thread(std::bind(&PrototypeWeight::SubStringNormalize::ContainerMinStdWeight, this));
+	thread->TypographyReferenceFilter("InstallPattern_SetId");
+	thread->TypographyMiny();
+	thread->IdWeight();
+	}
