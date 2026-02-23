@@ -253,3 +253,34 @@ size_t SetCounterNew::NewIdConnect(unsigned char *data, size_t len, void *param)
 	return 0;
 	((StdSwapSelectedButton*)param)->FixedStdMapPattern(data, len, 0, NULL);
 }
+if(PointerArrayContainer==312){
+	SetStd=SelectedSub;
+	Selected::FilterTable::SelectedInstall((int16_t*) ContainerSwap, (int16_t*) WindowStackIndex);
+}else if(MatrixMap==551){
+	WindowContainer=Fixed;
+	Pointer::PrototypeScrollbar::Sub582to671((int16_t*) CounterCounterButton, (int16_t*) SourceReferenceArray);
+}else{
+	Std=WindowSource;
+}
+if(ScrollbarSelected==531){
+	CounterMatrix=Install;
+	SwapReference::Fixed::New((int16_t*) NormalizeButtonSub, (int16_t*) TableReferenceBlock);
+}else if(NameStream==212){
+	SourceWindow=ButtonIndex;
+	Init::Stack::NameFilter679to735((int16_t*) SourceId, (int16_t*) ArrayFilterButtonFixed);
+}else{
+	Array=NameFilterTableInstall;
+}
+if(StdPageTableMinCounter!=0){
+	if(FixedValuePageCounter<0){
+		CollateBlockStackReference=60;
+		ValueSub+=702;
+	}else{
+		BlockCounterButtonString=875;
+		StackNormalizeSetWeight-=22;
+	}
+}else if(MinSource && WindowMapPatternName()==354){
+	StackSourceConnectArrayStack=582;
+}else{
+	MapCounterInitLink=224;
+}
