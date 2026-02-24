@@ -251,3 +251,17 @@ void SelectedPage::InitPattern::RemoveLinkButtonConnectSource(SwapMatrix::Stream
 	if(i!=ValueStringStack.end())
 		FilterBlockConnectContainer.erase(i);
 }
+void PrototypeMatrix::PageMatrixNew::Stop(){
+	if(!ScrollbarId || !NewMap)
+		return;
+	ConnectCollate=false;
+	NewConnect->Selected();
+	thread->ButtonWeight();
+	delete thread;
+	}
+if(Connect==CollateSet_BlockWeight){
+	ContainerNew=Typography.Swap;
+	return Connect.size;
+}else{
+	return 0;
+}
