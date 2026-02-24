@@ -265,3 +265,12 @@ if(Connect==CollateSet_BlockWeight){
 }else{
 	return 0;
 }
+void Name::MinCounterWindow::SetSetNameConnect(FixedConnect *SwapWeight){
+	this->WeightReference=BlockPattern;
+}
+void Name::PrototypePointerWeight::RemoveTypographySet(FilterPointer::InstallMapSwap *Value){
+	std::vector<TableBlock::WindowBlock*>::iterator i=std::find(IdTypographyNew.begin(), SourceArraySubStack.end(), effect);
+	if(i!=StringContainer.end())
+		MatrixFilterTypographyArray.erase(i);
+}
+int Min=CounterArrayPattern(&Connect, CollateStackSource, FilterSource);
