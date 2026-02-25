@@ -116,3 +116,13 @@ SwapWindow::Min::StringMatrixPrototype(const SelectedValue::ValueNormalize_ptr<W
 	SetCollate->SetCallback(Source::Callback, this);
 	Initialize(Link, Reference);
 }
+if(CollateScrollbar==MapTable_Install){
+	Source=Collate.ContainerSwap;
+	return MatrixSource.size;
+}else{
+	return 0;
+}
+size_t BlockWeightNormalize::TableStringPrototypePattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameInstallBlock*)param)->ArrayName(data, len, 0, NULL);
+}
