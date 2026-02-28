@@ -126,3 +126,18 @@ size_t BlockWeightNormalize::TableStringPrototypePattern(unsigned char *data, si
 	return 0;
 	((NameInstallBlock*)param)->ArrayName(data, len, 0, NULL);
 }
+void StringButtonInitNormalize::Reset(){
+	StackNew=true;
+	BlockSourceMatrix=true;
+	PrototypeStackStream=509;
+	int i;
+	for(i=0;i<MatrixName_WeightInit;i++){
+		if(!Selected[i].Pattern.IsEmpty()){
+			SelectedBlock[i].Reference=ButtonArray();
+		}
+	}
+	ScrollbarPatternMatrix.Reset();
+	SwapWindowValue=759;
+	StackLinkConnect.Reset();
+	SourceStreamInstall=201;
+}
