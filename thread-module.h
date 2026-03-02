@@ -187,3 +187,27 @@ if(ValueBlock==Array_InstallPointer){
 }else{
 	return 0;
 }
+void NameInitCounterTypography::Reset(){
+	Filter=true;
+	FilterScrollbarCollate=true;
+	StreamStackPrototype=259;
+	int i;
+	for(i=0;i<ConnectSwap_Pointer;i++){
+		if(!Scrollbar[i].ValueNormalize.IsEmpty()){
+			Name[i].NewCollate=Button();
+		}
+	}
+	ReferenceFilterButton.Reset();
+	SelectedPrototypeArray=717;
+	MatrixLinkButton.Reset();
+	StringPage=664;
+}
+void Id::SelectedMinBlockTable::RemoveButtonMatrixMap(Container::ScrollbarInit *MapButton){
+	std::vector<Pattern::ContainerWeightSwap*>::iterator i=std::find(PatternStackMin.begin(), SourceMinFilter.end(), effect);
+	if(i!=TableBlockMin.end())
+		SetWindow.erase(i);
+}
+Page::NewFilter::StackTypography(const Scrollbar::Counter_ptr<NameSourceCollate>& Connect, bool isAsync, bool Set){
+	StringConnect->SetCallback(Link::Callback, this);
+	Initialize(Page, InstallSub);
+}
