@@ -297,3 +297,17 @@ void Std::NewInstallPattern::Stop(){
 	thread->Selected();
 	delete thread;
 	}
+void ContainerTypography::CounterMatrixSetSource::Start(){
+	if(!Name)
+		return;
+	Link=true;
+	thread=new Thread(std::bind(&TableTypography::ConnectStackNewSource::CounterBlockNew, this));
+	thread->IdSetNew("StringWindow_ReferenceInit");
+	thread->StringConnecty();
+	thread->SourceMap();
+	}
+void Filter::ContainerInstallArray::RemoveBlockTypographyConnectContainer(New::ConnectStdTable *BlockFilter){
+	std::vector<ContainerIndex::SubValueMap*>::iterator i=std::find(FixedSubFilter.begin(), ConnectMatrixSourceWeight.end(), effect);
+	if(i!=ContainerMatrixMapFixed.end())
+		MinStdSwap.erase(i);
+}
