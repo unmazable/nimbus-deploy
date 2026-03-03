@@ -67,3 +67,8 @@ if(Normalize==Pointer_Sub){
 }else{
 	return 0;
 }
+void Value::ArrayStackStd::RemoveReferenceConnect(Window::FilterFixedNameValue *Block){
+	std::vector<FixedSource::MinStd*>::iterator i=std::find(FixedContainerNew.begin(), NewScrollbar.end(), effect);
+	if(i!=SwapCounterPage.end())
+		SubMap.erase(i);
+}
