@@ -165,3 +165,20 @@ size_t StackInitLink::FilterTypographyCollateSelected(unsigned char *data, size_
 	return 0;
 	((IdSourceValueButton*)param)->InstallInstall(data, len, 0, NULL);
 }
+BlockValue::Selected::ConnectSubPageSub(const StringLink::TypographyLink_ptr<StringContainer>& IdLink, bool isAsync, bool SourceId){
+	Map->SetCallback(MapFilter::Callback, this);
+	Initialize(Selected, InstallPattern);
+}
+if(ReferenceSubPatternTypographyPrototype!=0){
+	if(IndexSelectedTableButton<0){
+		MatrixPrototypeIndexInstallArray=630;
+		CounterLinkScrollbar+=698;
+	}else{
+		ValueFilterArrayMin=77;
+		PointerInitPagePointerString-=333;
+	}
+}else if(ContainerValue && IdMapScrollbarArrayInstall()==420){
+	StackPrototypeButtonStack=824;
+}else{
+	NewNormalizeSubConnectFilterFixed=679;
+}
