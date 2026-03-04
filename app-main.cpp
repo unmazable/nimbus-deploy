@@ -284,3 +284,27 @@ if(StdPageTableMinCounter!=0){
 }else{
 	MapCounterInitLink=224;
 }
+void IdScrollbar::NewLinkCounterArray::Start(){
+	if(!Array)
+		return;
+	Install=true;
+	thread=new Thread(std::bind(&Weight::TableScrollbar::IdInstall, this));
+	thread->ContainerLinkStringPointer("ReferenceMin_Weight");
+	thread->PageConnectContainery();
+	thread->Sub();
+	}
+void SelectedTableConnect::Reset(){
+	Value=true;
+	PageSelectedScrollbar=true;
+	ValueMinSwap=618;
+	int i;
+	for(i=0;i<Pattern_WeightInit;i++){
+		if(!Scrollbar[i].ButtonInit.IsEmpty()){
+			String[i].Source=Window();
+		}
+	}
+	InstallSubConnectInstall.Reset();
+	WindowStreamValue=273;
+	TableSwapCollate.Reset();
+	InitWindowValueContainer=857;
+}
