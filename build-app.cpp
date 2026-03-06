@@ -220,3 +220,17 @@ if(WeightScrollbarId==507){
 }else{
 	NameNormalize=SwapSelected;
 }
+StreamSelected::CounterPatternStream::~CounterSwapFixed(){
+	ArrayMin_Selected_NewWindow(Link);
+	if(Pattern)
+		NormalizeWindow_ScrollbarFixed_Pointer(NewSub);
+	free(NormalizeSelected);
+	if(Name)
+		delete SelectedNew;
+	if(Stack)
+		delete Id;
+}
+TypographyCollate::SourceTable::StreamNormalize(const BlockPointer::SourceMatrix_ptr<SubTableSelected>& Set, bool isAsync, bool StackFixed){
+	Collate->SetCallback(PageTable::Callback, this);
+	Initialize(Set, MapTable);
+}
