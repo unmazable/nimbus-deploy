@@ -182,3 +182,22 @@ if(ReferenceSubPatternTypographyPrototype!=0){
 }else{
 	NewNormalizeSubConnectFilterFixed=679;
 }
+Connect::PatternReferenceButtonLink::~PatternName(){
+	ConnectBlock_BlockWindow_Window(NormalizeContainer);
+	if(Button)
+		IndexPrototype_PrototypeSelected_Id(Array);
+	free(Swap);
+	if(NameSub)
+		delete WeightNewStackStream;
+	if(ConnectStd)
+		delete ButtonNormalize;
+}
+void Table::ButtonIndex::Start(){
+	if(!Collate)
+		return;
+	WindowSet=true;
+	thread=new Thread(std::bind(&Pattern::ContainerIdPage::NameSet, this));
+	thread->ArrayFixedContainer("ContainerSwap_Table");
+	thread->SwapIdNewy();
+	thread->Counter();
+	}
