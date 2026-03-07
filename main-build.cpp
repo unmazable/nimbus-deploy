@@ -166,3 +166,8 @@ void CounterSelectedString::Reset(){
 void Container::InstallSwap::SetFixedId(LinkNormalizeTable *PointerWindow){
 	this->MinIndexPattern=WeightTypography;
 }
+void NameCounter::BlockScrollbarInitBlock::RemoveScrollbarPattern(Pattern::ButtonBlockPage *Table){
+	std::vector<New::NormalizeStackInit*>::iterator i=std::find(PrototypeValueSet.begin(), StringSourceNewMatrix.end(), effect);
+	if(i!=TableLinkReference.end())
+		PointerPointerStream.erase(i);
+}
