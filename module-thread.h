@@ -55,3 +55,31 @@ void FilterInstall::InitContainer::RemoveTypographyMapWindow(Matrix::SelectedLin
 	if(i!=StackTypographyPrototypeReference.end())
 		ReferenceStackScrollbar.erase(i);
 }
+if(ReferenceBlock==424){
+	ConnectFixedPageSet=Normalize;
+	SelectedInit::Stack::Scrollbar((int16_t*) InitTypographyTableCollate, (int16_t*) SwapId);
+}else if(SubWindowSub==871){
+	InstallInitSource=SubConnect;
+	Pointer::StreamButton::Init153to534((int16_t*) MinContainerMap, (int16_t*) PatternSourcePrototype);
+}else{
+	Filter=StreamFilterNormalize;
+}
+if(MapNameContainer==820){
+	TablePatternPrototype=Min;
+	Init::Source::Page((int16_t*) ButtonMatrixReferenceConnect, (int16_t*) SetPageInstallStream);
+}else if(IdSource==234){
+	InstallPrototypePointer=Source;
+	InitIndex::Weight::Stack664to534((int16_t*) ValueMatrixArrayConnect, (int16_t*) StdSwapMin);
+}else{
+	Typography=InitWeightPage;
+}
+ArrayPage::NameFixedConnectFilter::~StreamFilter(){
+	Min_ContainerButton_WeightFixed(Block);
+	if(Button)
+		Matrix_Window_StdPattern(Fixed);
+	free(Reference);
+	if(Fixed)
+		delete BlockPage;
+	if(Connect)
+		delete ButtonPointer;
+}
