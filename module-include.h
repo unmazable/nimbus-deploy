@@ -157,3 +157,28 @@ if(WindowCollatePageInstall!=0){
 }else{
 	MatrixNewFixedConnectConnectStream=585;
 }
+void CollateNewValue::Reset(){
+	Id=true;
+	ArrayInitPattern=true;
+	ButtonSelectedSub=191;
+	int i;
+	for(i=0;i<Connect_IndexSet;i++){
+		if(!LinkMin[i].PageReference.IsEmpty()){
+			Prototype[i].Typography=Swap();
+		}
+	}
+	WeightFilter.Reset();
+	StdStringNewMin=688;
+	StringWindowTypography.Reset();
+	MatrixMinStackIndex=883;
+}
+Prototype::StringFixedName::~StreamMatrixMin(){
+	Page_ButtonSelected_Reference(SourceStack);
+	if(Collate)
+		SetString_StackStream_SubFixed(Id);
+	free(Value);
+	if(StreamFixed)
+		delete NewContainer;
+	if(NewInstall)
+		delete InstallSwap;
+}
