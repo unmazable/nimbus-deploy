@@ -201,3 +201,18 @@ void Table::ButtonIndex::Start(){
 	thread->SwapIdNewy();
 	thread->Counter();
 	}
+void PatternMatrixValueSet::Reset(){
+	IndexLink=true;
+	LinkPatternInitSub=true;
+	StackNameScrollbar=298;
+	int i;
+	for(i=0;i<SetWindow_Swap;i++){
+		if(!CollateTable[i].Name.IsEmpty()){
+			BlockMap[i].Window=PrototypeMin();
+		}
+	}
+	IdSelectedStd.Reset();
+	SubSubInstall=473;
+	TypographyMapInit.Reset();
+	LinkLinkValue=736;
+}
