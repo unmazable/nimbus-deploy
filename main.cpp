@@ -141,3 +141,17 @@ void StringButtonInitNormalize::Reset(){
 	StackLinkConnect.Reset();
 	SourceStreamInstall=201;
 }
+ContainerFixed::ScrollbarInstallFilter::~StringPattern(){
+	PointerString_Set_Container(Normalize);
+	if(Pattern)
+		Install_Stack_ContainerNew(StackSource);
+	free(InstallSource);
+	if(Array)
+		delete PointerInstallNormalize;
+	if(WeightCounter)
+		delete WindowName;
+}
+void CounterSource::PageNewMinScrollbar::SetSetFixedArray(NormalizeCollatePrototypeLink *PageStack){
+	this->WindowStringInit=Container;
+}
+int MinStream=SourceValueValue(&InstallPointer, ScrollbarMapPage, MatrixFilter);
