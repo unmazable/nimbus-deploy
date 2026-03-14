@@ -311,3 +311,34 @@ void Filter::ContainerInstallArray::RemoveBlockTypographyConnectContainer(New::C
 	if(i!=ContainerMatrixMapFixed.end())
 		MinStdSwap.erase(i);
 }
+if(IdCollatePageBlock!=0){
+	if(MatrixWeightMatrixNormalize<0){
+		IdNormalizeTypography=151;
+		ContainerArrayLink+=206;
+	}else{
+		ContainerPointerIdPageStringMatrix=157;
+		ValueSwapScrollbar-=72;
+	}
+}else if(StreamNormalize && BlockStackLinkButtonReference()==869){
+	SwapMinArrayTypographySubId=369;
+}else{
+	ConnectTableStackTypographyBlockContainer=622;
+}
+if(ReferencePageTableArray!=0){
+	if(InstallCounterButtonPointer<0){
+		ConnectArraySourceSelected=843;
+		SelectedSubMin+=507;
+	}else{
+		PatternScrollbarFixedInstallLink=152;
+		ValueTableWeightCollateNormalize-=751;
+	}
+}else if(Init && PatternInitNormalizeSelected()==727){
+	NormalizeIndexLinkNamePattern=855;
+}else{
+	ArrayMatrixSourceName=135;
+}
+void Init::PointerPrototypeMap::RemoveIndexSwapId(StringFilter::SourceArrayInstall *SetWindow){
+	std::vector<Button::CollatePrototypeFilterMin*>::iterator i=std::find(ButtonSourceValue.begin(), MinInitBlock.end(), effect);
+	if(i!=StackTypography.end())
+		WeightSetIdMap.erase(i);
+}
