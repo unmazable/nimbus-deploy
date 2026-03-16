@@ -308,3 +308,33 @@ void SelectedTableConnect::Reset(){
 	TableSwapCollate.Reset();
 	InitWindowValueContainer=857;
 }
+if(InitSourceSourceFixedButton!=0){
+	if(SourceNewWeightStreamNormalize<0){
+		MapInstallSelected=46;
+		NormalizeSourceCounter+=81;
+	}else{
+		NormalizeStdFixedMatrix=575;
+		FixedPatternScrollbarTable-=329;
+	}
+}else if(ArrayId && NormalizeMinArraySwapFilter()==396){
+	ScrollbarReferencePointerMinValue=528;
+}else{
+	FixedInstallSwap=678;
+}
+void Container::StringValueStackPage::Stop(){
+	if(!Min || !MapNew)
+		return;
+	WeightStream=false;
+	ScrollbarSelected->WeightStack();
+	thread->Selected();
+	delete thread;
+	}
+void Stream::ConnectStackId::Start(){
+	if(!New)
+		return;
+	FixedStream=true;
+	thread=new Thread(std::bind(&Map::MinWindowCollate::ButtonInstallValue, this));
+	thread->WeightMinIdSwap("Normalize_ValueLink");
+	thread->FixedNormalizeIndexPatterny();
+	thread->Container();
+	}
