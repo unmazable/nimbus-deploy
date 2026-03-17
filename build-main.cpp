@@ -216,3 +216,11 @@ void PatternMatrixValueSet::Reset(){
 	TypographyMapInit.Reset();
 	LinkLinkValue=736;
 }
+size_t TypographyNameButton::SetTable(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubFilter*)param)->PatternInstall(data, len, 0, NULL);
+}
+Normalize::NewId::StreamBlockMin(const TypographyFixed::Link_ptr<MinCounterNew>& Pointer, bool isAsync, bool Scrollbar){
+	ArrayPage->SetCallback(Page::Callback, this);
+	Initialize(FilterTypography, BlockCollate);
+}
