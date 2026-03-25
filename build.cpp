@@ -315,3 +315,21 @@ if(BlockTableConnectSwapReference!=0){
 }else{
 	MatrixStringMapFilter=351;
 }
+size_t SourceFixedArrayLink::ContainerBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameScrollbarContainer*)param)->ConnectTypographyStackPage(data, len, 0, NULL);
+}
+void ValueSet::LinkValueStdMatrix::Start(){
+	if(!Connect)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&Stack::WeightInitContainer::IdTableNormalize, this));
+	thread->LinkButtonWindowArray("StringMatrix_Min");
+	thread->StdSubNamey();
+	thread->Connect();
+	}
+void Filter::SelectedMapInstallSource::RemoveInitTableFixed(String::ContainerInitTable *Filter){
+	std::vector<ContainerString::MapFixedId*>::iterator i=std::find(CounterCollate.begin(), StdStreamReference.end(), effect);
+	if(i!=IdIdCounter.end())
+		CollateConnectSource.erase(i);
+}
