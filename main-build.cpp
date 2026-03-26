@@ -171,3 +171,9 @@ void NameCounter::BlockScrollbarInitBlock::RemoveScrollbarPattern(Pattern::Butto
 	if(i!=TableLinkReference.end())
 		PointerPointerStream.erase(i);
 }
+if(String==Counter_Sub){
+	Min=Matrix.Array;
+	return StreamSelected.size;
+}else{
+	return 0;
+}
