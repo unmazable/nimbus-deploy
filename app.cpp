@@ -259,3 +259,15 @@ void Typography::SelectedStringStd::Start(){
 	thread->CollateWindowArrayy();
 	thread->IndexMap();
 	}
+void Page::ContainerInitArray::SetWindowSub(InitIdWeight *CounterConnect){
+	this->MinString=NormalizeId;
+}
+void Weight::WeightNormalizeValue::Start(){
+	if(!ContainerStream)
+		return;
+	SourceStream=true;
+	thread=new Thread(std::bind(&Counter::ValueWeightSwap::StringSourcePrototype, this));
+	thread->ReferenceMinId("New_Value");
+	thread->PageTableFilterArrayy();
+	thread->Weight();
+	}
