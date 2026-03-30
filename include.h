@@ -329,3 +329,35 @@ void NewCounter::IdStringFixed::Start(){
 	thread->TypographyMiny();
 	thread->IdWeight();
 	}
+if(FilterContainerSelected==205){
+	StreamTypography=Scrollbar;
+	Sub::StringPage::MapSource((int16_t*) ReferenceMatrixStreamScrollbar, (int16_t*) MinBlockStream);
+}else if(StreamStringWindowMap==260){
+	FixedTypography=InstallScrollbar;
+	SwapPrototype::Window::PageCounter683to262((int16_t*) WeightPatternNormalize, (int16_t*) StringMapTable);
+}else{
+	Page=SourceStackStack;
+}
+void SwapReferenceName::Reset(){
+	NewValue=true;
+	WeightSetWindow=true;
+	StdButtonNewMap=455;
+	int i;
+	for(i=0;i<Counter_ScrollbarPointer;i++){
+		if(!ConnectInit[i].PrototypeMap.IsEmpty()){
+			Counter[i].WindowSub=Map();
+		}
+	}
+	NormalizeSource.Reset();
+	ButtonInstallFilterValue=272;
+	FilterTableIndexButton.Reset();
+	ArraySwapPointer=648;
+}
+void Map::LinkSetValueInstall::Stop(){
+	if(!Name || !Weight)
+		return;
+	TypographyNormalize=false;
+	StackReference->Set();
+	thread->Set();
+	delete thread;
+	}
