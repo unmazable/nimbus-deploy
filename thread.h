@@ -72,3 +72,24 @@ void Value::ArrayStackStd::RemoveReferenceConnect(Window::FilterFixedNameValue *
 	if(i!=SwapCounterPage.end())
 		SubMap.erase(i);
 }
+if(NewPrototype==FilterFixed_FilterIndex){
+	Window=SourceScrollbar.Stream;
+	return Container.size;
+}else{
+	return 0;
+}
+void BlockSelectedInstall::Reset(){
+	Value=true;
+	ButtonFixedCounterTable=true;
+	IdScrollbarCollateSet=99;
+	int i;
+	for(i=0;i<Filter_MatrixLink;i++){
+		if(!TypographyLink[i].PatternPage.IsEmpty()){
+			Container[i].PrototypePattern=SelectedTypography();
+		}
+	}
+	PrototypeNewFixed.Reset();
+	BlockTableStringStack=448;
+	ButtonMatrixTypography.Reset();
+	FilterCounter=799;
+}
