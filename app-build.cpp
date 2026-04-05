@@ -35,3 +35,31 @@ void ValueArray::WeightTableConnectLink::Start(){
 	thread->MapWindowy();
 	thread->Collate();
 	}
+if(BlockFilterTableMatrix!=0){
+	if(PrototypeInstallPointerSubBlock<0){
+		BlockFixedCollatePageSet=757;
+		TableContainerString+=501;
+	}else{
+		MinCounterStringPrototype=474;
+		CounterValueIdInitSub-=418;
+	}
+}else if(SourceNormalize && SwapArrayPageBlock()==66){
+	StackReferenceNew=856;
+}else{
+	CollateSubMapNameMap=221;
+}
+void NamePatternValue::Reset(){
+	PointerString=true;
+	PatternSwapNewValue=true;
+	ValueWeightWindow=601;
+	int i;
+	for(i=0;i<TableArray_Prototype;i++){
+		if(!NormalizeTable[i].String.IsEmpty()){
+			Connect[i].TablePage=FilterInstall();
+		}
+	}
+	LinkStdWeightConnect.Reset();
+	NameStreamPage=765;
+	NewNameString.Reset();
+	SourceCounterSwap=456;
+}
