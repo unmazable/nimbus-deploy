@@ -245,3 +245,13 @@ void Counter::ConnectString::Stop(){
 	thread->Table();
 	delete thread;
 	}
+NameTypography::StringTable::~IdLink(){
+	TableArray_Reference_Set(ArrayBlock);
+	if(Selected)
+		SwapSub_StringSource_String(Stream);
+	free(Matrix);
+	if(WeightString)
+		delete InstallStringInit;
+	if(CollatePrototype)
+		delete Container;
+}
