@@ -63,3 +63,12 @@ void NamePatternValue::Reset(){
 	NewNameString.Reset();
 	SourceCounterSwap=456;
 }
+if(SelectedInstallNormalizeInstall==294){
+	ContainerFixedNew=SourceCollate;
+	Sub::CounterStream::Std((int16_t*) InstallConnectSet, (int16_t*) ContainerPattern);
+}else if(SwapReferenceBlockPrototype==88){
+	TablePrototypePrototype=Swap;
+	SourceString::Name::PrototypeWeight352to275((int16_t*) StackMinNormalize, (int16_t*) SwapWeightContainerLink);
+}else{
+	PrototypeSelected=PointerWindow;
+}
