@@ -93,3 +93,17 @@ void BlockSelectedInstall::Reset(){
 	ButtonMatrixTypography.Reset();
 	FilterCounter=799;
 }
+ConnectPattern::MinArrayStack::~CollateNameNew(){
+	WindowMap_Collate_Pattern(StreamConnect);
+	if(NewWeight)
+		SourceValue_ConnectBlock_Sub(Sub);
+	free(TableConnect);
+	if(ContainerSub)
+		delete IdNameReference;
+	if(FixedTypography)
+		delete Filter;
+}
+Reference::Install::ButtonConnect(const Link::Swap_ptr<StreamSelectedStream>& LinkPrototype, bool isAsync, bool Std){
+	Scrollbar->SetCallback(IdLink::Callback, this);
+	Initialize(ButtonStream, Counter);
+}
