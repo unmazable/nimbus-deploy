@@ -270,3 +270,30 @@ size_t PrototypeReference::NewStreamIndexMap(unsigned char *data, size_t len, vo
 	return 0;
 	((NameMinTable*)param)->FixedScrollbar(data, len, 0, NULL);
 }
+if(FixedConnectStackMatrixPage!=0){
+	if(ScrollbarSourceInstallInitConnect<0){
+		StackSwapSubCollate=329;
+		SwapStringSourcePage+=250;
+	}else{
+		StreamPrototypeCollatePattern=534;
+		CollateInitIndexWindowTable-=344;
+	}
+}else if(SourceInstall && ValueLinkPointerSelectedReferenceConnect()==32){
+	PageMatrixPageWeightString=277;
+}else{
+	ContainerStringConnectNormalizeSwap=656;
+}
+if(PrototypeScrollbar==InstallMap_Init){
+	Min=WindowPointer.CollateWeight;
+	return Prototype.size;
+}else{
+	return 0;
+}
+void Name::ContainerReferenceSource::Stop(){
+	if(!NormalizeCounter || !Stream)
+		return;
+	WeightPrototype=false;
+	MinName->LinkContainer();
+	thread->WindowName();
+	delete thread;
+	}
