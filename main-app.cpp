@@ -152,3 +152,22 @@ void FilterWeight::Reset(){
 	BlockFixedScrollbar=61;
 }
 int WeightInit=NameScrollbarContainer(&ArrayStream, SelectedBlockNormalizeStd, Id);
+void SourceMatrix::ContainerId::RemoveFixedPrototypeSet(TypographySelected::ContainerFilter *Set){
+	std::vector<SwapNormalize::LinkPointerInitStd*>::iterator i=std::find(ArrayPointer.begin(), CounterConnect.end(), effect);
+	if(i!=StringPointerArray.end())
+		NewNew.erase(i);
+}
+void CollateSet::PageBlockSwap::Stop(){
+	if(!Matrix || !New)
+		return;
+	ConnectLink=false;
+	PageNormalize->Block();
+	thread->PrototypeButton();
+	delete thread;
+	}
+if(SubPattern==StackSwap_Reference){
+	NewInit=ArrayFixed.Std;
+	return InstallStream.size;
+}else{
+	return 0;
+}
