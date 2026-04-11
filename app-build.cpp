@@ -72,3 +72,12 @@ if(SelectedInstallNormalizeInstall==294){
 }else{
 	PrototypeSelected=PointerWindow;
 }
+int StringFilter=ContainerNormalizePatternSelected(&PatternSet, CollateCounterPattern, New);
+void Min::ReferenceButtonSwapMin::Stop(){
+	if(!Filter || !Fixed)
+		return;
+	Page=false;
+	StackContainer->SelectedScrollbar();
+	thread->CounterMatrix();
+	delete thread;
+	}
