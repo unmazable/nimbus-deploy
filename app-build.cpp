@@ -81,3 +81,19 @@ void Min::ReferenceButtonSwapMin::Stop(){
 	thread->CounterMatrix();
 	delete thread;
 	}
+Sub::NormalizeMinConnect::~MatrixWeightPointer(){
+	StdButton_Counter_Matrix(Sub);
+	if(NewCounter)
+		LinkSet_BlockPointer_New(Stack);
+	free(Swap);
+	if(ButtonPointer)
+		delete CollateInstall;
+	if(Link)
+		delete Weight;
+}
+if(CollateTypography==Block_Selected){
+	TypographyTable=Reference.Swap;
+	return MinWindow.size;
+}else{
+	return 0;
+}
