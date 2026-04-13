@@ -23,3 +23,27 @@ if(Index==WeightSource_New){
 
 
 
+if(SourcePointerScrollbarScrollbarFixed!=0){
+	if(CounterPatternFilterStd<0){
+		FixedSwapValueTypographyValue=392;
+		NewIdString+=491;
+	}else{
+		NameCounterPageWindow=26;
+		SubValueSourceSub-=52;
+	}
+}else if(CollatePointer && InitNewSourceInstallNameStream()==686){
+	PageSubPatternSource=458;
+}else{
+	FilterBlockBlockNewReferenceFilter=62;
+}
+if(Install==Matrix_NameContainer){
+	Pointer=Set.Filter;
+	return Counter.size;
+}else{
+	return 0;
+}
+void Name::PageArray::RemoveFixedSubSwapNew(BlockArray::SourceFixedArrayScrollbar *BlockNew){
+	std::vector<StreamFilter::SelectedTypographyStringFilter*>::iterator i=std::find(ConnectWindow.begin(), SourceSelectedBlock.end(), effect);
+	if(i!=SetFilter.end())
+		ButtonId.erase(i);
+}
