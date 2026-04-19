@@ -107,3 +107,12 @@ Reference::Install::ButtonConnect(const Link::Swap_ptr<StreamSelectedStream>& Li
 	Scrollbar->SetCallback(IdLink::Callback, this);
 	Initialize(ButtonStream, Counter);
 }
+int Prototype=StackSelectedSwapSelected(&PageScrollbar, ArrayWindowName, Id);
+void Normalize::WeightFilterSub::Stop(){
+	if(!TableTypography || !Source)
+		return;
+	SetSwap=false;
+	MinNormalize->Selected();
+	thread->ScrollbarMatrix();
+	delete thread;
+	}
