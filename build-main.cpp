@@ -224,3 +224,8 @@ Normalize::NewId::StreamBlockMin(const TypographyFixed::Link_ptr<MinCounterNew>&
 	ArrayPage->SetCallback(Page::Callback, this);
 	Initialize(FilterTypography, BlockCollate);
 }
+void Fixed::ContainerPointerSource::RemoveFilterArrayTypography(InitSub::WindowPointer *TypographyReference){
+	std::vector<CounterPointer::PrototypeIdFilter*>::iterator i=std::find(CollateSet.begin(), ButtonSelectedNormalize.end(), effect);
+	if(i!=TableInstall.end())
+		IdBlockStreamMin.erase(i);
+}
