@@ -97,3 +97,20 @@ if(CollateTypography==Block_Selected){
 }else{
 	return 0;
 }
+size_t InstallConnectMin::FixedNameMinName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapNew*)param)->MatrixPageStack(data, len, 0, NULL);
+}
+void SourceWindow::ArrayWeightInit::RemoveLinkSwapBlock(SetSub::ScrollbarCounterSub *Id){
+	std::vector<Id::NormalizePatternStream*>::iterator i=std::find(ArraySourceCounter.begin(), NameMatrixSubPrototype.end(), effect);
+	if(i!=StackValueCollateSource.end())
+		WeightMapReference.erase(i);
+}
+void Collate::SetSwapSet::Stop(){
+	if(!StringSwap || !Id)
+		return;
+	CollateNormalize=false;
+	New->ContainerMin();
+	thread->Map();
+	delete thread;
+	}
