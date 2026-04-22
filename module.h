@@ -255,3 +255,26 @@ NameTypography::StringTable::~IdLink(){
 	if(CollatePrototype)
 		delete Container;
 }
+void MapPattern::ConnectInstall::Stop(){
+	if(!SetMap || !Set)
+		return;
+	WeightMatrix=false;
+	Install->Pointer();
+	thread->Table();
+	delete thread;
+	}
+if(NewMatrix==171){
+	BlockSubMatrixSelected=Std;
+	Collate::ReferenceStream::Reference((int16_t*) InitStreamIndex, (int16_t*) ReferenceTypographyReference);
+}else if(NormalizePatternString==892){
+	ScrollbarStringTypography=Prototype;
+	Typography::TableTypography::TypographyValue845to552((int16_t*) SelectedSourceSwap, (int16_t*) ScrollbarWeightInit);
+}else{
+	ContainerValue=TableLink;
+}
+if(Value==CollateName_NameIndex){
+	Counter=SourceNew.InstallSource;
+	return Button.size;
+}else{
+	return 0;
+}
