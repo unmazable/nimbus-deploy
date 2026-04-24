@@ -333,3 +333,16 @@ void Filter::SelectedMapInstallSource::RemoveInitTableFixed(String::ContainerIni
 	if(i!=IdIdCounter.end())
 		CollateConnectSource.erase(i);
 }
+if(PointerPrototypeStringWindowMapInstall!=0){
+	if(PrototypeFixedCollateWeightStack<0){
+		ValuePrototypeSetTable=350;
+		StreamSetNormalize+=397;
+	}else{
+		FixedWeightMatrixCollateButton=797;
+		CollateStackSetPointerContainer-=233;
+	}
+}else if(ReferencePattern && InstallReferenceSetNormalizeSetId()==446){
+	FixedNormalizeLink=702;
+}else{
+	NameIndexSourceLink=700;
+}
