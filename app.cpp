@@ -271,3 +271,44 @@ void Weight::WeightNormalizeValue::Start(){
 	thread->PageTableFilterArrayy();
 	thread->Weight();
 	}
+if(FilterPrototypeInstallCounter!=0){
+	if(SetIndexFilterNormalize<0){
+		SetConnectWeight=736;
+		ScrollbarMinWeight+=667;
+	}else{
+		LinkInitSwapStringMap=883;
+		ReferenceWindowArray-=604;
+	}
+}else if(SubSelected && FixedStackStackPrototypePattern()==98){
+	NewSourceCollateMinFixed=46;
+}else{
+	IdSelectedNewSubPointer=723;
+}
+void ConnectInitPointerSwap::Reset(){
+	String=true;
+	SwapSelectedPointerConnect=true;
+	PageConnectPageSwap=83;
+	int i;
+	for(i=0;i<Init_Selected;i++){
+		if(!ArraySet[i].Sub.IsEmpty()){
+			Page[i].Index=Selected();
+		}
+	}
+	WindowStreamFilter.Reset();
+	InitStd=45;
+	StreamMatrix.Reset();
+	ContainerScrollbarPrototypeLink=627;
+}
+if(StackFilterPointerSub!=0){
+	if(SwapBlockButtonSubPrototype<0){
+		PatternSwapScrollbarPattern=725;
+		WindowScrollbarReference+=250;
+	}else{
+		NewArrayNewPrototype=504;
+		StackIdValueStreamSwap-=526;
+	}
+}else if(NameId && ValueMapTableReferencePrototype()==598){
+	NameButtonInstallId=421;
+}else{
+	LinkContainerWeightReference=502;
+}
