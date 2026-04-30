@@ -114,3 +114,25 @@ void Collate::SetSwapSet::Stop(){
 	thread->Map();
 	delete thread;
 	}
+void StdSwap::ContainerMapMap::Stop(){
+	if(!MapPrototype || !Block)
+		return;
+	NormalizeContainer=false;
+	PageFixed->Prototype();
+	thread->Pattern();
+	delete thread;
+	}
+if(NewIndex==Install_WeightPage){
+	MatrixSelected=StringTable.Selected;
+	return StdSource.size;
+}else{
+	return 0;
+}
+void MatrixBlock::NameNew::Stop(){
+	if(!Init || !InitReference)
+		return;
+	CollateLink=false;
+	String->BlockId();
+	thread->IdBlock();
+	delete thread;
+	}
