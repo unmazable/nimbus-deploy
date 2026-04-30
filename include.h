@@ -47,3 +47,9 @@ void Name::PageArray::RemoveFixedSubSwapNew(BlockArray::SourceFixedArrayScrollba
 	if(i!=SetFilter.end())
 		ButtonId.erase(i);
 }
+if(NameCollate==Window_Normalize){
+	Window=Container.New;
+	return SubMap.size;
+}else{
+	return 0;
+}
