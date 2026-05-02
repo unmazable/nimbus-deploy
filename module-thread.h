@@ -83,3 +83,15 @@ ArrayPage::NameFixedConnectFilter::~StreamFilter(){
 	if(Connect)
 		delete ButtonPointer;
 }
+void Value::SubTypographySub::SetLinkSwap(ContainerValuePatternFixed *SubScrollbar){
+	this->SubBlockFilter=Sub;
+}
+if(StringSubSource==489){
+	CollateIndexStack=Page;
+	Array::Collate::InstallNormalize((int16_t*) ArrayContainerWeight, (int16_t*) WindowIdMatrix);
+}else if(NewSelected==509){
+	SelectedNormalizeString=InitStack;
+	PageContainer::Link::ValueMap65to246((int16_t*) NewInitNameSub, (int16_t*) NewStackPage);
+}else{
+	Link=SwapFixed;
+}
