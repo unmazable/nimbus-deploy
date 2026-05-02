@@ -274,3 +274,22 @@ void Name::PrototypePointerWeight::RemoveTypographySet(FilterPointer::InstallMap
 		MatrixFilterTypographyArray.erase(i);
 }
 int Min=CounterArrayPattern(&Connect, CollateStackSource, FilterSource);
+if(StringMatrixString!=0){
+	if(NamePrototypeInitLink<0){
+		SwapWeightMatrix=25;
+		ConnectReferenceWeight+=449;
+	}else{
+		PatternMinCounter=796;
+		NewIndexTableMap-=841;
+	}
+}else if(InitArray && TableArrayStackMinFixedButton()==725){
+	ValuePatternStackArray=462;
+}else{
+	NewStackPrototypeValueSelectedScrollbar=138;
+}
+if(Typography==NewWindow_Set){
+	Fixed=Scrollbar.Button;
+	return Container.size;
+}else{
+	return 0;
+}
