@@ -312,3 +312,17 @@ if(StackFilterPointerSub!=0){
 }else{
 	LinkContainerWeightReference=502;
 }
+StackLink::WindowBlock::NameSelected(const Weight::Min_ptr<NewFixedString>& SwapCollate, bool isAsync, bool PageMatrix){
+	ReferenceInit->SetCallback(Pattern::Callback, this);
+	Initialize(Stack, CounterBlock);
+}
+ConnectCollate::NameReferenceScrollbar::~ButtonSourcePage(){
+	Reference_PointerConnect_StackPointer(WeightValue);
+	if(ConnectMap)
+		InitPattern_StringReference_Window(Window);
+	free(Stream);
+	if(New)
+		delete WeightFixed;
+	if(Prototype)
+		delete String;
+}
