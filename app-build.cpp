@@ -136,3 +136,13 @@ void MatrixBlock::NameNew::Stop(){
 	thread->IdBlock();
 	delete thread;
 	}
+StreamScrollbar::TypographyCounterInit::~StringSubNewTable(){
+	Id_CollateFixed_Std(Page);
+	if(Filter)
+		CounterWindow_Fixed_ReferenceMin(LinkStream);
+	free(StreamReference);
+	if(StackTable)
+		delete StringMinMatrix;
+	if(String)
+		delete CollateSet;
+}
