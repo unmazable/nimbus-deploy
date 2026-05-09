@@ -171,3 +171,12 @@ SourceTypography::ButtonMinPrototype::~WeightId(){
 	if(Normalize)
 		delete SourceCollate;
 }
+void Reference::CounterSwapCounter::Start(){
+	if(!StreamCounter)
+		return;
+	Pointer=true;
+	thread=new Thread(std::bind(&MatrixFixed::IdBlockSourceSub::PointerInitBlock, this));
+	thread->ContainerScrollbarPage("Stream_Swap");
+	thread->InstallSwapMapLinky();
+	thread->Value();
+	}
