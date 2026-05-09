@@ -155,3 +155,19 @@ void CounterSource::PageNewMinScrollbar::SetSetFixedArray(NormalizeCollateProtot
 	this->WindowStringInit=Container;
 }
 int MinStream=SourceValueValue(&InstallPointer, ScrollbarMapPage, MatrixFilter);
+if(Table==Fixed_Index){
+	Typography=Filter.Sub;
+	return Swap.size;
+}else{
+	return 0;
+}
+SourceTypography::ButtonMinPrototype::~WeightId(){
+	StreamFilter_CollateTypography_Swap(Id);
+	if(FixedSource)
+		Connect_WindowFilter_Min(Install);
+	free(NormalizeSet);
+	if(Reference)
+		delete NameMinConnectPage;
+	if(Normalize)
+		delete SourceCollate;
+}
