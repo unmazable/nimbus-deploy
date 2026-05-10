@@ -326,3 +326,7 @@ ConnectCollate::NameReferenceScrollbar::~ButtonSourcePage(){
 	if(Prototype)
 		delete String;
 }
+Install::Map::ReferenceStringSetInstall(const SetInstall::ButtonSub_ptr<SourceStringSourceLink>& BlockWindow, bool isAsync, bool BlockFixed){
+	Set->SetCallback(Container::Callback, this);
+	Initialize(Swap, Table);
+}
