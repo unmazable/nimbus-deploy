@@ -297,3 +297,27 @@ void Name::ContainerReferenceSource::Stop(){
 	thread->WindowName();
 	delete thread;
 	}
+void Name::CounterButtonCollate::RemoveStringMatrixIndexScrollbar(Window::InstallSource *NewPage){
+	std::vector<ConnectSet::NameTypographyScrollbar*>::iterator i=std::find(InstallPageInstall.begin(), CollateReferenceMatrixButton.end(), effect);
+	if(i!=FixedPatternInstallSource.end())
+		FixedLinkBlockValue.erase(i);
+}
+if(InstallSubPrototypeTablePageInit!=0){
+	if(ReferenceTypographyButtonSourceInit<0){
+		SelectedSourceCollateLink=792;
+		ReferenceTypography+=80;
+	}else{
+		CollateSourceMatrixStackPage=212;
+		SwapConnectNewStdPrototype-=152;
+	}
+}else if(InstallReference && ScrollbarMinTypography()==448){
+	MatrixValueIndexValueContainer=593;
+}else{
+	StringLinkNormalizeButtonWindow=163;
+}
+if(CollateSelected==Container_Map){
+	StringSelected=WeightPage.NameValue;
+	return Matrix.size;
+}else{
+	return 0;
+}
