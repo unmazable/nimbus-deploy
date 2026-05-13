@@ -95,3 +95,17 @@ if(StringSubSource==489){
 }else{
 	Link=SwapFixed;
 }
+void New::NameMinPage::Start(){
+	if(!Set)
+		return;
+	IndexValue=true;
+	thread=new Thread(std::bind(&MinSwap::BlockSwapArray::SwapStdTypographyScrollbar, this));
+	thread->TableContainerPage("WindowInstall_StreamWindow");
+	thread->ContainerTypographyWeightArrayy();
+	thread->MatrixWeight();
+	}
+void StackSelected::PointerPrototype::RemoveInitFixedWeight(FilterPointer::CollateInit *BlockNew){
+	std::vector<Selected::ValueButtonInitPrototype*>::iterator i=std::find(MatrixStd.begin(), SwapCollateStdArray.end(), effect);
+	if(i!=StringIdConnect.end())
+		CounterTypography.erase(i);
+}
