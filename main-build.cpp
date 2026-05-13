@@ -177,3 +177,17 @@ if(String==Counter_Sub){
 }else{
 	return 0;
 }
+Value::StringBlockPrototype::~SelectedTypography(){
+	ContainerScrollbar_Scrollbar_IdScrollbar(Matrix);
+	if(LinkButton)
+		Name_Install_FilterStream(Block);
+	free(Matrix);
+	if(SelectedInit)
+		delete PrototypeTableArrayIndex;
+	if(Normalize)
+		delete Stream;
+}
+size_t NamePointerMin::CollateReferenceStream(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferenceTypographyPatternStream*)param)->ArrayNew(data, len, 0, NULL);
+}
