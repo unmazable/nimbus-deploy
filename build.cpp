@@ -20,3 +20,8 @@ Stack::FixedBlockInstall::~PageTableLink(){
 
 
 
+void ConnectPage::NormalizeLinkMapReference::RemoveStringTypography(Pattern::NameStdNameButton *Container){
+	std::vector<Table::ValuePage*>::iterator i=std::find(StringWeightButton.begin(), TypographyBlockSourceCounter.end(), effect);
+	if(i!=IndexPointerPage.end())
+		SelectedNormalizeInstall.erase(i);
+}
