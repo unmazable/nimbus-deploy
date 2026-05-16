@@ -146,3 +146,22 @@ StreamScrollbar::TypographyCounterInit::~StringSubNewTable(){
 	if(String)
 		delete CollateSet;
 }
+void ScrollbarWindow::MinConnectStringInit::Start(){
+	if(!Table)
+		return;
+	Link=true;
+	thread=new Thread(std::bind(&Connect::NewBlock::NormalizeSetMapNew, this));
+	thread->MapSelectedCollateArray("ConnectMatrix_Id");
+	thread->ScrollbarPagey();
+	thread->ScrollbarPattern();
+	}
+Name::WeightIdString::~SubCollateNew(){
+	StringFilter_Selected_TypographyWeight(MinPointer);
+	if(Stack)
+		Pattern_Table_NewReference(StackSet);
+	free(Table);
+	if(Container)
+		delete SwapValueSub;
+	if(Scrollbar)
+		delete WindowSwap;
+}
