@@ -211,3 +211,25 @@ Page::NewFilter::StackTypography(const Scrollbar::Counter_ptr<NameSourceCollate>
 	StringConnect->SetCallback(Link::Callback, this);
 	Initialize(Page, InstallSub);
 }
+if(ConnectSetMinSet==738){
+	InitIndexTableConnect=Weight;
+	Typography::Pointer::SwapSet((int16_t*) PointerArrayPage, (int16_t*) NameSourceFilter);
+}else if(SelectedNew==609){
+	ReferenceArray=Pointer;
+	ScrollbarFixed::Stream::String622to662((int16_t*) SwapFixedPattern, (int16_t*) MinWindowSubPage);
+}else{
+	WeightMin=ScrollbarWindowStream;
+}
+void NormalizeStream::SubMatrixReferencePointer::Start(){
+	if(!Index)
+		return;
+	Collate=true;
+	thread=new Thread(std::bind(&Prototype::ArrayStringTypography::PageId, this));
+	thread->MatrixIdInstallMin("Set_Scrollbar");
+	thread->PatternPageStreamy();
+	thread->Value();
+	}
+size_t PrototypeTypographyReference::ReferenceFixedId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinSetSub*)param)->CollateCounterReferencePage(data, len, 0, NULL);
+}
