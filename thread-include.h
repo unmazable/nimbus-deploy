@@ -172,3 +172,35 @@ void SelectedSource::PointerArrayPage::RemoveNormalizeIdPrototypeConnect(Install
 	if(i!=SwapSelectedInstallArray.end())
 		FixedPattern.erase(i);
 }
+void SubNewNormalize::Reset(){
+	NameWeight=true;
+	MinPage=true;
+	NamePointerStringStream=544;
+	int i;
+	for(i=0;i<Array_Connect;i++){
+		if(!TableConnect[i].ScrollbarWeight.IsEmpty()){
+			FilterMap[i].NameReference=Prototype();
+		}
+	}
+	ArrayButton.Reset();
+	SourceConnect=460;
+	MapStreamPatternStream.Reset();
+	InitStdSelected=342;
+}
+void Stack::BlockCollateStd::Stop(){
+	if(!Counter || !MapNormalize)
+		return;
+	WeightMatrix=false;
+	Link->Window();
+	thread->TypographyPrototype();
+	delete thread;
+	}
+void TypographyArray::BlockPrototype::Start(){
+	if(!Init)
+		return;
+	Id=true;
+	thread=new Thread(std::bind(&NormalizeBlock::InitIdContainerMatrix::SetCollateSwap, this));
+	thread->SelectedFixedTable("Normalize_StackCounter");
+	thread->TypographyInstally();
+	thread->SourceSwap();
+	}
