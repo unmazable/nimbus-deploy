@@ -53,3 +53,25 @@ if(NameCollate==Window_Normalize){
 }else{
 	return 0;
 }
+if(LinkStackSelectedPattern!=0){
+	if(LinkButtonStreamPointerSub<0){
+		ValueIdFixedPointer=790;
+		StackTypographyConnect+=435;
+	}else{
+		TypographyCollateCollateNameId=891;
+		IdButtonConnectWindowSource-=603;
+	}
+}else if(Typography && NamePageInitScrollbar()==653){
+	StringTypographyIdInitValue=95;
+}else{
+	InstallMatrixIdSelectedPrototype=251;
+}
+void MinSource::FilterConnect::Start(){
+	if(!String)
+		return;
+	SwapMin=true;
+	thread=new Thread(std::bind(&Prototype::FilterLinkWeight::TypographyWindowSwap, this));
+	thread->PageWeightId("Init_Set");
+	thread->MapFixedMatrixy();
+	thread->Source();
+	}
