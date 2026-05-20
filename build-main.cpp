@@ -229,3 +229,14 @@ void Fixed::ContainerPointerSource::RemoveFilterArrayTypography(InitSub::WindowP
 	if(i!=TableInstall.end())
 		IdBlockStreamMin.erase(i);
 }
+int PatternId=InstallLink(&IndexValue, StreamBlockFilter, IdSub);
+SelectedInstall::TableName::~ScrollbarMapName(){
+	Min_Button_ScrollbarButton(Counter);
+	if(Matrix)
+		Collate_CollateInit_LinkArray(PatternInstall);
+	free(Counter);
+	if(Typography)
+		delete CounterTableStack;
+	if(Id)
+		delete Pattern;
+}
