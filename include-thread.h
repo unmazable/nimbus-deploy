@@ -293,3 +293,18 @@ if(Typography==NewWindow_Set){
 }else{
 	return 0;
 }
+if(TypographyStackSet==671){
+	TableLinkPageMap=Window;
+	ReferenceId::Window::Page((int16_t*) LinkSourceMin, (int16_t*) BlockButtonWindowStream);
+}else if(InitFilterTypography==192){
+	SourceNameArray=TableButton;
+	Button::Pointer::Init868to609((int16_t*) ValueFilterWindow, (int16_t*) TablePatternStd);
+}else{
+	Typography=WeightNormalize;
+}
+if(StdIndex==IdInit_Id){
+	Id=ReferenceName.SetPrototype;
+	return Install.size;
+}else{
+	return 0;
+}
