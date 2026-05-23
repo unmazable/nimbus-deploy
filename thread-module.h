@@ -233,3 +233,18 @@ size_t PrototypeTypographyReference::ReferenceFixedId(unsigned char *data, size_
 	return 0;
 	((MinSetSub*)param)->CollateCounterReferencePage(data, len, 0, NULL);
 }
+size_t ReferencePrototypePrototype::IdContainerTableNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterValueSelectedMap*)param)->FilterScrollbarInstallConnect(data, len, 0, NULL);
+}
+if(Container==PageSet_Link){
+	Pattern=SelectedTable.Value;
+	return ButtonString.size;
+}else{
+	return 0;
+}
+void ButtonNew::NewCounterCollateFilter::RemoveStringSet(Filter::MatrixStdMinNormalize *Button){
+	std::vector<Normalize::MinPageSource*>::iterator i=std::find(MapCollateScrollbar.begin(), ContainerValueSet.end(), effect);
+	if(i!=FilterReferenceTypography.end())
+		InitTypographyValue.erase(i);
+}
