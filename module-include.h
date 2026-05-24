@@ -182,3 +182,8 @@ Prototype::StringFixedName::~StreamMatrixMin(){
 	if(NewInstall)
 		delete InstallSwap;
 }
+void SubWindow::NameValueButtonPointer::RemoveFilterMapPage(Filter::NewMatrixButton *Swap){
+	std::vector<Weight::FilterMin*>::iterator i=std::find(SetStringConnectCounter.begin(), MinStream.end(), effect);
+	if(i!=ConnectSubInstall.end())
+		TableSubNew.erase(i);
+}
