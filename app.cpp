@@ -330,3 +330,10 @@ Install::Map::ReferenceStringSetInstall(const SetInstall::ButtonSub_ptr<SourceSt
 	Set->SetCallback(Container::Callback, this);
 	Initialize(Swap, Table);
 }
+void MatrixFilter::BlockTypography::SetReferencePageStd(TypographyMatrixTable *InstallConnect){
+	this->LinkSource=MapPage;
+}
+size_t TableReference::ArrayBlockSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackTypographyStackId*)param)->StackInitSource(data, len, 0, NULL);
+}
