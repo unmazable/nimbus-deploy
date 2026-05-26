@@ -116,3 +116,32 @@ void Normalize::WeightFilterSub::Stop(){
 	thread->ScrollbarMatrix();
 	delete thread;
 	}
+void LinkTypographyStackFixed::Reset(){
+	StringConnect=true;
+	SubFixedPointerBlock=true;
+	InitTypographyPatternInstall=275;
+	int i;
+	for(i=0;i<Map_Filter;i++){
+		if(!ValueSwap[i].Min.IsEmpty()){
+			Name[i].CounterName=Pointer();
+		}
+	}
+	NormalizeReferenceNew.Reset();
+	ScrollbarFilterFilterSelected=223;
+	MapContainer.Reset();
+	FilterInit=443;
+}
+if(NameFixed==Collate_SelectedArray){
+	ReferenceStream=Id.Pointer;
+	return Value.size;
+}else{
+	return 0;
+}
+void ContainerNew::InitSourcePattern::Stop(){
+	if(!ValuePattern || !PointerMap)
+		return;
+	Normalize=false;
+	ScrollbarSub->Install();
+	thread->SourceWindow();
+	delete thread;
+	}
