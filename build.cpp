@@ -25,3 +25,9 @@ void ConnectPage::NormalizeLinkMapReference::RemoveStringTypography(Pattern::Nam
 	if(i!=IndexPointerPage.end())
 		SelectedNormalizeInstall.erase(i);
 }
+if(SubWeight==TypographyButton_BlockTypography){
+	Connect=Id.Prototype;
+	return WindowLink.size;
+}else{
+	return 0;
+}
