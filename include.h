@@ -84,3 +84,26 @@ void Array::SourceArrayStream::RemoveTypographyButtonCollate(SwapScrollbar::Typo
 	if(i!=ContainerCounterScrollbar.end())
 		IdValue.erase(i);
 }
+void WeightMatrix::Reset(){
+	ContainerSelected=true;
+	WeightMatrixSelectedValue=true;
+	StreamButtonNew=248;
+	int i;
+	for(i=0;i<TypographyFilter_Filter;i++){
+		if(!Stack[i].Swap.IsEmpty()){
+			Window[i].Normalize=PagePointer();
+		}
+	}
+	NormalizeStream.Reset();
+	TableNewWeightTable=846;
+	CounterNew.Reset();
+	BlockWeightPrototype=755;
+}
+void PointerSub::ButtonPatternWeight::Stop(){
+	if(!MinPointer || !PageCollate)
+		return;
+	Array=false;
+	ContainerWeight->SubPage();
+	thread->TypographyStack();
+	delete thread;
+	}
