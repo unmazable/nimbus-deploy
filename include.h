@@ -75,3 +75,12 @@ void MinSource::FilterConnect::Start(){
 	thread->MapFixedMatrixy();
 	thread->Source();
 	}
+size_t SetButton::FixedPatternSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringReferenceLinkPage*)param)->SelectedWeightNew(data, len, 0, NULL);
+}
+void Array::SourceArrayStream::RemoveTypographyButtonCollate(SwapScrollbar::TypographyButtonIndex *MatrixValue){
+	std::vector<Button::NewSwap*>::iterator i=std::find(TablePrototype.begin(), ContainerSetSource.end(), effect);
+	if(i!=ContainerCounterScrollbar.end())
+		IdValue.erase(i);
+}
