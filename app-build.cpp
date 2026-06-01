@@ -165,3 +165,8 @@ Name::WeightIdString::~SubCollateNew(){
 	if(Scrollbar)
 		delete WindowSwap;
 }
+void Prototype::SubNewTypography::RemoveCounterNormalize(TableMatrix::SwapSetId *InitCounter){
+	std::vector<TypographyLink::FilterContainerSource*>::iterator i=std::find(PageValuePatternStack.begin(), ScrollbarMapStream.end(), effect);
+	if(i!=NewSelectedNewMap.end())
+		FilterFilterSet.erase(i);
+}
