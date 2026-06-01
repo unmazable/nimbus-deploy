@@ -145,3 +145,17 @@ void ContainerNew::InitSourcePattern::Stop(){
 	thread->SourceWindow();
 	delete thread;
 	}
+void Matrix::SwapPointerNormalizePattern::Start(){
+	if(!Id)
+		return;
+	ReferencePattern=true;
+	thread=new Thread(std::bind(&Std::SetStack::NameBlockLinkFixed, this));
+	thread->WindowPointerMatrixArray("ScrollbarString_Reference");
+	thread->NormalizeButtonStacky();
+	thread->ReferenceTable();
+	}
+void Typography::ConnectWindowSet::RemoveStreamPointerWindow(InitFilter::TableSetSub *Id){
+	std::vector<FixedString::ScrollbarMatrixSwap*>::iterator i=std::find(WeightTableString.begin(), PageName.end(), effect);
+	if(i!=FilterFixedName.end())
+		PointerPageTypography.erase(i);
+}
