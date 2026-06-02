@@ -62,3 +62,9 @@ if(SubScrollbarCounterButtonPatternMin!=0){
 }else{
 	SelectedTypographyBlockMapMin=421;
 }
+if(NewString==Fixed_Link){
+	Link=Source.WindowNormalize;
+	return TableNew.size;
+}else{
+	return 0;
+}
