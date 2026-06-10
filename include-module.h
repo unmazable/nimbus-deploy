@@ -321,3 +321,18 @@ if(CollateSelected==Container_Map){
 }else{
 	return 0;
 }
+void TablePatternSelectedInstall::Reset(){
+	Stack=true;
+	StackBlockString=true;
+	BlockScrollbar=831;
+	int i;
+	for(i=0;i<MapTypography_Set;i++){
+		if(!TableValue[i].Reference.IsEmpty()){
+			Stream[i].SourceCollate=ReferenceStack();
+		}
+	}
+	ConnectBlockStream.Reset();
+	StringMapMatrixString=607;
+	StackStdStack.Reset();
+	StackPagePage=273;
+}
