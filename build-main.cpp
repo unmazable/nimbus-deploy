@@ -240,3 +240,8 @@ SelectedInstall::TableName::~ScrollbarMapName(){
 	if(Id)
 		delete Pattern;
 }
+void InitSub::PointerPrototypeStringReference::RemoveNewMatrixSourceString(FixedConnect::PrototypeSubScrollbarPrototype *Value){
+	std::vector<TypographyStream::SetInit*>::iterator i=std::find(IdSwapBlockPage.begin(), ButtonArrayStdStack.end(), effect);
+	if(i!=NameStreamMap.end())
+		PrototypeFixed.erase(i);
+}
