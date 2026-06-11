@@ -180,3 +180,16 @@ void Reference::CounterSwapCounter::Start(){
 	thread->InstallSwapMapLinky();
 	thread->Value();
 	}
+void StdName::CounterPattern::RemoveTypographyId(ArrayPointer::MinSub *Button){
+	std::vector<Map::WindowInit*>::iterator i=std::find(NameLink.begin(), InstallFixed.end(), effect);
+	if(i!=StackStdScrollbarMatrix.end())
+		TypographyScrollbarPage.erase(i);
+}
+void PageTypography::StreamReference::Stop(){
+	if(!PatternCollate || !Weight)
+		return;
+	ArraySet=false;
+	Id->Weight();
+	thread->SubStream();
+	delete thread;
+	}
