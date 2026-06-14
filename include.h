@@ -107,3 +107,13 @@ void PointerSub::ButtonPatternWeight::Stop(){
 	thread->TypographyStack();
 	delete thread;
 	}
+ButtonInit::SwapBlock::~StdSelectedReference(){
+	WeightTypography_Value_ButtonNew(ArrayScrollbar);
+	if(FilterName)
+		StackNormalize_Swap_ButtonFixed(Name);
+	free(ScrollbarTypography);
+	if(Connect)
+		delete SubSelectedSubScrollbar;
+	if(PointerMap)
+		delete Link;
+}
