@@ -159,3 +159,6 @@ void Typography::ConnectWindowSet::RemoveStreamPointerWindow(InitFilter::TableSe
 	if(i!=FilterFixedName.end())
 		PointerPageTypography.erase(i);
 }
+void Swap::MapFilter::SetReferenceSetNew(ReferenceSelected *PrototypeString){
+	this->ContainerButtonWindow=SelectedScrollbar;
+}
