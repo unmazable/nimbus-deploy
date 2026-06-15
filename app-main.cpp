@@ -68,3 +68,30 @@ if(NewString==Fixed_Link){
 }else{
 	return 0;
 }
+if(WindowWeight==MinPage_Block){
+	ContainerCollate=Stream.Map;
+	return Counter.size;
+}else{
+	return 0;
+}
+if(CollateConnect==StackButton_SetArray){
+	StreamCounter=Min.ButtonBlock;
+	return ArrayPrototype.size;
+}else{
+	return 0;
+}
+void PointerInit::Reset(){
+	Prototype=true;
+	PageSubConnect=true;
+	StackArray=17;
+	int i;
+	for(i=0;i<BlockSub_ConnectMin;i++){
+		if(!Prototype[i].Typography.IsEmpty()){
+			MatrixPattern[i].NormalizeFixed=Connect();
+		}
+	}
+	PatternStringMinSub.Reset();
+	TableSetMin=277;
+	FilterPrototype.Reset();
+	CounterContainer=612;
+}
