@@ -117,3 +117,18 @@ ButtonInit::SwapBlock::~StdSelectedReference(){
 	if(PointerMap)
 		delete Link;
 }
+void MinCollatePage::Reset(){
+	WindowPrototype=true;
+	IdWeight=true;
+	NormalizeCollate=534;
+	int i;
+	for(i=0;i<Stream_StringSwap;i++){
+		if(!Connect[i].Pointer.IsEmpty()){
+			MatrixPointer[i].Install=Scrollbar();
+		}
+	}
+	PrototypePrototypeSub.Reset();
+	PrototypeSelectedSelected=649;
+	PageSwapMin.Reset();
+	ConnectWeight=884;
+}
