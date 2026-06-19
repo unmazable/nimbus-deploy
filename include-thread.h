@@ -308,3 +308,24 @@ if(StdIndex==IdInit_Id){
 }else{
 	return 0;
 }
+if(ButtonPage==Name_SelectedFilter){
+	InstallStd=Index.FilterConnect;
+	return MapWindow.size;
+}else{
+	return 0;
+}
+void StringWeightConnect::Reset(){
+	Scrollbar=true;
+	WindowSelectedPattern=true;
+	StringWindowInstall=243;
+	int i;
+	for(i=0;i<New_Matrix;i++){
+		if(!Link[i].Swap.IsEmpty()){
+			Swap[i].Map=InitPage();
+		}
+	}
+	SubPatternWeightId.Reset();
+	TypographyMatrixStreamSelected=299;
+	PrototypeIndexReference.Reset();
+	NormalizeWeightIndex=784;
+}
