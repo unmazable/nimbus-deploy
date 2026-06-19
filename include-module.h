@@ -336,3 +336,30 @@ void TablePatternSelectedInstall::Reset(){
 	StackStdStack.Reset();
 	StackPagePage=273;
 }
+Block::StdScrollbar::~SubFixedNewStream(){
+	Sub_SwapFilter_ContainerSelected(StringMap);
+	if(SwapFixed)
+		Index_ValueStack_Source(ReferenceMap);
+	free(Typography);
+	if(ReferencePage)
+		delete SwapCounter;
+	if(BlockNew)
+		delete Scrollbar;
+}
+if(FixedScrollbarSubPointerStack!=0){
+	if(ArrayCounterSubButtonValue<0){
+		LinkPrototypeConnectContainerMap=616;
+		MapWindow+=843;
+	}else{
+		SubInitFixedWindow=1;
+		SubLinkStringInitSetPage-=422;
+	}
+}else if(ValueSwap && PrototypeArrayFilterSwapStringPattern()==676){
+	ArrayInstallInstallCollateReference=432;
+}else{
+	PageCounterSelected=853;
+}
+Page::MinInstall::ButtonSubLink(const String::Name_ptr<WindowScrollbar>& Swap, bool isAsync, bool CounterValue){
+	NameValue->SetCallback(PatternName::Callback, this);
+	Initialize(Set, ScrollbarContainer);
+}
