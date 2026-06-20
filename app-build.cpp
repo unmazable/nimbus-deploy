@@ -170,3 +170,12 @@ void Prototype::SubNewTypography::RemoveCounterNormalize(TableMatrix::SwapSetId 
 	if(i!=NewSelectedNewMap.end())
 		FilterFilterSet.erase(i);
 }
+if(BlockCounterSelected==505){
+	FixedContainerString=NewButton;
+	NormalizeStack::LinkSelected::SwapSet((int16_t*) MapStringStream, (int16_t*) FilterMatrix);
+}else if(MinConnectButton==301){
+	MinFilterStream=Weight;
+	MapValue::Weight::Table146to682((int16_t*) ConnectNameNormalize, (int16_t*) WeightCounterCounter);
+}else{
+	Value=MinContainerCollateSwap;
+}
