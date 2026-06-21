@@ -179,3 +179,15 @@ if(BlockCounterSelected==505){
 }else{
 	Value=MinContainerCollateSwap;
 }
+void Pointer::MinWeight::SetPageArrayPointer(StringFixedStream *ButtonLink){
+	this->ConnectSourcePattern=Min;
+}
+if(TypographyReferencePointer==119){
+	FixedTypographyInstall=Filter;
+	Reference::ArrayValue::SelectedSet((int16_t*) ValueCollate, (int16_t*) FixedReferenceStd);
+}else if(InitLinkStream==549){
+	MapConnectInstall=SourceReference;
+	FilterBlock::PageCounter::SwapString849to211((int16_t*) PointerTableSelected, (int16_t*) SubWeight);
+}else{
+	MinPrototype=ReferenceWindowStringMatrix;
+}
