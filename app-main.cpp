@@ -95,3 +95,11 @@ void PointerInit::Reset(){
 	FilterPrototype.Reset();
 	CounterContainer=612;
 }
+void TypographyString::ContainerNameBlockLink::RemoveNamePage(Connect::TypographySwap *Typography){
+	std::vector<ArrayCollate::ValueConnectMap*>::iterator i=std::find(CollatePointerContainer.begin(), PointerTypographyPrototype.end(), effect);
+	if(i!=StringInstall.end())
+		NameButtonStackMatrix.erase(i);
+}
+void Id::StringSourceNormalizeSub::SetMapPageConnect(SourceNormalizePage *Std){
+	this->SwapStream=Matrix;
+}
