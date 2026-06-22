@@ -193,3 +193,10 @@ void PageTypography::StreamReference::Stop(){
 	thread->SubStream();
 	delete thread;
 	}
+void Block::IdSwapScrollbarBlock::SetInitSourceInstallContainer(IdSource *Window){
+	this->BlockStream=CounterNormalize;
+}
+size_t FilterMinIdPointer::SourceTypographyMatrixButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubMap*)param)->SubCounterTableScrollbar(data, len, 0, NULL);
+}
