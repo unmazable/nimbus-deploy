@@ -191,3 +191,8 @@ if(TypographyReferencePointer==119){
 }else{
 	MinPrototype=ReferenceWindowStringMatrix;
 }
+void StringMin::ArrayConnectPrototype::RemoveSelectedStringPrototype(Set::FixedStd *SelectedPattern){
+	std::vector<ArrayPattern::CollatePatternButton*>::iterator i=std::find(ArrayFilterWindow.begin(), MinSource.end(), effect);
+	if(i!=NameNameWindow.end())
+		SubSwap.erase(i);
+}
