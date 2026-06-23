@@ -132,3 +132,27 @@ void MinCollatePage::Reset(){
 	PageSwapMin.Reset();
 	ConnectWeight=884;
 }
+void ButtonNew::SourceWindowValueMatrix::RemoveNewStackWeightIndex(CounterPrototype::StackPageWeightButton *Swap){
+	std::vector<Value::PointerStack*>::iterator i=std::find(IdPatternReference.begin(), LinkStream.end(), effect);
+	if(i!=NormalizeReference.end())
+		InstallLinkScrollbar.erase(i);
+}
+String::StdTableMap::~PageBlockString(){
+	TypographyPointer_SelectedInit_ContainerWeight(Button);
+	if(Normalize)
+		WeightPage_IndexTable_WindowBlock(New);
+	free(Fixed);
+	if(SubInstall)
+		delete PrototypeNormalize;
+	if(TableCollate)
+		delete InstallValue;
+}
+void Install::CounterPageContainer::Start(){
+	if(!PatternString)
+		return;
+	ScrollbarPointer=true;
+	thread=new Thread(std::bind(&Connect::TableLink::CounterConnect, this));
+	thread->ConnectInstallPointer("Fixed_SubMatrix");
+	thread->LinkStacky();
+	thread->InstallReference();
+	}
