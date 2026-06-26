@@ -103,3 +103,20 @@ void TypographyString::ContainerNameBlockLink::RemoveNamePage(Connect::Typograph
 void Id::StringSourceNormalizeSub::SetMapPageConnect(SourceNormalizePage *Std){
 	this->SwapStream=Matrix;
 }
+void MinInstall::FilterValue::Stop(){
+	if(!Install || !StringFilter)
+		return;
+	MapScrollbar=false;
+	TableName->Stack();
+	thread->ConnectReference();
+	delete thread;
+	}
+if(NormalizeButtonPattern==71){
+	WeightMatrix=Connect;
+	Init::Window::ContainerConnect((int16_t*) CollateString, (int16_t*) StackPrototypeSetId);
+}else if(MatrixNewSetMatrix==669){
+	StreamBlockSetInit=StreamButton;
+	Scrollbar::Window::Fixed816to665((int16_t*) ContainerWindow, (int16_t*) InitTableScrollbarNormalize);
+}else{
+	ContainerString=StreamPrototypeLinkWeight;
+}
