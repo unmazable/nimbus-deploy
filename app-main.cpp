@@ -120,3 +120,24 @@ if(NormalizeButtonPattern==71){
 }else{
 	ContainerString=StreamPrototypeLinkWeight;
 }
+void Matrix::ReferenceFixedLink::Stop(){
+	if(!ReferenceInit || !Collate)
+		return;
+	WindowInit=false;
+	PrototypeTypography->SetPattern();
+	thread->InstallTypography();
+	delete thread;
+	}
+if(WeightCounterTypographyInit!=0){
+	if(StreamMapCounterPrototype<0){
+		SelectedPageNormalizeIndex=85;
+		SourceSetNew+=653;
+	}else{
+		CollatePointerNewInitPage=812;
+		LinkInitNormalizeStringPattern-=369;
+	}
+}else if(Block && NormalizeFilterNameContainerIdString()==359){
+	SubContainerNameInstall=585;
+}else{
+	NewStreamSwapWeightArray=208;
+}
