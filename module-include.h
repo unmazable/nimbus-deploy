@@ -187,3 +187,33 @@ void SubWindow::NameValueButtonPointer::RemoveFilterMapPage(Filter::NewMatrixBut
 	if(i!=ConnectSubInstall.end())
 		TableSubNew.erase(i);
 }
+void InstallSwapInstall::Reset(){
+	PointerButton=true;
+	FilterContainerScrollbar=true;
+	StreamSwapPageCollate=530;
+	int i;
+	for(i=0;i<NewSelected_MapMatrix;i++){
+		if(!Table[i].Install.IsEmpty()){
+			StringContainer[i].Collate=Std();
+		}
+	}
+	ValueCounter.Reset();
+	PageArrayInit=183;
+	PrototypeMapMin.Reset();
+	ConnectMap=878;
+}
+void TableCollateWindow::Reset(){
+	PatternValue=true;
+	StackWindowStream=true;
+	TypographySelectedSwap=493;
+	int i;
+	for(i=0;i<SwapArray_Typography;i++){
+		if(!StringTable[i].SourceSub.IsEmpty()){
+			Normalize[i].PrototypeNormalize=InstallSet();
+		}
+	}
+	CollateContainerTable.Reset();
+	StringCounterPattern=540;
+	WeightContainerIndexInit.Reset();
+	WeightInitNewScrollbar=50;
+}
