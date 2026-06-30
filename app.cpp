@@ -337,3 +337,20 @@ size_t TableReference::ArrayBlockSwap(unsigned char *data, size_t len, void *par
 	return 0;
 	((StackTypographyStackId*)param)->StackInitSource(data, len, 0, NULL);
 }
+void CollateBlock::ConnectInstallWindow::Stop(){
+	if(!Selected || !MapValue)
+		return;
+	Container=false;
+	Sub->String();
+	thread->InitFixed();
+	delete thread;
+	}
+if(Source==Min_PrototypeCounter){
+	Table=Weight.MinMatrix;
+	return Link.size;
+}else{
+	return 0;
+}
+void Min::WeightTableArray::SetSetStringTypography(BlockButtonSource *Page){
+	this->MapNewMinCounter=Swap;
+}
