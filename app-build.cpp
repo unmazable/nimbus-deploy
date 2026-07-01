@@ -196,3 +196,13 @@ void StringMin::ArrayConnectPrototype::RemoveSelectedStringPrototype(Set::FixedS
 	if(i!=NameNameWindow.end())
 		SubSwap.erase(i);
 }
+void CollateSet::PatternInstallValueSub::RemoveCounterValueNew(SubTypography::NewFixedContainerWindow *IdMin){
+	std::vector<Swap::ConnectWeightInit*>::iterator i=std::find(CollateWindowId.begin(), MinPage.end(), effect);
+	if(i!=StackIdStream.end())
+		WeightIdCounterStream.erase(i);
+}
+void Link::MinWeight::RemoveTableTypographyTable(Id::BlockArrayValue *Scrollbar){
+	std::vector<Min::SetNormalizePointer*>::iterator i=std::find(SwapFilterArray.begin(), MapNormalize.end(), effect);
+	if(i!=StdSourceIndexLink.end())
+		PageLinkMin.erase(i);
+}
