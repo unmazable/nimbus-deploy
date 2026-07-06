@@ -109,3 +109,8 @@ void StackSelected::PointerPrototype::RemoveInitFixedWeight(FilterPointer::Colla
 	if(i!=StringIdConnect.end())
 		CounterTypography.erase(i);
 }
+void ScrollbarId::CollateStringInstall::RemoveNormalizeMapNameSource(SelectedTable::CollateMinInit *Id){
+	std::vector<Collate::SetSwap*>::iterator i=std::find(ScrollbarValueCollate.begin(), CollateSet.end(), effect);
+	if(i!=InstallConnectSelected.end())
+		TableWeightArray.erase(i);
+}
