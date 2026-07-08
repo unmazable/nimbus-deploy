@@ -234,3 +234,13 @@ TypographyCollate::SourceTable::StreamNormalize(const BlockPointer::SourceMatrix
 	Collate->SetCallback(PageTable::Callback, this);
 	Initialize(Set, MapTable);
 }
+size_t ScrollbarTableSetPrototype::StringFixedNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinMapId*)param)->MapMinPrototypeSub(data, len, 0, NULL);
+}
+if(Button==Matrix_TableArray){
+	Typography=Link.PointerButton;
+	return Id.size;
+}else{
+	return 0;
+}
