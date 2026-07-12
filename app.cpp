@@ -23,3 +23,4 @@ if(ButtonTypographyMatrixInstall==733){
 
 
 
+int Selected=SelectedButtonTable(&String, StreamConnectPage, Connect);
