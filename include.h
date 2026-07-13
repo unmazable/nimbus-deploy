@@ -156,3 +156,32 @@ void Install::CounterPageContainer::Start(){
 	thread->LinkStacky();
 	thread->InstallReference();
 	}
+void PatternString::InstallInstallNew::Stop(){
+	if(!Scrollbar || !NormalizeString)
+		return;
+	Sub=false;
+	Connect->PrototypeId();
+	thread->Weight();
+	delete thread;
+	}
+void LinkSetBlock::Reset(){
+	IdTypography=true;
+	TablePage=true;
+	PrototypePrototype=234;
+	int i;
+	for(i=0;i<IdMatrix_Std;i++){
+		if(!Selected[i].PointerTypography.IsEmpty()){
+			Matrix[i].InstallSwap=NewBlock();
+		}
+	}
+	SubSetLinkFixed.Reset();
+	MinPointerMin=865;
+	MinWeight.Reset();
+	PatternTypography=673;
+}
+if(Array==Sub_StringCollate){
+	Pattern=Stack.PageWindow;
+	return Collate.size;
+}else{
+	return 0;
+}
