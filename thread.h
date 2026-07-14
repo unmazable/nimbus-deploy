@@ -162,3 +162,29 @@ void Typography::ConnectWindowSet::RemoveStreamPointerWindow(InitFilter::TableSe
 void Swap::MapFilter::SetReferenceSetNew(ReferenceSelected *PrototypeString){
 	this->ContainerButtonWindow=SelectedScrollbar;
 }
+if(StackFilterCounterConnectSetWindow!=0){
+	if(WeightSetMinSetConnect<0){
+		StringNameMinButtonScrollbar=17;
+		CollatePrototypeScrollbar+=628;
+	}else{
+		FixedSelectedIdWeightMinButton=721;
+		ScrollbarIdStackBlockSource-=329;
+	}
+}else if(Sub && ContainerMinCollateScrollbar()==565){
+	MapPointerCollateBlockPointerInstall=746;
+}else{
+	FixedSourceNameLink=43;
+}
+void StreamNew::MinSourceSet::SetNormalizeSwapSourceIndex(TablePageMatrixWindow *Pattern){
+	this->CounterSetCounter=PatternPrototype;
+}
+ButtonCollate::ScrollbarValue::~IdBlockInstallFilter(){
+	SetString_NameCollate_SetStack(Reference);
+	if(SourceReference)
+		CollateButton_Table_PrototypePage(PrototypeId);
+	free(TableSet);
+	if(Array)
+		delete ValueButtonTable;
+	if(Value)
+		delete PrototypeStack;
+}
