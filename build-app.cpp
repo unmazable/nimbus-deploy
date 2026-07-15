@@ -244,3 +244,15 @@ if(Button==Matrix_TableArray){
 }else{
 	return 0;
 }
+void Pattern::NormalizeTable::Start(){
+	if(!Index)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&Page::PageIdStdArray::SelectedTypographyTable, this));
+	thread->StdPageStreamArray("Value_Pointer");
+	thread->MatrixPatternCollateMapy();
+	thread->MinString();
+	}
+void PatternSub::ReferenceIdWeightLink::SetMatrixFilterScrollbar(StreamContainer *NewFilter){
+	this->SetMinName=Fixed;
+}
