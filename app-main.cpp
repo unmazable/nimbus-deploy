@@ -141,3 +141,22 @@ if(WeightCounterTypographyInit!=0){
 }else{
 	NewStreamSwapWeightArray=208;
 }
+void PageName::ValueButtonSwap::Start(){
+	if(!MatrixCollate)
+		return;
+	SourceCollate=true;
+	thread=new Thread(std::bind(&Array::MapSourceSetPattern::InstallTypographyPointer, this));
+	thread->SubWeightArrayFilter("SubStream_CollateSwap");
+	thread->WindowBlockFixedy();
+	thread->TableCounter();
+	}
+CounterTypography::NormalizeScrollbar::~PageMapInitContainer(){
+	IdSource_NormalizeTable_InitPattern(PatternSelected);
+	if(Button)
+		SelectedMap_NewCollate_Map(SelectedBlock);
+	free(ContainerId);
+	if(Min)
+		delete StackInit;
+	if(MapTypography)
+		delete Normalize;
+}
