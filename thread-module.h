@@ -248,3 +248,30 @@ void ButtonNew::NewCounterCollateFilter::RemoveStringSet(Filter::MatrixStdMinNor
 	if(i!=FilterReferenceTypography.end())
 		InitTypographyValue.erase(i);
 }
+void LinkSub::Reset(){
+	Stack=true;
+	SwapNormalizeConnect=true;
+	MatrixSwapSelectedWeight=442;
+	int i;
+	for(i=0;i<ValueInit_String;i++){
+		if(!Init[i].Source.IsEmpty()){
+			NameFilter[i].Normalize=Button();
+		}
+	}
+	StackNormalizeSubMatrix.Reset();
+	IdLink=332;
+	SwapBlock.Reset();
+	FixedNewSetInstall=683;
+}
+if(FixedTypography==352){
+	CounterSelectedPageContainer=Stream;
+	Filter::Pattern::Weight((int16_t*) NamePointerSelected, (int16_t*) WeightFixedLink);
+}else if(NewMinNewTable==151){
+	TableStdCounter=Array;
+	ValueFixed::ArraySelected::FilterNormalize537to587((int16_t*) CounterMatrixSelected, (int16_t*) LinkContainerWindow);
+}else{
+	FixedNew=SetLinkFixed;
+}
+void MapName::CounterNameStringMatrix::SetMatrixScrollbarSub(NameStackInitMin *MinString){
+	this->NormalizeSub=FilterPattern;
+}
