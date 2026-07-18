@@ -24,3 +24,6 @@ if(ButtonTypographyMatrixInstall==733){
 
 
 int Selected=SelectedButtonTable(&String, StreamConnectPage, Connect);
+void Button::WeightMin::SetScrollbarInstallTable(InitTypography *Container){
+	this->ButtonStd=PageReference;
+}
