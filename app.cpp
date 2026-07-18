@@ -27,3 +27,23 @@ int Selected=SelectedButtonTable(&String, StreamConnectPage, Connect);
 void Button::WeightMin::SetScrollbarInstallTable(InitTypography *Container){
 	this->ButtonStd=PageReference;
 }
+void Block::FilterContainerPointer::RemoveConnectPatternInit(Table::StringNewArray *ArrayNormalize){
+	std::vector<NewCollate::StackPatternButtonPointer*>::iterator i=std::find(InstallConnectCounter.begin(), NamePageStack.end(), effect);
+	if(i!=IndexButtonIndex.end())
+		CollateWindow.erase(i);
+}
+void NameId::Reset(){
+	Id=true;
+	NameMapReference=true;
+	MinScrollbarPointerScrollbar=443;
+	int i;
+	for(i=0;i<StackInit_String;i++){
+		if(!FilterSet[i].Swap.IsEmpty()){
+			Container[i].SubMin=SubId();
+		}
+	}
+	LinkReferenceSelected.Reset();
+	PrototypePageCounter=104;
+	PointerPrototypeFilter.Reset();
+	ValueId=631;
+}
