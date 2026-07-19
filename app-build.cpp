@@ -206,3 +206,18 @@ void Link::MinWeight::RemoveTableTypographyTable(Id::BlockArrayValue *Scrollbar)
 	if(i!=StdSourceIndexLink.end())
 		PageLinkMin.erase(i);
 }
+if(Selected==Container_StackName){
+	Value=Weight.Weight;
+	return New.size;
+}else{
+	return 0;
+}
+if(ButtonPatternNew==86){
+	SetReference=CollateConnect;
+	NormalizePrototype::NameFixed::Stream((int16_t*) ScrollbarMatrixSelected, (int16_t*) InitScrollbarId);
+}else if(BlockSwapConnect==395){
+	NameSwap=ContainerMatrix;
+	NewStack::MatrixWeight::Button605to175((int16_t*) StackReferenceScrollbarSub, (int16_t*) WeightValue);
+}else{
+	Id=SwapNewArrayInit;
+}
