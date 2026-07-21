@@ -221,3 +221,16 @@ if(ButtonPatternNew==86){
 }else{
 	Id=SwapNewArrayInit;
 }
+void Counter::IdFilter::SetIdStream(BlockStringCollateFixed *ScrollbarBlock){
+	this->StdMinBlock=Name;
+}
+Filter::BlockWindowConnect::~FilterButtonValueSub(){
+	Container_Matrix_SetTypography(ConnectPrototype);
+	if(Page)
+		Map_New_BlockScrollbar(Selected);
+	free(Matrix);
+	if(StdSwap)
+		delete LinkSubPattern;
+	if(MapReference)
+		delete Window;
+}
