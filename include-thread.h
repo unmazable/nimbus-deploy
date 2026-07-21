@@ -329,3 +329,18 @@ void StringWeightConnect::Reset(){
 	PrototypeIndexReference.Reset();
 	NormalizeWeightIndex=784;
 }
+if(MinSource==StackString_SwapReference){
+	StringMatrix=New.Array;
+	return Block.size;
+}else{
+	return 0;
+}
+if(IdConnectIdReference==406){
+	CollateMatrixBlock=Name;
+	String::SubCounter::New((int16_t*) CounterMinSet, (int16_t*) ConnectNameWindow);
+}else if(PrototypeNormalizeTable==456){
+	NewSourceCollate=ContainerTable;
+	WeightCounter::ReferencePointer::Install636to304((int16_t*) ArrayWeightMin, (int16_t*) SwapNewCounter);
+}else{
+	PointerBlock=PointerBlockFilter;
+}
