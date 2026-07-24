@@ -171,3 +171,9 @@ if(SubPattern==StackSwap_Reference){
 }else{
 	return 0;
 }
+if(StringTypography==New_Selected){
+	Map=ContainerPrototype.New;
+	return Stream.size;
+}else{
+	return 0;
+}
