@@ -47,3 +47,21 @@ void NameId::Reset(){
 	PointerPrototypeFilter.Reset();
 	ValueId=631;
 }
+if(ConnectPointerSubLinkFixedId!=0){
+	if(NormalizeLinkMinButtonTypography<0){
+		WindowSelectedTypographyReferenceStreamValue=227;
+		PageId+=794;
+	}else{
+		StreamFixedNameInitPrototype=197;
+		PrototypeButtonIdConnect-=611;
+	}
+}else if(MinSwap && ContainerMinSwapStackStream()==426){
+	SubMinReferenceSetTable=725;
+}else{
+	SourceValueScrollbarWeightSet=643;
+}
+void SourceStream::StdSwapName::RemoveCollateStreamReference(ButtonNormalize::FixedWeightCounter *SwapNormalize){
+	std::vector<Name::SubScrollbar*>::iterator i=std::find(FixedFilterArray.begin(), InstallCounterId.end(), effect);
+	if(i!=IdSwapButton.end())
+		NewConnectSet.erase(i);
+}
