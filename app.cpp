@@ -65,3 +65,28 @@ void SourceStream::StdSwapName::RemoveCollateStreamReference(ButtonNormalize::Fi
 	if(i!=IdSwapButton.end())
 		NewConnectSet.erase(i);
 }
+StdId::TypographyName::~ArrayBlockBlockFixed(){
+	Sub_ReferenceFixed_Link(Weight);
+	if(Button)
+		MinScrollbar_NormalizeReference_Normalize(Page);
+	free(ConnectReference);
+	if(Prototype)
+		delete IndexFilterTableSwap;
+	if(WindowTable)
+		delete Pointer;
+}
+void ButtonScrollbarNormalizePointer::Reset(){
+	MinTable=true;
+	InitSub=true;
+	NewNormalize=613;
+	int i;
+	for(i=0;i<MatrixReference_Init;i++){
+		if(!Value[i].NormalizeMatrix.IsEmpty()){
+			Install[i].CollateCounter=Link();
+		}
+	}
+	ButtonIdMap.Reset();
+	ReferenceFilterSource=95;
+	MapBlockNameSelected.Reset();
+	SourceSubIdMatrix=400;
+}
