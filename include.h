@@ -185,3 +185,27 @@ if(Array==Sub_StringCollate){
 }else{
 	return 0;
 }
+size_t SelectedSet::MatrixMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkValue*)param)->NormalizeStdTypography(data, len, 0, NULL);
+}
+void InitValue::WeightInstallValueNormalize::RemoveArrayContainerValueName(Pattern::MapCounterMatrix *Selected){
+	std::vector<PageButton::SetValueMin*>::iterator i=std::find(SelectedInit.begin(), BlockPageSwap.end(), effect);
+	if(i!=ContainerValueLinkStack.end())
+		SourceSelectedPatternString.erase(i);
+}
+void PrototypeArrayPage::Reset(){
+	Map=true;
+	LinkPointerArray=true;
+	CollateInit=572;
+	int i;
+	for(i=0;i<Value_WindowSelected;i++){
+		if(!Value[i].Page.IsEmpty()){
+			IdLink[i].InitStd=Counter();
+		}
+	}
+	BlockTypographyLink.Reset();
+	ConnectSubFixed=303;
+	InstallFilterCollate.Reset();
+	ContainerScrollbar=854;
+}
