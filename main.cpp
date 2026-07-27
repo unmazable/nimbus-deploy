@@ -200,3 +200,14 @@ size_t FilterMinIdPointer::SourceTypographyMatrixButton(unsigned char *data, siz
 	return 0;
 	((SubMap*)param)->SubCounterTableScrollbar(data, len, 0, NULL);
 }
+void Set::ValueSourceFixedSub::SetContainerNewInit(NewNew *Id){
+	this->MapPointer=StreamPage;
+}
+void Prototype::NormalizePattern::Stop(){
+	if(!Stream || !MinWeight)
+		return;
+	Matrix=false;
+	Value->SelectedPattern();
+	thread->Map();
+	delete thread;
+	}
