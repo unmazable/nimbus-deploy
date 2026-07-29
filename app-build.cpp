@@ -234,3 +234,20 @@ Filter::BlockWindowConnect::~FilterButtonValueSub(){
 	if(MapReference)
 		delete Window;
 }
+size_t SubSetFixed::BlockWeightSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateCounter*)param)->NewIdNewName(data, len, 0, NULL);
+}
+void Value::TableMapBlock::Start(){
+	if(!Container)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&Install::TableSelectedReference::StringNameValue, this));
+	thread->ValueSwapSwapFixed("Counter_Selected");
+	thread->FixedReferenceValuey();
+	thread->SourceSwap();
+	}
+size_t NameConnectSet::MapPattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowSubSubPrototype*)param)->IdScrollbarConnect(data, len, 0, NULL);
+}
