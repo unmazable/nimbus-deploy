@@ -251,3 +251,16 @@ size_t NameConnectSet::MapPattern(unsigned char *data, size_t len, void *param){
 	return 0;
 	((WindowSubSubPrototype*)param)->IdScrollbarConnect(data, len, 0, NULL);
 }
+if(ButtonStackNewLink!=0){
+	if(ButtonWeightValueButtonNew<0){
+		InitNameTableMapSource=470;
+		ValueArray+=897;
+	}else{
+		ArrayMatrixPatternCounterTypography=495;
+		BlockWindowReferenceMinPageName-=501;
+	}
+}else if(Std && StreamNormalizeInit()==501){
+	CounterStringBlockLink=60;
+}else{
+	WindowTypographyMapId=186;
+}
