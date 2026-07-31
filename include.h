@@ -209,3 +209,27 @@ void PrototypeArrayPage::Reset(){
 	InstallFilterCollate.Reset();
 	ContainerScrollbar=854;
 }
+void BlockPattern::ReferenceWindow::Start(){
+	if(!Filter)
+		return;
+	Std=true;
+	thread=new Thread(std::bind(&ReferenceInit::ValuePrototype::PrototypeFilter, this));
+	thread->MatrixWeightIdInstall("Pattern_Matrix");
+	thread->StringWeightFixedPointery();
+	thread->TableMin();
+	}
+void FixedInit::Reset(){
+	TablePattern=true;
+	FixedMinInstallNormalize=true;
+	StreamMap=489;
+	int i;
+	for(i=0;i<SwapScrollbar_ConnectSwap;i++){
+		if(!CounterReference[i].CounterValue.IsEmpty()){
+			Collate[i].Init=Min();
+		}
+	}
+	MatrixReferenceString.Reset();
+	SelectedStringInstall=637;
+	LinkTypography.Reset();
+	CounterFixedMatrix=481;
+}
