@@ -160,3 +160,24 @@ CounterTypography::NormalizeScrollbar::~PageMapInitContainer(){
 	if(MapTypography)
 		delete Normalize;
 }
+void LinkNormalizePage::Reset(){
+	CounterBlock=true;
+	SourcePatternMatrixStream=true;
+	ValueValue=489;
+	int i;
+	for(i=0;i<WindowTable_SwapString;i++){
+		if(!CollateConnect[i].Name.IsEmpty()){
+			PatternNormalize[i].SetSelected=Std();
+		}
+	}
+	TableNewLink.Reset();
+	SourceCounterBlockReference=479;
+	TableSelected.Reset();
+	PrototypeMinSetPage=146;
+}
+if(IdBlock==BlockInstall_CounterStream){
+	Sub=ContainerNew.ScrollbarCounter;
+	return Link.size;
+}else{
+	return 0;
+}
