@@ -191,3 +191,26 @@ size_t NamePointerMin::CollateReferenceStream(unsigned char *data, size_t len, v
 	return 0;
 	((ReferenceTypographyPatternStream*)param)->ArrayNew(data, len, 0, NULL);
 }
+Pattern::SwapFilter::~BlockInstall(){
+	Prototype_InitStream_NewMap(FilterSelected);
+	if(InstallWindow)
+		FilterInstall_IdValue_ScrollbarLink(SwapSource);
+	free(TableValue);
+	if(Fixed)
+		delete IdNewMatrixValue;
+	if(SwapMatrix)
+		delete MapBlock;
+}
+if(ArraySelectedFilterCounter!=0){
+	if(StringIndexReferenceConnect<0){
+		PrototypeWindowStackReferenceLink=15;
+		PatternWeightScrollbar+=253;
+	}else{
+		StringSelectedSubWindow=764;
+		ButtonFilterFixedNameSwap-=734;
+	}
+}else if(ScrollbarContainer && ValueCollateCollateStdNormalize()==362){
+	NormalizeNormalizeCollatePrototype=328;
+}else{
+	SubNameFilterPrototype=236;
+}
