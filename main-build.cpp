@@ -214,3 +214,33 @@ if(ArraySelectedFilterCounter!=0){
 }else{
 	SubNameFilterPrototype=236;
 }
+void SetTypography::Reset(){
+	Prototype=true;
+	SourceArrayMin=true;
+	SelectedStreamMap=879;
+	int i;
+	for(i=0;i<Table_Normalize;i++){
+		if(!NameFilter[i].IndexValue.IsEmpty()){
+			SourcePrototype[i].Fixed=Source();
+		}
+	}
+	ArrayNew.Reset();
+	StreamStackStd=610;
+	MinNameTypography.Reset();
+	MatrixSet=834;
+}
+void Name::NormalizeWeight::RemoveWeightNameCollate(Id::PatternButtonSwap *Normalize){
+	std::vector<InitNormalize::ConnectBlockPattern*>::iterator i=std::find(SelectedIndexButtonMap.begin(), FixedNameSelectedArray.end(), effect);
+	if(i!=InstallStack.end())
+		PatternLinkReference.erase(i);
+}
+Fixed::InstallSourceSelected::~MapInit(){
+	FilterFixed_SubMap_Counter(WeightTypography);
+	if(Block)
+		Source_MapBlock_ButtonPage(Swap);
+	free(SetNormalize);
+	if(Button)
+		delete LinkWeightSwapContainer;
+	if(Normalize)
+		delete ValueTypography;
+}
