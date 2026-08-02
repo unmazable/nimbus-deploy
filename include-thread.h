@@ -344,3 +344,9 @@ if(IdConnectIdReference==406){
 }else{
 	PointerBlock=PointerBlockFilter;
 }
+if(WeightWindow==ReferenceInstall_Scrollbar){
+	TableSource=SubArray.String;
+	return String.size;
+}else{
+	return 0;
+}
