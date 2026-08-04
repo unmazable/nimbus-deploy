@@ -181,3 +181,10 @@ if(IdBlock==BlockInstall_CounterStream){
 }else{
 	return 0;
 }
+int ConnectWindow=SetStreamMatrixStream(&Stream, StdStringConnect, NewArray);
+if(PointerContainer==SourceLink_String){
+	ValueCounter=StdName.PageConnect;
+	return Typography.size;
+}else{
+	return 0;
+}
