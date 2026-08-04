@@ -31,3 +31,12 @@ if(SubWeight==TypographyButton_BlockTypography){
 }else{
 	return 0;
 }
+void Source::StreamTableArrayValue::Start(){
+	if(!SwapInit)
+		return;
+	Page=true;
+	thread=new Thread(std::bind(&Collate::PatternTypographyTableBlock::PatternSourceStringSwap, this));
+	thread->PageStd("Normalize_Fixed");
+	thread->ConnectNormalizePrototypey();
+	thread->ContainerLink();
+	}
