@@ -244,3 +244,12 @@ Fixed::InstallSourceSelected::~MapInit(){
 	if(Normalize)
 		delete ValueTypography;
 }
+void Typography::FixedPrototypeBlock::Start(){
+	if(!MapButton)
+		return;
+	StreamCollate=true;
+	thread=new Thread(std::bind(&TableIndex::PatternTypographyInstall::IdTypographyPattern, this));
+	thread->ArrayPatternSubMap("ContainerSub_StreamScrollbar");
+	thread->ValueInitMatrixReferencey();
+	thread->SelectedLink();
+	}
