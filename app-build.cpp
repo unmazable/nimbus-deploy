@@ -264,3 +264,35 @@ if(ButtonStackNewLink!=0){
 }else{
 	WindowTypographyMapId=186;
 }
+Fixed::CounterStreamPageReference::~SubWeightCollate(){
+	CounterButton_SetId_Sub(SelectedPattern);
+	if(NormalizeTable)
+		Array_Matrix_SwapPointer(InitPattern);
+	free(Link);
+	if(SetWindow)
+		delete ContainerCollateSub;
+	if(IndexArray)
+		delete WeightPattern;
+}
+if(TableInstallNormalizePointer!=0){
+	if(WeightFixedArrayButtonArrayPage<0){
+		SwapNormalizeSelectedSwapArraySelected=621;
+		MatrixPageFixed+=775;
+	}else{
+		InstallBlockIdWindow=305;
+		IdSetSetFilter-=646;
+	}
+}else if(Selected && StackSelectedPrototypeScrollbarWeight()==876){
+	InitNewSetFixed=477;
+}else{
+	ValueFixedValueMatrix=101;
+}
+if(ValueInstallSubInstall==500){
+	BlockString=Array;
+	PatternName::ArrayPointer::PatternCounter((int16_t*) NormalizeLinkInstall, (int16_t*) IndexTypographyPageSwap);
+}else if(BlockValueContainer==696){
+	CollateStackCounter=Index;
+	Container::TypographyInit::SetFixed881to646((int16_t*) MatrixNew, (int16_t*) PagePrototypePointer);
+}else{
+	ArrayStack=WeightPatternSelected;
+}
