@@ -256,3 +256,11 @@ void Pattern::NormalizeTable::Start(){
 void PatternSub::ReferenceIdWeightLink::SetMatrixFilterScrollbar(StreamContainer *NewFilter){
 	this->SetMinName=Fixed;
 }
+size_t FixedNewPage::ScrollbarSwapSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SetId*)param)->ValueInitNew(data, len, 0, NULL);
+}
+size_t SelectedCounterTable::NormalizeSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((BlockButtonStream*)param)->FilterPatternValueNew(data, len, 0, NULL);
+}
