@@ -177,3 +177,24 @@ if(StringTypography==New_Selected){
 }else{
 	return 0;
 }
+if(ReferenceReferenceMatrix!=0){
+	if(SwapNameTypographyIndexMatrixFixed<0){
+		NewPrototypeReferenceReference=723;
+		InstallSource+=178;
+	}else{
+		SourceMinInit=160;
+		ArrayContainerIdInitConnect-=494;
+	}
+}else if(CounterPrototype && MapReferenceTableScrollbarBlock()==105){
+	SwapLinkBlockPrototype=856;
+}else{
+	PointerSelectedButton=187;
+}
+void Id::ReferenceString::Stop(){
+	if(!ButtonSet || !Array)
+		return;
+	Index=false;
+	NormalizeStack->MatrixPrototype();
+	thread->PatternNew();
+	delete thread;
+	}
