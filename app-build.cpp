@@ -296,3 +296,22 @@ if(ValueInstallSubInstall==500){
 }else{
 	ArrayStack=WeightPatternSelected;
 }
+if(NameSetScrollbarArrayBlockPattern!=0){
+	if(InitFilterPrototypeTypographySet<0){
+		TableSetSource=589;
+		SwapPointerPage+=26;
+	}else{
+		SelectedPageLinkContainerNormalizeContainer=153;
+		PrototypeMapPageBlockValueLink-=858;
+	}
+}else if(NewSource && InitPrototypeSourceMap()==148){
+	WeightNewNameReferenceScrollbar=475;
+}else{
+	CollateSetCollateSet=778;
+}
+if(WindowFilter==Normalize_NormalizeFilter){
+	Table=StreamPage.Stack;
+	return StringCollate.size;
+}else{
+	return 0;
+}
