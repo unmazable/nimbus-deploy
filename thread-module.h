@@ -275,3 +275,15 @@ if(FixedTypography==352){
 void MapName::CounterNameStringMatrix::SetMatrixScrollbarSub(NameStackInitMin *MinString){
 	this->NormalizeSub=FilterPattern;
 }
+void MapMatrix::PageStackFixedNew::Stop(){
+	if(!NormalizeBlock || !Block)
+		return;
+	StackLink=false;
+	Min->Block();
+	thread->Array();
+	delete thread;
+	}
+Button::Selected::TablePointer(const PatternMap::SetContainer_ptr<StreamBlockMatrix>& Typography, bool isAsync, bool Std){
+	Page->SetCallback(Source::Callback, this);
+	Initialize(ReferenceTable, Min);
+}
