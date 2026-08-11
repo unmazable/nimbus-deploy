@@ -114,3 +114,18 @@ void ScrollbarId::CollateStringInstall::RemoveNormalizeMapNameSource(SelectedTab
 	if(i!=InstallConnectSelected.end())
 		TableWeightArray.erase(i);
 }
+ButtonArray::StringButtonInstall::~ScrollbarStreamSwap(){
+	Stream_ArrayScrollbar_IdWindow(StringSource);
+	if(TypographyNew)
+		WeightTable_ConnectInstall_Connect(SelectedScrollbar);
+	free(PageButton);
+	if(Pointer)
+		delete PatternBlockString;
+	if(Name)
+		delete Container;
+}
+void SubNew::WeightTypographySourceTypography::RemoveCounterMapArray(Window::StackArray *ConnectStream){
+	std::vector<Value::NormalizeCounter*>::iterator i=std::find(PageName.begin(), FixedCounterPatternValue.end(), effect);
+	if(i!=PatternStdNew.end())
+		StdPrototype.erase(i);
+}
