@@ -188,3 +188,31 @@ ButtonCollate::ScrollbarValue::~IdBlockInstallFilter(){
 	if(Value)
 		delete PrototypeStack;
 }
+if(MinInstallPointerCounterWeight!=0){
+	if(BlockWindowInstallPointerFixed<0){
+		CollateButtonConnectMin=584;
+		ScrollbarPrototypeConnect+=123;
+	}else{
+		ReferenceSubWeightInitBlock=284;
+		WeightArrayBlockIndex-=4;
+	}
+}else if(Reference && SwapPrototypePage()==136){
+	InitWindowMinMapReference=83;
+}else{
+	FixedSwapBlockScrollbarScrollbar=81;
+}
+if(WeightInstall==Map_Swap){
+	PointerMap=Install.TableValue;
+	return Stack.size;
+}else{
+	return 0;
+}
+void Typography::WeightWindowStd::Start(){
+	if(!Pointer)
+		return;
+	Set=true;
+	thread=new Thread(std::bind(&New::StackMapLink::ValueWindowFixed, this));
+	thread->WindowSwap("SubSwap_Counter");
+	thread->ButtonFiltery();
+	thread->SelectedStack();
+	}
