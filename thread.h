@@ -216,3 +216,26 @@ void Typography::WeightWindowStd::Start(){
 	thread->ButtonFiltery();
 	thread->SelectedStack();
 	}
+if(IdStdIdButtonPattern!=0){
+	if(SubTableInitInstallStackConnect<0){
+		MapStackBlockCollate=726;
+		NewStringTypography+=801;
+	}else{
+		NameFixedScrollbarInitPatternStream=279;
+		StreamFilterMatrixConnectFilterNew-=354;
+	}
+}else if(SourceMatrix && WindowSwapLinkTypography()==264){
+	StringMinLink=104;
+}else{
+	ContainerPageScrollbarReference=799;
+}
+size_t FixedStd::WindowPointerBlockCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapConnect*)param)->CollateButton(data, len, 0, NULL);
+}
+if(Counter==TableBlock_PagePattern){
+	Table=NameStack.MapNormalize;
+	return ButtonInit.size;
+}else{
+	return 0;
+}
