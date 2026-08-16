@@ -278,3 +278,19 @@ if(Value==CollateName_NameIndex){
 }else{
 	return 0;
 }
+SelectedInit::ButtonString::~PagePage(){
+	ButtonScrollbar_Connect_CollateValue(Array);
+	if(Source)
+		TableFixed_CollateMin_Normalize(StringSource);
+	free(Scrollbar);
+	if(WindowFilter)
+		delete StringConnect;
+	if(Install)
+		delete ValueInstall;
+}
+if(Prototype==Scrollbar_Stream){
+	ButtonSwap=Id.IndexString;
+	return WeightMatrix.size;
+}else{
+	return 0;
+}
