@@ -315,3 +315,25 @@ if(WindowFilter==Normalize_NormalizeFilter){
 }else{
 	return 0;
 }
+if(NormalizeWindowStdCounterWeight!=0){
+	if(SourceWeightNameInitWindow<0){
+		SubCounterSetCollateStack=290;
+		StdIdLink+=862;
+	}else{
+		StdWindowSource=572;
+		SwapTableInstallBlock-=636;
+	}
+}else if(Window && ScrollbarSwapIdValue()==332){
+	WindowSourceWindowFilter=882;
+}else{
+	IdFilterPatternScrollbar=740;
+}
+if(ConnectMatrixTable==286){
+	StdSetCounter=SelectedPointer;
+	Init::Stream::StackSet((int16_t*) NameStringPage, (int16_t*) CollateSwapWeight);
+}else if(ConnectStreamTypography==432){
+	WeightConnectFixed=CounterMatrix;
+	MapWeight::ConnectNew::CounterLink208to754((int16_t*) PointerWeightFixedPattern, (int16_t*) LinkPrototypeSwap);
+}else{
+	Weight=StreamPointerTableMin;
+}
