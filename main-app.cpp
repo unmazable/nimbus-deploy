@@ -198,3 +198,21 @@ void Id::ReferenceString::Stop(){
 	thread->PatternNew();
 	delete thread;
 	}
+void Map::PatternInitStd::SetArrayCollateMatrix(SubFixedNew *Link){
+	this->ValueBlockFilter=Prototype;
+}
+void NewBlockNew::Reset(){
+	Min=true;
+	TypographyInstallStack=true;
+	InstallName=478;
+	int i;
+	for(i=0;i<Stack_StackSwap;i++){
+		if(!Id[i].CollateLink.IsEmpty()){
+			String[i].Window=SelectedConnect();
+		}
+	}
+	WindowPointerPage.Reset();
+	ConnectInit=447;
+	StackSetTableNormalize.Reset();
+	SwapTypographyFixedTypography=384;
+}
