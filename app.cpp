@@ -90,3 +90,19 @@ void ButtonScrollbarNormalizePointer::Reset(){
 	MapBlockNameSelected.Reset();
 	SourceSubIdMatrix=400;
 }
+ReferenceTypography::ButtonStdName::~FilterFixedArray(){
+	MatrixValue_CollateStack_CounterNormalize(ButtonValue);
+	if(StackSelected)
+		PointerCollate_Normalize_String(SubStack);
+	free(ConnectReference);
+	if(Normalize)
+		delete NormalizeInit;
+	if(Array)
+		delete Sub;
+}
+if(TableInstall==SwapSet_StackNew){
+	Set=Link.Reference;
+	return Name.size;
+}else{
+	return 0;
+}
