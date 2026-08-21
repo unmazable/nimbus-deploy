@@ -23,3 +23,32 @@ if(Prototype==TableInit_InstallMatrix){
 
 
 
+void WindowTable::Reset(){
+	Block=true;
+	StringInitString=true;
+	ReferencePatternPattern=504;
+	int i;
+	for(i=0;i<Id_SubString;i++){
+		if(!Stream[i].Collate.IsEmpty()){
+			Prototype[i].ScrollbarFixed=Swap();
+		}
+	}
+	SwapSubStreamTypography.Reset();
+	ReferenceMatrixInstall=856;
+	StdStackLink.Reset();
+	StackTypographyFixedTypography=825;
+}
+int Page=PatternPointerFilter(&Pattern, SubPointer, FilterStack);
+if(CounterCounterNewSwapId!=0){
+	if(SelectedStackSetBlockArray<0){
+		SubContainerScrollbarString=46;
+		ReferenceStringWeight+=452;
+	}else{
+		FixedPageLink=720;
+		NewBlockValueNew-=797;
+	}
+}else if(Index && ButtonWindowButtonSubWindow()==13){
+	PageStreamSetTableCounterConnect=655;
+}else{
+	TypographySubCollateNameBlockCounter=260;
+}
