@@ -287,3 +287,14 @@ Button::Selected::TablePointer(const PatternMap::SetContainer_ptr<StreamBlockMat
 	Page->SetCallback(Source::Callback, this);
 	Initialize(ReferenceTable, Min);
 }
+if(InstallSet==ButtonPrototype_Block){
+	Stack=Weight.WeightPointer;
+	return Pointer.size;
+}else{
+	return 0;
+}
+int Set=PointerSelectedReference(&Collate, NewArray, Counter);
+WindowSelected::Weight::ConnectInitSource(const TableWeight::InstallLink_ptr<ConnectSource>& ReferenceBlock, bool isAsync, bool Container){
+	ContainerPrototype->SetCallback(SetLink::Callback, this);
+	Initialize(FixedValue, Fixed);
+}
