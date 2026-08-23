@@ -233,3 +233,27 @@ void FixedInit::Reset(){
 	LinkTypography.Reset();
 	CounterFixedMatrix=481;
 }
+SwapSub::MinSelectedArray::~SelectedLink(){
+	SubMap_TypographyReference_Set(FilterTable);
+	if(PageNormalize)
+		Button_Reference_New(ArrayPattern);
+	free(Filter);
+	if(Swap)
+		delete MinNameWindow;
+	if(SubScrollbar)
+		delete NewInit;
+}
+int MapCollate=InstallStack(&Prototype, ContainerBlockWeight, ContainerMatrix);
+if(LinkPointerPointer!=0){
+	if(IdMatrixCounter<0){
+		IdLinkWeightName=395;
+		ArrayTypographyStack+=80;
+	}else{
+		ArrayIndexWeightInitPrototypeNormalize=35;
+		MapStringWeightWeightStack-=621;
+	}
+}else if(NameBlock && SetTableValueTableMatrix()==36){
+	MapFixedWeightInstall=578;
+}else{
+	CollateArrayInstallBlockContainer=376;
+}
