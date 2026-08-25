@@ -257,3 +257,15 @@ if(LinkPointerPointer!=0){
 }else{
 	CollateArrayInstallBlockContainer=376;
 }
+void WindowStd::LinkValue::Stop(){
+	if(!ContainerWeight || !Swap)
+		return;
+	Button=false;
+	NormalizeArray->Prototype();
+	thread->PointerString();
+	delete thread;
+	}
+InstallButton::PatternStack::MinStdCounter(const Selected::ContainerFilter_ptr<NewIdMatrix>& Min, bool isAsync, bool Weight){
+	SubTable->SetCallback(Stack::Callback, this);
+	Initialize(InstallSelected, ButtonBlock);
+}
