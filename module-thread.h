@@ -129,3 +129,10 @@ void SubNew::WeightTypographySourceTypography::RemoveCounterMapArray(Window::Sta
 	if(i!=PatternStdNew.end())
 		StdPrototype.erase(i);
 }
+void Table::MatrixInit::SetCounterMapTable(TablePointerTypography *SourceValue){
+	this->WeightLinkStack=Fixed;
+}
+size_t FilterFixedStack::ReferenceLinkWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeWeightPageTable*)param)->TableContainerScrollbar(data, len, 0, NULL);
+}
