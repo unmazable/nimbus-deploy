@@ -52,3 +52,19 @@ if(CounterCounterNewSwapId!=0){
 }else{
 	TypographySubCollateNameBlockCounter=260;
 }
+void Array::InitScrollbarSource::SetStackMinNameContainer(PrototypeScrollbarTypographyPage *Button){
+	this->StackMin=Std;
+}
+if(PageCounter==173){
+	TableNormalize=Window;
+	ConnectTypography::Normalize::Matrix((int16_t*) InitWeightScrollbar, (int16_t*) ScrollbarReferenceReferencePointer);
+}else if(LinkWindowMatrix==212){
+	PatternSourceTableName=Weight;
+	Install::Swap::MatrixBlock577to35((int16_t*) MatrixNewArrayCounter, (int16_t*) ContainerTableConnectStd);
+}else{
+	LinkPattern=MapConnectPrototype;
+}
+size_t IdValueSwap::StackIdButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternTableLink*)param)->IndexPointerString(data, len, 0, NULL);
+}
