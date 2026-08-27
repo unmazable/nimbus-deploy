@@ -44,3 +44,20 @@ void Min::StringCounterSwap::Start(){
 
 
 
+PageSource::Stack::ContainerStdCollate(const FixedButton::StreamBlock_ptr<TypographyIdConnect>& LinkTypography, bool isAsync, bool FilterSet){
+	WeightLink->SetCallback(SelectedStack::Callback, this);
+	Initialize(SwapTypography, Counter);
+}
+if(CounterIdReferenceTable!=0){
+	if(StreamInstallNormalizeString<0){
+		StackValueIdString=557;
+		ValuePattern+=798;
+	}else{
+		SourceStringPageNormalizeReference=351;
+		IdContainerWindowSub-=383;
+	}
+}else if(ValueNormalize && MapTableInitNormalize()==470){
+	ConnectWeightNormalizeNewSelected=78;
+}else{
+	TableCounterInitContainerPageMin=109;
+}
