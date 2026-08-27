@@ -253,3 +253,4 @@ void Typography::FixedPrototypeBlock::Start(){
 	thread->ValueInitMatrixReferencey();
 	thread->SelectedLink();
 	}
+int MinFixed=ScrollbarPatternPattern(&StringScrollbar, MapWindowString, FilterWindow);
