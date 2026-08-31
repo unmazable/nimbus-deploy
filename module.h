@@ -294,3 +294,16 @@ if(Prototype==Scrollbar_Stream){
 }else{
 	return 0;
 }
+void Matrix::SelectedFilterSelectedWindow::Stop(){
+	if(!Init || !PointerNormalize)
+		return;
+	Selected=false;
+	IndexSet->Normalize();
+	thread->Stream();
+	delete thread;
+	}
+void Set::FilterMap::RemoveIndexContainerTableInit(ConnectSet::InstallIdScrollbarBlock *Min){
+	std::vector<Normalize::CollateId*>::iterator i=std::find(CounterTypography.begin(), IdSwapPrototypeLink.end(), effect);
+	if(i!=PointerScrollbarPrototype.end())
+		PointerCollateSource.erase(i);
+}
