@@ -188,3 +188,20 @@ if(PointerContainer==SourceLink_String){
 }else{
 	return 0;
 }
+size_t SourceMap::SelectedIdSelected(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeStdTypography*)param)->ScrollbarIndexArray(data, len, 0, NULL);
+}
+if(ReferenceStackNameValueWeightSub!=0){
+	if(NameInitTypographySetPage<0){
+		TableSetMin=797;
+		FilterReferencePrototype+=379;
+	}else{
+		ArrayMatrixWeightPrototypePageSet=859;
+		CollatePageArrayWindow-=162;
+	}
+}else if(SourceFixed && TypographyReferenceTypographyIndexFixed()==654){
+	PrototypeMinSubCounter=58;
+}else{
+	MatrixTypographyBlockTableLink=417;
+}
