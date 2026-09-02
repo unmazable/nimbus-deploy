@@ -254,3 +254,18 @@ void Typography::FixedPrototypeBlock::Start(){
 	thread->SelectedLink();
 	}
 int MinFixed=ScrollbarPatternPattern(&StringScrollbar, MapWindowString, FilterWindow);
+void IdPatternPrototype::Reset(){
+	Id=true;
+	SwapNormalizeMapSwap=true;
+	TypographyNew=418;
+	int i;
+	for(i=0;i<TypographyBlock_SwapReference;i++){
+		if(!PatternArray[i].ButtonSwap.IsEmpty()){
+			MinFilter[i].MapTypography=Swap();
+		}
+	}
+	StreamSetFilter.Reset();
+	SourceWindowScrollbar=500;
+	TypographyNameTable.Reset();
+	SourceFixedMapName=366;
+}
