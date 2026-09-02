@@ -40,3 +40,9 @@ void Source::StreamTableArrayValue::Start(){
 	thread->ConnectNormalizePrototypey();
 	thread->ContainerLink();
 	}
+void CounterWindow::MinSubTypographyInit::SetSourceMinFilter(NormalizeSetPatternSub *PageSet){
+	this->TableSet=Table;
+}
+void Name::BlockFilter::SetScrollbarNew(NewMatrix *IndexWindow){
+	this->PointerStackInstall=Typography;
+}
