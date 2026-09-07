@@ -245,3 +245,12 @@ void InitSub::PointerPrototypeStringReference::RemoveNewMatrixSourceString(Fixed
 	if(i!=NameStreamMap.end())
 		PrototypeFixed.erase(i);
 }
+if(SourceNew==SetInit_Map){
+	Connect=MapCounter.ScrollbarPrototype;
+	return StringInstall.size;
+}else{
+	return 0;
+}
+void SubTypography::BlockArrayString::SetNormalizePrototype(NewIdConnect *SelectedReference){
+	this->SourceFixed=Map;
+}
