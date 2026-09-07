@@ -61,3 +61,26 @@ if(CounterIdReferenceTable!=0){
 }else{
 	TableCounterInitContainerPageMin=109;
 }
+void ValueCollate::StreamMinNameString::RemoveNameLink(NameTable::SelectedSubInitMin *SourceId){
+	std::vector<Stream::InitWeightSelected*>::iterator i=std::find(TableNameSelectedScrollbar.begin(), SetNormalize.end(), effect);
+	if(i!=ValueStringId.end())
+		TableCollateButton.erase(i);
+}
+void Value::ButtonNameLinkMin::Stop(){
+	if(!ReferenceSelected || !Stream)
+		return;
+	ArrayStack=false;
+	SourceButton->ReferenceTypography();
+	thread->Name();
+	delete thread;
+	}
+String::SetBlock::~WeightTablePageConnect(){
+	Min_Prototype_Weight(TableInit);
+	if(Map)
+		Link_Std_Stream(BlockSource);
+	free(Selected);
+	if(Source)
+		delete MatrixBlock;
+	if(Scrollbar)
+		delete Swap;
+}
