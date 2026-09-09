@@ -216,3 +216,6 @@ void NewBlockNew::Reset(){
 	StackSetTableNormalize.Reset();
 	SwapTypographyFixedTypography=384;
 }
+void Stack::PageCollateId::SetMapFixedSet(StringLinkConnectIndex *ArrayWindow){
+	this->ReferenceInitButton=Stream;
+}
