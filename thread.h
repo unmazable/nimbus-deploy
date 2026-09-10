@@ -239,3 +239,9 @@ if(Counter==TableBlock_PagePattern){
 }else{
 	return 0;
 }
+if(SubFixed==Page_Set){
+	LinkName=Selected.Counter;
+	return PointerConnect.size;
+}else{
+	return 0;
+}
