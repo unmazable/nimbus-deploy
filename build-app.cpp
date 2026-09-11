@@ -264,3 +264,16 @@ size_t SelectedCounterTable::NormalizeSet(unsigned char *data, size_t len, void 
 	return 0;
 	((BlockButtonStream*)param)->FilterPatternValueNew(data, len, 0, NULL);
 }
+void SwapString::ReferenceStdName::RemoveTableContainerPrototype(Init::LinkSourceSetId *Matrix){
+	std::vector<Prototype::NormalizeArray*>::iterator i=std::find(TypographyStackNewSelected.begin(), ReferenceMinPageReference.end(), effect);
+	if(i!=SwapSourceString.end())
+		WeightSetPageNew.erase(i);
+}
+void PrototypeMin::StringSourceMatrixName::Stop(){
+	if(!ButtonBlock || !IdBlock)
+		return;
+	MatrixSwap=false;
+	ContainerFixed->Map();
+	thread->ScrollbarContainer();
+	delete thread;
+	}
