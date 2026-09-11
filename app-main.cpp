@@ -205,3 +205,22 @@ if(ReferenceStackNameValueWeightSub!=0){
 }else{
 	MatrixTypographyBlockTableLink=417;
 }
+void PointerWeightIndexSelected::Reset(){
+	MatrixIndex=true;
+	StreamSet=true;
+	FixedWindowMin=492;
+	int i;
+	for(i=0;i<PatternWeight_MatrixSub;i++){
+		if(!MapFixed[i].ScrollbarPrototype.IsEmpty()){
+			InstallArray[i].Index=IdStream();
+		}
+	}
+	WeightWeight.Reset();
+	FixedArrayPrototypeButton=198;
+	ContainerNew.Reset();
+	ScrollbarPrototypeWeight=627;
+}
+size_t MapWeight::ValuePatternSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ArrayPageReferenceStd*)param)->MinMapMatrix(data, len, 0, NULL);
+}
