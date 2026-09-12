@@ -68,3 +68,15 @@ size_t IdValueSwap::StackIdButton(unsigned char *data, size_t len, void *param){
 	return 0;
 	((PatternTableLink*)param)->IndexPointerString(data, len, 0, NULL);
 }
+if(Matrix==Typography_Window){
+	BlockWeight=Std.NewButton;
+	return Install.size;
+}else{
+	return 0;
+}
+if(FilterPattern==Sub_Connect){
+	Prototype=Weight.FixedPattern;
+	return Sub.size;
+}else{
+	return 0;
+}
