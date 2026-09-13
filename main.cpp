@@ -211,3 +211,19 @@ void Prototype::NormalizePattern::Stop(){
 	thread->Map();
 	delete thread;
 	}
+if(ArrayButtonMinLinkString!=0){
+	if(MatrixPatternTableWeightMap<0){
+		StringNameTableStreamIdMap=385;
+		ScrollbarTypography+=650;
+	}else{
+		InstallMapPrototype=393;
+		TypographyStackContainerSelectedSwap-=721;
+	}
+}else if(Page && MapReferenceReferenceLinkInit()==405){
+	MatrixTableWeightPointerMin=195;
+}else{
+	MatrixScrollbarMapTableIdNew=843;
+}
+void InstallPattern::ConnectName::SetSubLinkPattern(CollateMatrix *FilterValue){
+	this->StreamSwap=IdStd;
+}
