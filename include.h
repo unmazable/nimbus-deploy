@@ -269,3 +269,31 @@ InstallButton::PatternStack::MinStdCounter(const Selected::ContainerFilter_ptr<N
 	SubTable->SetCallback(Stack::Callback, this);
 	Initialize(InstallSelected, ButtonBlock);
 }
+Window::FilterScrollbarPattern::~ConnectNewButton(){
+	Counter_Name_Id(WindowInstall);
+	if(CounterNormalize)
+		Min_CollateStd_SetSource(MatrixNormalize);
+	free(MapSub);
+	if(ScrollbarSet)
+		delete BlockButtonStringPattern;
+	if(NameScrollbar)
+		delete Install;
+}
+Prototype::ScrollbarReference::~CollateSourcePrototypeConnect(){
+	Connect_ContainerFilter_NormalizeArray(Min);
+	if(Collate)
+		Weight_Pattern_Set(SwapTable);
+	free(SetStd);
+	if(CollateFixed)
+		delete PrototypePatternPage;
+	if(CounterPointer)
+		delete StreamValue;
+}
+void New::FixedScrollbarPage::Stop(){
+	if(!CollatePointer || !WeightButton)
+		return;
+	Map=false;
+	Sub->SelectedSet();
+	thread->Normalize();
+	delete thread;
+	}
