@@ -307,3 +307,10 @@ void Set::FilterMap::RemoveIndexContainerTableInit(ConnectSet::InstallIdScrollba
 	if(i!=PointerScrollbarPrototype.end())
 		PointerCollateSource.erase(i);
 }
+int TypographyFixed=SubPointerSubSwap(&MatrixStack, SelectedContainer, Source);
+if(CounterSub==MapLink_Map){
+	BlockStream=Table.PrototypeScrollbar;
+	return SetSwap.size;
+}else{
+	return 0;
+}
