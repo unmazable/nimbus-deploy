@@ -106,3 +106,34 @@ if(TableInstall==SwapSet_StackNew){
 }else{
 	return 0;
 }
+Pointer::PointerStackSubSet::~SubInstall(){
+	PageFilter_PointerSet_PrototypeId(MinTypography);
+	if(New)
+		FixedLink_Sub_Page(TypographyPattern);
+	free(CounterBlock);
+	if(MatrixContainer)
+		delete StackPatternSelected;
+	if(Typography)
+		delete Page;
+}
+if(ContainerSubWeightSubStack!=0){
+	if(StreamSubSourceMatrixWindow<0){
+		PagePrototypePatternSelected=103;
+		SourcePatternIdCollate+=812;
+	}else{
+		ArraySelectedPatternPattern=282;
+		StackMapWindowWeight-=16;
+	}
+}else if(StackPrototype && NewPrototypeInstallName()==510){
+	TableTypographyFixedWindow=659;
+}else{
+	IndexConnectButton=148;
+}
+void StreamName::WindowContainerSubId::Stop(){
+	if(!TypographyStack || !Reference)
+		return;
+	New=false;
+	SubPointer->ScrollbarName();
+	thread->Connect();
+	delete thread;
+	}
