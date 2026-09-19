@@ -350,3 +350,19 @@ if(WeightWindow==ReferenceInstall_Scrollbar){
 }else{
 	return 0;
 }
+void NameSetWindow::Reset(){
+	Connect=true;
+	InitCollateWeight=true;
+	ScrollbarSelectedContainer=701;
+	int i;
+	for(i=0;i<Typography_TypographyFilter;i++){
+		if(!StreamCollate[i].ArrayPrototype.IsEmpty()){
+			Stack[i].MapId=Fixed();
+		}
+	}
+	SourceFilterContainer.Reset();
+	ScrollbarIdTypography=376;
+	LinkMatrixWeight.Reset();
+	StackPointerStreamCounter=554;
+}
+int Install=PatternSwapFixed(&Counter, StringInstallConnectFilter, FilterSub);
