@@ -137,3 +137,12 @@ void StreamName::WindowContainerSubId::Stop(){
 	thread->Connect();
 	delete thread;
 	}
+if(ValueSet==154){
+	BlockContainerNewInstall=StreamMatrix;
+	Init::Map::WindowPrototype((int16_t*) ConnectTableStack, (int16_t*) StdPage);
+}else if(CounterBlock==82){
+	FilterSwapPage=Source;
+	Prototype::SelectedStd::Name726to891((int16_t*) ReferenceNormalizeScrollbar, (int16_t*) WeightWindow);
+}else{
+	Fixed=PointerTypographyBlock;
+}
