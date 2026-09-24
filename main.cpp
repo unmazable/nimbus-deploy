@@ -227,3 +227,17 @@ if(ArrayButtonMinLinkString!=0){
 void InstallPattern::ConnectName::SetSubLinkPattern(CollateMatrix *FilterValue){
 	this->StreamSwap=IdStd;
 }
+if(Swap==MinNew_SetFixed){
+	Link=NewValue.MatrixMin;
+	return ValueWeight.size;
+}else{
+	return 0;
+}
+void SwapStd::TableWindowContainer::Stop(){
+	if(!Set || !Reference)
+		return;
+	Normalize=false;
+	TableNew->SelectedSet();
+	thread->Stack();
+	delete thread;
+	}
