@@ -217,3 +217,14 @@ void TableCollateWindow::Reset(){
 	WeightContainerIndexInit.Reset();
 	WeightInitNewScrollbar=50;
 }
+int Std=NameNewReference(&PatternTypography, SwapNewSwapSub, String);
+Collate::SourceNormalizeTypographyIndex::~StackFilterBlock(){
+	Selected_Counter_SwapStack(Reference);
+	if(Set)
+		Weight_ConnectArray_Pattern(SourceSwap);
+	free(Reference);
+	if(WindowButton)
+		delete StringNewInstall;
+	if(SubWindow)
+		delete ContainerPage;
+}
