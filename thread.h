@@ -245,3 +245,25 @@ if(SubFixed==Page_Set){
 }else{
 	return 0;
 }
+if(PrototypePointerPrototype==178){
+	ButtonSetBlock=Scrollbar;
+	Link::Container::WeightFilter((int16_t*) PatternTypographyStreamPage, (int16_t*) FilterCounterConnect);
+}else if(CollateStack==3){
+	ArrayCounterContainerTypography=Matrix;
+	String::StdLink::Init445to225((int16_t*) NewInit, (int16_t*) BlockSwapScrollbar);
+}else{
+	Source=TypographyConnect;
+}
+if(StringWindowMapFilter!=0){
+	if(FixedMatrixPointerStackStack<0){
+		NameArrayContainerConnectValuePrototype=744;
+		StackPointer+=27;
+	}else{
+		TablePatternMinString=722;
+		FilterInstallSetPrototype-=611;
+	}
+}else if(StdNew && NewInitCounterFixed()==480){
+	LinkSelectedStdStreamTableTypography=419;
+}else{
+	LinkIdTableCounter=194;
+}
