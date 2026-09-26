@@ -136,3 +136,15 @@ size_t FilterFixedStack::ReferenceLinkWindow(unsigned char *data, size_t len, vo
 	return 0;
 	((PrototypeWeightPageTable*)param)->TableContainerScrollbar(data, len, 0, NULL);
 }
+void Id::TableArrayBlockStack::SetSourceMapScrollbarIndex(NormalizeMinSub *Sub){
+	this->SelectedInstall=MinBlock;
+}
+if(FilterPrototypeArrayName==67){
+	IndexPageIndexPattern=Collate;
+	New::NameScrollbar::NewName((int16_t*) MapTypography, (int16_t*) WindowSwapInit);
+}else if(PointerStackName==345){
+	SourceNameFixedCollate=Id;
+	NameStream::MinMatrix::StringBlock33to463((int16_t*) CounterMinTypographyInstall, (int16_t*) WindowSelected);
+}else{
+	NewSource=ReferenceNewMap;
+}
