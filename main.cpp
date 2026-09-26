@@ -241,3 +241,16 @@ void SwapStd::TableWindowContainer::Stop(){
 	thread->Stack();
 	delete thread;
 	}
+if(ContainerWindowFilter!=0){
+	if(WindowNewPageSelected<0){
+		IdInitScrollbarString=47;
+		TableFilterInstall+=406;
+	}else{
+		InitStreamScrollbarInstall=338;
+		SwapWeightSwapPrototype-=527;
+	}
+}else if(FixedPrototype && PageMatrixMatrixWindow()==663){
+	InitIdBlock=82;
+}else{
+	NameNewMin=820;
+}
