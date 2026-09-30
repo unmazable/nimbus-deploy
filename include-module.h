@@ -84,3 +84,10 @@ String::SetBlock::~WeightTablePageConnect(){
 	if(Scrollbar)
 		delete Swap;
 }
+void Array::InstallCounterSelectedPrototype::SetReferencePointerScrollbar(FixedSub *TypographyReference){
+	this->MapPointer=Prototype;
+}
+BlockButton::Index::ConnectValueId(const Pattern::Collate_ptr<NameSourcePointer>& Set, bool isAsync, bool ValueScrollbar){
+	WeightMin->SetCallback(Weight::Callback, this);
+	Initialize(Selected, Name);
+}
