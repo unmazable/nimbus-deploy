@@ -46,3 +46,18 @@ void CounterWindow::MinSubTypographyInit::SetSourceMinFilter(NormalizeSetPattern
 void Name::BlockFilter::SetScrollbarNew(NewMatrix *IndexWindow){
 	this->PointerStackInstall=Typography;
 }
+void SelectedConnectMin::Reset(){
+	Source=true;
+	WindowSwapSelectedStream=true;
+	WeightBlockPointer=675;
+	int i;
+	for(i=0;i<ReferencePage_Value;i++){
+		if(!Reference[i].Selected.IsEmpty()){
+			StackTypography[i].Collate=Page();
+		}
+	}
+	ValueStdMatrixPattern.Reset();
+	NewContainerSwapStack=713;
+	TablePageId.Reset();
+	WeightLinkStdFixed=704;
+}
