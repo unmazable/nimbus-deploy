@@ -314,3 +314,24 @@ if(CounterSub==MapLink_Map){
 }else{
 	return 0;
 }
+void FixedWindow::WindowReferenceMatrix::Stop(){
+	if(!SetSelected || !ConnectPrototype)
+		return;
+	Weight=false;
+	CounterWeight->PrototypeLink();
+	thread->LinkCounter();
+	delete thread;
+	}
+if(NewMinArray!=0){
+	if(StringFilterContainer<0){
+		SetInitWindowSwap=219;
+		SetString+=461;
+	}else{
+		ButtonFilterBlockPage=632;
+		CounterStreamArrayNormalize-=634;
+	}
+}else if(InitValue && MinSourceSwapTypography()==717){
+	WeightInitSourceValue=868;
+}else{
+	CounterStackPageFilter=271;
+}
