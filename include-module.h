@@ -91,3 +91,11 @@ BlockButton::Index::ConnectValueId(const Pattern::Collate_ptr<NameSourcePointer>
 	WeightMin->SetCallback(Weight::Callback, this);
 	Initialize(Selected, Name);
 }
+void CollateBlock::MatrixConnectPrototypeNew::Stop(){
+	if(!String || !Name)
+		return;
+	Counter=false;
+	ConnectFixed->Array();
+	thread->NormalizeValue();
+	delete thread;
+	}
