@@ -204,3 +204,6 @@ void TypographyArray::BlockPrototype::Start(){
 	thread->TypographyInstally();
 	thread->SourceSwap();
 	}
+void Link::SourceButtonSwap::SetPointerPatternPattern(CollateMapPattern *Link){
+	this->SwapPatternStackCounter=Typography;
+}
