@@ -254,3 +254,12 @@ if(SourceNew==SetInit_Map){
 void SubTypography::BlockArrayString::SetNormalizePrototype(NewIdConnect *SelectedReference){
 	this->SourceFixed=Map;
 }
+void FixedLink::BlockMatrix::Start(){
+	if(!ReferenceArray)
+		return;
+	NormalizePrototype=true;
+	thread=new Thread(std::bind(&Table::FixedWeightMatrix::ArrayArray, this));
+	thread->LinkFilterFilter("ValueWindow_NormalizeSet");
+	thread->InstallFixedSourcey();
+	thread->Map();
+	}
