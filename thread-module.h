@@ -298,3 +298,9 @@ WindowSelected::Weight::ConnectInitSource(const TableWeight::InstallLink_ptr<Con
 	ContainerPrototype->SetCallback(SetLink::Callback, this);
 	Initialize(FixedValue, Fixed);
 }
+if(ContainerMin==PrototypeString_PrototypeStream){
+	StreamContainer=Id.Value;
+	return Pattern.size;
+}else{
+	return 0;
+}
