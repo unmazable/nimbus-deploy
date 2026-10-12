@@ -146,3 +146,7 @@ if(ValueSet==154){
 }else{
 	Fixed=PointerTypographyBlock;
 }
+ConnectNew::SubInstall::StackSource(const MatrixInstall::Min_ptr<BlockInitIndex>& ArrayButton, bool isAsync, bool PatternStd){
+	FixedFilter->SetCallback(MatrixLink::Callback, this);
+	Initialize(Button, ScrollbarStream);
+}
