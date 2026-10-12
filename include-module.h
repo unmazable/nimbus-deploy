@@ -99,3 +99,17 @@ void CollateBlock::MatrixConnectPrototypeNew::Stop(){
 	thread->NormalizeValue();
 	delete thread;
 	}
+void New::StreamSourceCounter::Stop(){
+	if(!ScrollbarConnect || !Id)
+		return;
+	Id=false;
+	ReferenceBlock->MatrixStd();
+	thread->NewId();
+	delete thread;
+	}
+if(InstallScrollbar==Sub_TypographyReference){
+	Window=WindowStream.MinSet;
+	return SourceFilter.size;
+}else{
+	return 0;
+}
