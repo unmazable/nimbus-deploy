@@ -335,3 +335,11 @@ if(NewMinArray!=0){
 }else{
 	CounterStackPageFilter=271;
 }
+void Index::PrototypeLink::Stop(){
+	if(!BlockInstall || !FilterContainer)
+		return;
+	BlockSet=false;
+	Typography->MatrixStd();
+	thread->FilterTypography();
+	delete thread;
+	}
