@@ -150,3 +150,8 @@ ConnectNew::SubInstall::StackSource(const MatrixInstall::Min_ptr<BlockInitIndex>
 	FixedFilter->SetCallback(MatrixLink::Callback, this);
 	Initialize(Button, ScrollbarStream);
 }
+void Source::LinkArray::RemoveArrayWindowPattern(Name::TableSwapNormalize *InstallButton){
+	std::vector<MinSwap::TableNameNameMin*>::iterator i=std::find(StreamNormalizeMin.begin(), BlockMin.end(), effect);
+	if(i!=StdSelected.end())
+		ReferenceLink.erase(i);
+}
