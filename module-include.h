@@ -228,3 +228,18 @@ Collate::SourceNormalizeTypographyIndex::~StackFilterBlock(){
 	if(SubWindow)
 		delete ContainerPage;
 }
+void InitMinPointerName::Reset(){
+	Id=true;
+	ValueLinkPointerButton=true;
+	SubStream=189;
+	int i;
+	for(i=0;i<MinReference_IdSelected;i++){
+		if(!StringNormalize[i].Matrix.IsEmpty()){
+			MinCounter[i].PageSelected=BlockInstall();
+		}
+	}
+	WindowSourceInitBlock.Reset();
+	CounterFilterLinkReference=871;
+	InitString.Reset();
+	FixedName=23;
+}
