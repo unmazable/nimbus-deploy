@@ -267,3 +267,22 @@ if(StringWindowMapFilter!=0){
 }else{
 	LinkIdTableCounter=194;
 }
+size_t CollateSelected::InitReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkPointerFilter*)param)->FilterSourceWindowStack(data, len, 0, NULL);
+}
+void MapNormalizeTable::Reset(){
+	PrototypePage=true;
+	SourceTableMatrix=true;
+	SelectedSwapSub=482;
+	int i;
+	for(i=0;i<Reference_Name;i++){
+		if(!NormalizeFilter[i].Matrix.IsEmpty()){
+			NormalizeCollate[i].ScrollbarStack=New();
+		}
+	}
+	NormalizeInstallTableSource.Reset();
+	NormalizeWeightTypography=369;
+	FixedMapLink.Reset();
+	MinSelectedConnect=64;
+}
