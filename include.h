@@ -297,3 +297,12 @@ void New::FixedScrollbarPage::Stop(){
 	thread->Normalize();
 	delete thread;
 	}
+void Button::IdSelectedStackLink::RemoveMatrixButtonIdPattern(MinSelected::CounterStream *SetReference){
+	std::vector<Block::MatrixMinButton*>::iterator i=std::find(ButtonMapNormalize.begin(), MinReferenceMatrix.end(), effect);
+	if(i!=StreamScrollbarReferenceMap.end())
+		MapTableSelected.erase(i);
+}
+size_t SelectedContainerMap::TableInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ConnectStringStream*)param)->MinNormalize(data, len, 0, NULL);
+}
