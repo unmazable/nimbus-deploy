@@ -113,3 +113,25 @@ if(InstallScrollbar==Sub_TypographyReference){
 }else{
 	return 0;
 }
+void ValueString::PrototypeStringNewInit::Start(){
+	if(!PrototypeFixed)
+		return;
+	String=true;
+	thread=new Thread(std::bind(&Index::SubSelectedSwapContainer::PrototypeBlock, this));
+	thread->LinkNewPointerPrototype("Selected_IndexNormalize");
+	thread->WindowCollatey();
+	thread->Id();
+	}
+if(BlockPageCounter!=0){
+	if(FilterCounterScrollbarReference<0){
+		StreamStackFilterSub=703;
+		MinNewMinLink+=563;
+	}else{
+		TypographySelectedScrollbarWeight=110;
+		WeightTypographyLinkSourcePrototypeString-=706;
+	}
+}else if(LinkTable && SubStringMapConnect()==296){
+	LinkButtonNameMatrix=447;
+}else{
+	SwapSubPattern=651;
+}
