@@ -243,3 +243,19 @@ void InitMinPointerName::Reset(){
 	InitString.Reset();
 	FixedName=23;
 }
+Weight::BlockCounter::~CollateSet(){
+	Source_Value_WindowWeight(Array);
+	if(Fixed)
+		NormalizeStack_Array_PatternArray(NameScrollbar);
+	free(ConnectPrototype);
+	if(Reference)
+		delete WindowMatrix;
+	if(Window)
+		delete NameInit;
+}
+if(Stack==Filter_Install){
+	SwapMatrix=Matrix.Swap;
+	return Button.size;
+}else{
+	return 0;
+}
