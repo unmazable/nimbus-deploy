@@ -61,3 +61,16 @@ void SelectedConnectMin::Reset(){
 	TablePageId.Reset();
 	WeightLinkStdFixed=704;
 }
+if(WindowCounterSwap!=0){
+	if(NewSourcePointerCounterScrollbar<0){
+		NewWeightFilterId=287;
+		IdBlock+=703;
+	}else{
+		IdWeightCounterMin=725;
+		ButtonNameInit-=683;
+	}
+}else if(Std && PatternIdValueButtonWeight()==51){
+	StringStringContainerNameContainer=364;
+}else{
+	SelectedValueTableArrayFixed=418;
+}
