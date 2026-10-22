@@ -306,3 +306,15 @@ size_t SelectedContainerMap::TableInit(unsigned char *data, size_t len, void *pa
 	return 0;
 	((ConnectStringStream*)param)->MinNormalize(data, len, 0, NULL);
 }
+void Window::SwapFixed::Stop(){
+	if(!ButtonInit || !MinMap)
+		return;
+	CounterSelected=false;
+	BlockSub->Source();
+	thread->Filter();
+	delete thread;
+	}
+size_t NewPageMin::MinWeightPageMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PageStringReference*)param)->SwapSelected(data, len, 0, NULL);
+}
