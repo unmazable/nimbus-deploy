@@ -155,3 +155,13 @@ void Source::LinkArray::RemoveArrayWindowPattern(Name::TableSwapNormalize *Insta
 	if(i!=StdSelected.end())
 		ReferenceLink.erase(i);
 }
+Selected::SwapSubValue::~WindowPageCounter(){
+	SelectedWeight_NewStream_Block(BlockSwap);
+	if(SubNormalize)
+		Swap_Pattern_Value(Source);
+	free(ButtonMatrix);
+	if(Sub)
+		delete SetTypography;
+	if(Pointer)
+		delete Matrix;
+}
