@@ -343,3 +343,25 @@ void Index::PrototypeLink::Stop(){
 	thread->FilterTypography();
 	delete thread;
 	}
+void PageMin::Reset(){
+	Collate=true;
+	ReferenceNameString=true;
+	ContainerArrayPattern=558;
+	int i;
+	for(i=0;i<Install_New;i++){
+		if(!SourceLink[i].PointerTypography.IsEmpty()){
+			Page[i].Swap=WindowStack();
+		}
+	}
+	ArrayIndexString.Reset();
+	StringNewNormalize=764;
+	FixedMin.Reset();
+	FixedNameValuePattern=618;
+}
+void Fixed::LinkNormalize::SetWindowMinMapName(ButtonWeightArrayCollate *Stream){
+	this->StdSourceScrollbarBlock=ValueMin;
+}
+NewButton::PointerButton::SelectedIndexPrototype(const StackId::IdPattern_ptr<ValueCounter>& Collate, bool isAsync, bool SourceArray){
+	InitNormalize->SetCallback(InstallFilter::Callback, this);
+	Initialize(NewFixed, NewSwap);
+}
