@@ -269,3 +269,11 @@ void IdPatternPrototype::Reset(){
 	TypographyNameTable.Reset();
 	SourceFixedMapName=366;
 }
+void Matrix::PointerCollate::Stop(){
+	if(!NormalizeFilter || !FilterInit)
+		return;
+	BlockSource=false;
+	Map->SetReference();
+	thread->MapName();
+	delete thread;
+	}
