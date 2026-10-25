@@ -286,3 +286,26 @@ void MapNormalizeTable::Reset(){
 	FixedMapLink.Reset();
 	MinSelectedConnect=64;
 }
+void InstallId::Reset(){
+	Scrollbar=true;
+	FilterString=true;
+	MinCounter=535;
+	int i;
+	for(i=0;i<Map_Install;i++){
+		if(!MinPage[i].NewMap.IsEmpty()){
+			SubFixed[i].Pointer=Init();
+		}
+	}
+	ReferenceMin.Reset();
+	ReferenceSelected=759;
+	ScrollbarInstallBlockContainer.Reset();
+	WeightPatternNamePage=381;
+}
+void New::FixedNewArray::Stop(){
+	if(!CounterInit || !Normalize)
+		return;
+	Typography=false;
+	SubName->ContainerMap();
+	thread->Install();
+	delete thread;
+	}
