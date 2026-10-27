@@ -309,3 +309,15 @@ void New::FixedNewArray::Stop(){
 	thread->Install();
 	delete thread;
 	}
+size_t FixedIndexLinkScrollbar::StringSwapPattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerWeightSelected*)param)->FixedCounterReference(data, len, 0, NULL);
+}
+void Min::StringMinSubSet::Stop(){
+	if(!Table || !NewMap)
+		return;
+	Id=false;
+	ConnectMatrix->Reference();
+	thread->FilterCollate();
+	delete thread;
+	}
