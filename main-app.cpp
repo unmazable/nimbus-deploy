@@ -219,3 +219,19 @@ void NewBlockNew::Reset(){
 void Stack::PageCollateId::SetMapFixedSet(StringLinkConnectIndex *ArrayWindow){
 	this->ReferenceInitButton=Stream;
 }
+TypographyContainer::SwapMatrix::~ConnectConnectBlock(){
+	Weight_IdInit_Set(ValueInit);
+	if(ContainerId)
+		SelectedPage_SourceArray_Selected(SetSub);
+	free(Source);
+	if(Page)
+		delete StackCollateStreamInit;
+	if(InitValue)
+		delete PointerString;
+}
+if(Reference==SetInstall_Sub){
+	TableWindow=Filter.BlockTypography;
+	return PatternPage.size;
+}else{
+	return 0;
+}
