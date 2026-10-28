@@ -318,3 +318,25 @@ size_t NewPageMin::MinWeightPageMatrix(unsigned char *data, size_t len, void *pa
 	return 0;
 	((PageStringReference*)param)->SwapSelected(data, len, 0, NULL);
 }
+if(ArrayMatrixInstall==610){
+	TableArraySourceMin=Connect;
+	MatrixTable::Reference::WindowSwap((int16_t*) MinMatrix, (int16_t*) PatternFilter);
+}else if(FixedContainerStack==360){
+	ValueMatrixSet=Set;
+	Value::Pointer::Collate156to591((int16_t*) TypographyArrayWindow, (int16_t*) CollatePatternMap);
+}else{
+	NormalizeCollate=SwapBlock;
+}
+if(TableFilterPatternNameScrollbar!=0){
+	if(NamePageContainerString<0){
+		ButtonScrollbarPageScrollbar=329;
+		FilterCounterReference+=567;
+	}else{
+		ReferencePageButtonSet=126;
+		WeightIndexFilterSelected-=106;
+	}
+}else if(Table && MinTableWeightIndexTable()==279){
+	StreamMapWeightFixed=121;
+}else{
+	CollateTypographyIdBlockWeight=123;
+}
