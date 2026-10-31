@@ -165,3 +165,30 @@ Selected::SwapSubValue::~WindowPageCounter(){
 	if(Pointer)
 		delete Matrix;
 }
+void ArrayMap::Reset(){
+	NewStream=true;
+	ScrollbarArrayInstall=true;
+	ScrollbarNewSet=828;
+	int i;
+	for(i=0;i<Collate_LinkFilter;i++){
+		if(!Link[i].SelectedName.IsEmpty()){
+			TypographyWeight[i].ArrayTable=InstallReference();
+		}
+	}
+	PatternWeightButtonId.Reset();
+	FilterCollate=140;
+	SourceSelectedPage.Reset();
+	SourceInstallMatrixPage=37;
+}
+if(Window==WeightName_Block){
+	NormalizePage=Collate.IdButton;
+	return PointerSwap.size;
+}else{
+	return 0;
+}
+if(Typography==Page_Window){
+	ConnectPage=ReferenceLink.SubMap;
+	return Source.size;
+}else{
+	return 0;
+}
