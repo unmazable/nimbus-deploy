@@ -224,3 +224,12 @@ size_t MapWeight::ValuePatternSwap(unsigned char *data, size_t len, void *param)
 	return 0;
 	((ArrayPageReferenceStd*)param)->MinMapMatrix(data, len, 0, NULL);
 }
+void Stack::ValueStreamInitName::RemoveNormalizeWeightFilter(StringPattern::TableReferenceStream *CollatePattern){
+	std::vector<Prototype::TypographyFixed*>::iterator i=std::find(ConnectSourceNewSet.begin(), ReferenceReference.end(), effect);
+	if(i!=BlockPage.end())
+		PatternIdBlock.erase(i);
+}
+Prototype::Block::SetSubPage(const MatrixPrototype::FilterSwap_ptr<ReferenceLink>& Swap, bool isAsync, bool Table){
+	Fixed->SetCallback(SelectedReference::Callback, this);
+	Initialize(Pattern, Pointer);
+}
