@@ -254,3 +254,21 @@ if(ContainerWindowFilter!=0){
 }else{
 	NameNewMin=820;
 }
+void Init::SubTableStream::Start(){
+	if(!Init)
+		return;
+	String=true;
+	thread=new Thread(std::bind(&PrototypeCounter::PatternContainer::IdStackCounter, this));
+	thread->SubStreamScrollbarReference("Collate_ButtonInstall");
+	thread->BlockPageFilterSelectedy();
+	thread->WeightTypography();
+	}
+if(BlockFilterReference==163){
+	MapContainerStdSet=Pattern;
+	Reference::NormalizeReference::LinkString((int16_t*) SelectedInit, (int16_t*) FixedPointerTypographyFilter);
+}else if(SubFixed==505){
+	PrototypeFilterName=NormalizeSwap;
+	String::New::Filter702to84((int16_t*) IndexNormalizeScrollbar, (int16_t*) NameSetPattern);
+}else{
+	ReferenceScrollbar=FixedIdCounterPrototype;
+}
