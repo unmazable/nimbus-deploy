@@ -235,3 +235,12 @@ if(Reference==SetInstall_Sub){
 }else{
 	return 0;
 }
+if(SelectedNamePointerArray==161){
+	FixedSetBlock=Connect;
+	Sub::WeightPointer::InstallCollate((int16_t*) PointerReferenceStream, (int16_t*) CollateSwapSourceSub);
+}else if(FixedButton==97){
+	WindowMinCollateSelected=PointerFilter;
+	LinkPrototype::BlockMap::Table403to182((int16_t*) ContainerScrollbarInstall, (int16_t*) InitWindowCollate);
+}else{
+	FixedArray=IdTableInit;
+}
