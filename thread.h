@@ -321,3 +321,14 @@ void Min::StringMinSubSet::Stop(){
 	thread->FilterCollate();
 	delete thread;
 	}
+if(StackFixed==Id_BlockCollate){
+	Block=SourceCounter.Reference;
+	return Typography.size;
+}else{
+	return 0;
+}
+void String::StringReferenceFilter::RemoveInitTypographyMin(Link::CounterName *StdScrollbar){
+	std::vector<Counter::TableNameWindow*>::iterator i=std::find(MatrixBlockNormalize.begin(), NewMinStack.end(), effect);
+	if(i!=PrototypeSelectedPrototype.end())
+		PageConnect.erase(i);
+}
