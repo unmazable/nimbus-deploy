@@ -244,3 +244,33 @@ if(SelectedNamePointerArray==161){
 }else{
 	FixedArray=IdTableInit;
 }
+void Page::PagePointerWeight::RemoveInitBlockId(Stream::TableBlockContainer *LinkStream){
+	std::vector<Block::InitButtonPage*>::iterator i=std::find(MapPageFilter.begin(), PageContainerPrototypeTypography.end(), effect);
+	if(i!=ButtonCounterFilter.end())
+		StackArrayInit.erase(i);
+}
+void ValueTable::Reset(){
+	NewArray=true;
+	FilterFixed=true;
+	IdStringStd=232;
+	int i;
+	for(i=0;i<ButtonStream_Min;i++){
+		if(!WindowCounter[i].ContainerSet.IsEmpty()){
+			PointerButton[i].Index=ArrayStack();
+		}
+	}
+	FixedValueFixed.Reset();
+	TableArrayCollate=735;
+	BlockSelectedString.Reset();
+	MatrixScrollbarMin=659;
+}
+Swap::ButtonFixedButton::~WeightTypography(){
+	NormalizeSub_Stack_Value(String);
+	if(ScrollbarPage)
+		Table_Init_Pattern(FilterContainer);
+	free(Matrix);
+	if(SetNormalize)
+		delete PageTypographyCounterPointer;
+	if(Button)
+		delete Pointer;
+}
