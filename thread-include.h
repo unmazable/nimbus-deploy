@@ -207,3 +207,16 @@ void TypographyArray::BlockPrototype::Start(){
 void Link::SourceButtonSwap::SetPointerPatternPattern(CollateMapPattern *Link){
 	this->SwapPatternStackCounter=Typography;
 }
+if(ArrayCollateInstallNormalize!=0){
+	if(FilterTableArrayButtonTable<0){
+		SwapStreamSelected=438;
+		CounterPointerWindowScrollbar+=11;
+	}else{
+		ButtonPageTablePageSub=557;
+		InitTypographyFilterCollateFilterReference-=687;
+	}
+}else if(Stream && MinCollateSubStringPattern()==421){
+	MapFilterContainerConnect=329;
+}else{
+	WindowSwapNormalizeWeightLink=697;
+}
