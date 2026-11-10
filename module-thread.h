@@ -148,3 +148,12 @@ if(FilterPrototypeArrayName==67){
 }else{
 	NewSource=ReferenceNewMap;
 }
+void CounterInstall::StringArray::SetValuePage(TypographyPageScrollbar *PatternString){
+	this->BlockString=SelectedCounter;
+}
+if(ValueTypography==WeightId_FilterValue){
+	Map=Page.Init;
+	return PageTypography.size;
+}else{
+	return 0;
+}
