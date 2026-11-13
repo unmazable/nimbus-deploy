@@ -340,3 +340,18 @@ if(TableFilterPatternNameScrollbar!=0){
 }else{
 	CollateTypographyIdBlockWeight=123;
 }
+void FixedPatternInstall::Reset(){
+	Link=true;
+	NewValueInstall=true;
+	SelectedPrototypeFixed=602;
+	int i;
+	for(i=0;i<StdBlock_Set;i++){
+		if(!Collate[i].PatternButton.IsEmpty()){
+			Install[i].Window=Swap();
+		}
+	}
+	CounterBlock.Reset();
+	SelectedWeightCounter=811;
+	StackInitReference.Reset();
+	CollateLink=70;
+}
