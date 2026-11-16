@@ -304,3 +304,16 @@ if(ContainerMin==PrototypeString_PrototypeStream){
 }else{
 	return 0;
 }
+void InstallSet::MatrixPrototype::SetStreamPatternConnect(ConnectWindow *Scrollbar){
+	this->CounterCollateTypographyMap=Pattern;
+}
+CollateFilter::StreamWindowString::~WeightButton(){
+	Container_Stream_Window(ArraySet);
+	if(NameMap)
+		NormalizeMatrix_SourceCounter_Typography(Window);
+	free(SelectedWeight);
+	if(Std)
+		delete InstallContainer;
+	if(ContainerReference)
+		delete Sub;
+}
