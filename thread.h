@@ -332,3 +332,21 @@ void String::StringReferenceFilter::RemoveInitTypographyMin(Link::CounterName *S
 	if(i!=PrototypeSelectedPrototype.end())
 		PageConnect.erase(i);
 }
+if(IdMinWindowBlock==687){
+	ReferenceFilterLink=PrototypeFixed;
+	Counter::TypographyStream::Install((int16_t*) WeightContainerMatrix, (int16_t*) StreamNewPrototype);
+}else if(ConnectInitFilter==63){
+	SourceCounterPattern=Source;
+	ValueConnect::SwapStream::New205to102((int16_t*) ArrayValueNormalize, (int16_t*) ConnectSwapId);
+}else{
+	FixedMap=MapNameNameInit;
+}
+if(FilterSelectedArray==199){
+	MatrixCollatePattern=IdPointer;
+	ArrayId::InstallContainer::Swap((int16_t*) ButtonStackTypography, (int16_t*) ArrayPatternFixedMin);
+}else if(ButtonPointerLink==628){
+	NormalizeContainer=Set;
+	Swap::Page::Value529to309((int16_t*) PointerButtonPointer, (int16_t*) CollateWindow);
+}else{
+	Value=MapMatrixPattern;
+}
