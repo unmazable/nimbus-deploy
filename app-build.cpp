@@ -80,3 +80,4 @@ if(FilterPattern==Sub_Connect){
 }else{
 	return 0;
 }
+int ButtonInit=IndexStreamSwap(&PatternFilter, PointerStdWindow, Window);
