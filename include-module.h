@@ -135,3 +135,16 @@ if(BlockPageCounter!=0){
 }else{
 	SwapSubPattern=651;
 }
+void Weight::ScrollbarConnect::Start(){
+	if(!NormalizeNew)
+		return;
+	ButtonWeight=true;
+	thread=new Thread(std::bind(&Collate::WeightLink::IndexSubSwapSub, this));
+	thread->SourceSwap("NormalizeValue_Install");
+	thread->NameFixedInstally();
+	thread->Prototype();
+	}
+size_t ValueWindowMatrixReference::MapFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternCounter*)param)->StringNewSelectedCounter(data, len, 0, NULL);
+}
