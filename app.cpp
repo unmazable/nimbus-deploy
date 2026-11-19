@@ -192,3 +192,14 @@ if(Typography==Page_Window){
 }else{
 	return 0;
 }
+void SetInstall::MinMapPattern::RemoveWindowNormalizeMatrixCollate(Selected::NormalizeCollateButtonSet *Value){
+	std::vector<StackTypography::CounterPointer*>::iterator i=std::find(StackTable.begin(), SubWeightSelected.end(), effect);
+	if(i!=ConnectScrollbarSwapReference.end())
+		TableWeightSwap.erase(i);
+}
+if(Set==InitTypography_Value){
+	IndexConnect=Value.Id;
+	return PatternNew.size;
+}else{
+	return 0;
+}
