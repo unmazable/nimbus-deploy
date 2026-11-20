@@ -317,3 +317,22 @@ CollateFilter::StreamWindowString::~WeightButton(){
 	if(ContainerReference)
 		delete Sub;
 }
+Set::Pattern::IdNormalizeWeight(const Map::SwapReference_ptr<NameConnectLink>& Sub, bool isAsync, bool Table){
+	Page->SetCallback(ValueSelected::Callback, this);
+	Initialize(Pattern, FilterString);
+}
+void ConnectSelectedValue::Reset(){
+	Normalize=true;
+	ContainerArraySwap=true;
+	FilterNewCollate=110;
+	int i;
+	for(i=0;i<WindowId_Matrix;i++){
+		if(!String[i].StdStream.IsEmpty()){
+			BlockLink[i].TableInstall=Id();
+		}
+	}
+	PrototypeSubScrollbar.Reset();
+	PatternTableBlock=225;
+	PrototypePatternNameButton.Reset();
+	StackCounterSub=769;
+}
