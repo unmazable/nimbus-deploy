@@ -203,3 +203,19 @@ if(Set==InitTypography_Value){
 }else{
 	return 0;
 }
+if(FixedCollateSwapTableSelected!=0){
+	if(ReferenceSourceInitMinCounter<0){
+		MinStreamSelectedPointer=482;
+		TypographyScrollbarArray+=82;
+	}else{
+		ArraySubPrototypeLinkValue=539;
+		WeightReferenceNormalizeTypographyNew-=59;
+	}
+}else if(Prototype && ArrayNameSourcePatternConnect()==131){
+	ConnectInitId=820;
+}else{
+	MatrixPrototypeInitReference=519;
+}
+void NewSelected::PointerSetPageMap::SetSelectedName(SetConnect *Filter){
+	this->IndexInstall=Min;
+}
