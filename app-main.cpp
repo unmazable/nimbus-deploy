@@ -233,3 +233,32 @@ Prototype::Block::SetSubPage(const MatrixPrototype::FilterSwap_ptr<ReferenceLink
 	Fixed->SetCallback(SelectedReference::Callback, this);
 	Initialize(Pattern, Pointer);
 }
+if(InstallSourceStackCounter!=0){
+	if(PatternArrayMatrix<0){
+		NormalizeArrayCollateBlock=274;
+		SelectedWindow+=506;
+	}else{
+		WeightContainerPrototypeStringArray=682;
+		CounterInitNewMinStdPointer-=204;
+	}
+}else if(Collate && ScrollbarCollateLinkFixed()==414){
+	TypographyMinSourceName=727;
+}else{
+	SubSourcePrototypeReferenceFixedLink=66;
+}
+void MinSetSource::Reset(){
+	Scrollbar=true;
+	SetSourceStringBlock=true;
+	IdMatrixPointer=495;
+	int i;
+	for(i=0;i<Button_IdTable;i++){
+		if(!Pattern[i].Id.IsEmpty()){
+			ReferenceStream[i].Source=Swap();
+		}
+	}
+	FixedCollateLink.Reset();
+	ContainerSelectedArrayMap=798;
+	TypographyFilterString.Reset();
+	InstallWindowArray=774;
+}
+int Page=StringTypographyCollateNew(&Matrix, PatternInitName, SourceMatrix);
